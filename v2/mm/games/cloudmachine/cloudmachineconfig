@@ -1,0 +1,633 @@
+{
+    "maxLevelsPerCategory": 18,
+    "zoomInterval": 0.1,
+    "liquidSpeed": 4,
+    "notEnoughPercent": 0.95,
+    "minimumPuzzlesSolvedForCreatorTutorial": 3,
+    "version": "2.7.0",
+    "patchVersion": 0,
+    "categories": [
+        {
+            "id": 0,
+            "nameKey": "intro",
+            "worldPrefabName": "llamaPond"
+        },
+        {
+            "id": 1,
+            "nameKey": "categorySpringRain",
+            "worldPrefabName": "springRain"
+        },
+        {
+            "id": 2,
+            "nameKey": "categoryRiverbank",
+            "worldPrefabName": "blueLagoon"
+        },
+        {
+            "id": 3,
+            "nameKey": "categoryWateringHole",
+            "worldPrefabName": "wateringHole"
+        },
+        {
+            "id": 4,
+            "nameKey": "categoryLemonLimeOasis",
+            "worldPrefabName": "lemonadeOasis"
+        },
+        {
+            "id": 5,
+            "nameKey": "categoryPurpleRain",
+            "worldPrefabName": "frostyPeaks"
+        },
+        {
+            "id": 6,
+            "nameKey": "categoryPulley",
+            "worldPrefabName": "splashSafari"
+        },
+        {
+            "id": 7,
+            "nameKey": "categorySymbols",
+            "worldPrefabName": "steamCity"
+        },
+        {
+            "id": 200,
+            "nameKey": "categoryClassroom",
+            "worldPrefabName": "springWeekly"
+        }
+    ],
+    "levels": [
+        {
+            "id": "8269abaf-7e9d-4d27-9d41-10f1d22c58cb",
+            "levelNameKey": "levelOpenAGate",
+            "categoryId": 0
+        },
+        {
+            "id": "fb4ad7c2-ca84-4354-bd05-5aa0320b904a",
+            "levelNameKey": "levelYouFilledACloud",
+            "categoryId": 0
+        },
+        {
+            "id": "226854cd-cdb2-455a-a230-37fb8cfcc973",
+            "levelNameKey": "levelReadyForMore",
+            "categoryId": 0
+        },
+        {
+            "id": "68f0d1cc-2972-4d3d-9a32-55a14f78370c",
+            "levelNameKey": "levelIntroAlmostComplete",
+            "categoryId": 0
+        },
+        {
+            "id": "5504305d-8729-41a9-9e67-4eabf51c65e4",
+            "levelNameKey": "levelHalfOfFour",
+            "categoryId": 1
+        },
+        {
+            "id": "e2b1c03c-c1cb-49ca-ad48-0a0778369ede",
+            "levelNameKey": "levelWaterworks",
+            "categoryId": 1
+        },
+        {
+            "id": "46ffb177-ec91-470c-9331-4c2a9ac47e96",
+            "levelNameKey": "levelMeowMeow",
+            "categoryId": 1
+        },
+        {
+            "id": "ad74caa5-06d3-4422-a589-6e6fa1c4e36f",
+            "levelNameKey": "levelMirrorMatch",
+            "categoryId": 1
+        },
+        {
+            "id": "b14a0c67-8a09-4ca3-849f-324d1980d13d",
+            "levelNameKey": "levelRainmaker",
+            "categoryId": 1
+        },
+        {
+            "id": "5a4c0bf3-fdf5-4dc8-8601-7baa7120787d",
+            "levelNameKey": "levelPouringRain",
+            "categoryId": 1
+        },
+        {
+            "id": "ad1ca5ba-7dde-48b5-862c-5872a7330c9d",
+            "levelNameKey": "levelRaindrops",
+            "categoryId": 1
+        },
+        {
+            "id": "776bc100-4cef-4f44-9e5f-251e675943a6",
+            "levelNameKey": "levelThunderstorm",
+            "categoryId": 1
+        },
+        {
+            "id": "64064df0-d474-4a93-a98c-c1cdced98a45",
+            "levelNameKey": "levelLightningStrikes",
+            "categoryId": 1
+        },
+        {
+            "id": "79fedb70-3488-4c90-ad8c-886861bdea09",
+            "levelNameKey": "levelCloudCloud",
+            "categoryId": 1
+        },
+        {
+            "id": "0ab1f01f-4d22-4db8-92d7-d89fe97f76c1",
+            "levelNameKey": "levelFourSeasons",
+            "categoryId": 1
+        },
+        {
+            "id": "ea2868ca-a9a8-4b39-869e-aa1d470c3c96",
+            "levelNameKey": "levelWinkingFrog",
+            "categoryId": 1
+        },
+        {
+            "id": "3b6814b9-fced-4943-8df7-92b2f5a3e413",
+            "levelNameKey": "levelClover",
+            "categoryId": 1
+        },
+        {
+            "id": "323e56e3-ccea-46e8-a4f5-fa51a280c071",
+            "levelNameKey": "levelMixItUp",
+            "categoryId": 2
+        },
+        {
+            "id": "8f33a48a-5697-4693-90b5-e5be4d51ffc4",
+            "levelNameKey": "levelTwoWays",
+            "categoryId": 2
+        },
+        {
+            "id": "e65e942a-56f5-45b8-8a13-2bb667634ba7",
+            "levelNameKey": "levelSwampThing",
+            "categoryId": 2
+        },
+        {
+            "id": "036ffdec-ce2d-4f90-b52f-57933e30bf9f",
+            "levelNameKey": "levelAntlers",
+            "categoryId": 2
+        },
+        {
+            "id": "8b45968c-3d26-4116-b6b0-c1d6d5428434",
+            "levelNameKey": "levelSplitTheSky",
+            "categoryId": 2
+        },
+        {
+            "id": "64c61ce3-aeb2-4eb5-83b7-d0aefcd37fd3",
+            "levelNameKey": "levelDoubleScoop",
+            "categoryId": 2
+        },
+        {
+            "id": "94c78988-7ac0-4227-92fe-b7c495f56816",
+            "levelNameKey": "levelPaintTheSky",
+            "categoryId": 2
+        },
+        {
+            "id": "b0d93744-4963-4621-a3ff-e6628abe578a",
+            "levelNameKey": "levelFistOfWind",
+            "categoryId": 2
+        },
+        {
+            "id": "991dbd39-2040-448c-b71d-ce9a9fc6a5d2",
+            "levelNameKey": "levelSkyTurtle",
+            "categoryId": 2
+        },
+        {
+            "id": "48bd63d2-ed9c-46e5-a5db-2c002480eab7",
+            "levelNameKey": "levelSkyCamel",
+            "categoryId": 2
+        },
+        {
+            "id": "c386e949-048b-445b-9c1c-1fe489dfa061",
+            "levelNameKey": "levelLobster",
+            "categoryId": 2
+        },
+        {
+            "id": "8d782314-b115-46cd-ba9e-448e9d9d429a",
+            "levelNameKey": "levelLlama",
+            "categoryId": 3
+        },
+        {
+            "id": "735258b4-400a-4f3f-9e3d-125a2f5d43ee",
+            "levelNameKey": "levelMallard",
+            "categoryId": 3
+        },
+        {
+            "id": "ccb2d9e7-ecf9-4624-bdc4-6c2b1401316d",
+            "levelNameKey": "levelThumbsUp",
+            "categoryId": 3
+        },
+        {
+            "id": "da21cb80-fc74-4261-a1a8-4a930569afdd",
+            "levelNameKey": "levelNestEggs",
+            "categoryId": 3
+        },
+        {
+            "id": "2e6fedba-5986-4f1d-830c-7177ff427672",
+            "levelNameKey": "levelTicTacToe",
+            "categoryId": 3
+        },
+        {
+            "id": "71d7720e-679b-48fc-9965-37497e1bcc1c",
+            "levelNameKey": "levelHorse",
+            "categoryId": 3
+        },
+        {
+            "id": "97d73548-868b-4fb5-bc0c-58024b4725f8",
+            "levelNameKey": "levelZebra",
+            "categoryId": 3
+        },
+        {
+            "id": "c4ac3c60-9987-40e1-97d9-443597300818",
+            "levelNameKey": "levelTwoGorillas",
+            "categoryId": 3
+        },
+        {
+            "id": "cee84917-bfa9-43ca-b596-d72affe7127d",
+            "levelNameKey": "levelThreeClaws",
+            "categoryId": 3
+        },
+        {
+            "id": "be5ca9ba-fcba-4492-927f-894653e5911e",
+            "levelNameKey": "levelLeftClaw",
+            "categoryId": 3
+        },
+        {
+            "id": "9c0cbd6d-27ca-41bc-92df-510bc3ce0389",
+            "levelNameKey": "levelMiddleClaw",
+            "categoryId": 3
+        },
+        {
+            "id": "eea4d165-3d20-46e0-b8a7-fb43e468e39a",
+            "levelNameKey": "levelDoubleTheFunnel",
+            "categoryId": 3
+        },
+        {
+            "id": "498ecc60-98bc-44d5-a56d-6a58f8f0b34d",
+            "levelNameKey": "levelTheCrown",
+            "categoryId": 3
+        },
+        {
+            "id": "aa9ca968-7d90-42c0-bf91-3d24ca2b3f66",
+            "levelNameKey": "levelCrabDown",
+            "categoryId": 3
+        },
+        {
+            "id": "dddcea7c-fd6a-46a7-9ead-e363347f77d5",
+            "levelNameKey": "levelCrabUp",
+            "categoryId": 3
+        },
+        {
+            "id": "bda9001f-a283-4815-9700-1003fd489aea",
+            "levelNameKey": "levelDoubleBloom",
+            "categoryId": 3
+        },
+        {
+            "id": "74076b09-4892-4a88-88df-30f3bd8c3d17",
+            "levelNameKey": "levelBigBloom",
+            "categoryId": 3
+        },
+        {
+            "id": "f416a74c-0c1e-432e-b54a-317321d87f63",
+            "levelNameKey": "levelCrocodileTear",
+            "categoryId": 3
+        },
+        {
+            "id": "0c46489f-648e-4338-9617-e963b6aa246d",
+            "levelNameKey": "levelStratus",
+            "categoryId": 4
+        },
+        {
+            "id": "64b74145-58c6-4652-a9af-6d6b5fbc0d70",
+            "levelNameKey": "levelLimesInTheMiddle",
+            "categoryId": 4
+        },
+        {
+            "id": "691782bb-1771-41d1-a3fc-a4302abba1e0",
+            "levelNameKey": "levelMoth",
+            "categoryId": 4
+        },
+        {
+            "id": "b9a3b649-828c-4d3b-b595-76143ae954bc",
+            "levelNameKey": "levelLilParrot",
+            "categoryId": 4
+        },
+        {
+            "id": "121501b8-8986-4197-a63a-cc6538f955f4",
+            "levelNameKey": "levelParrotFamily",
+            "categoryId": 4
+        },
+        {
+            "id": "0dde7f5c-864b-443c-bfb3-83e817bfd296",
+            "levelNameKey": "levelMyTwoLimes",
+            "categoryId": 4
+        },
+        {
+            "id": "a7b0f154-a5b0-43c1-89ed-f484d925be10",
+            "levelNameKey": "levelBabySnakes",
+            "categoryId": 4
+        },
+        {
+            "id": "766a80cd-0047-4af0-acf0-420a590e2374",
+            "levelNameKey": "levelSnakeSquad",
+            "categoryId": 4
+        },
+        {
+            "id": "779d6b56-ce2e-418f-a184-f648c55a3bf4",
+            "levelNameKey": "levelFamilyPhoto",
+            "categoryId": 4
+        },
+        {
+            "id": "4e34d941-5b53-4619-b152-e899fab746d8",
+            "levelNameKey": "levelEagleSoar",
+            "categoryId": 4
+        },
+        {
+            "id": "69431986-a864-418c-a72d-aca64d6f0c08",
+            "levelNameKey": "levelGreenSteps",
+            "categoryId": 4
+        },
+        {
+            "id": "df346ed2-e817-4283-b7d1-9b1267ac4a68",
+            "levelNameKey": "levelElephantParty",
+            "categoryId": 4
+        },
+        {
+            "id": "84865421-1f17-44dd-b27c-ec6d55200626",
+            "levelNameKey": "levelHuntingHawk",
+            "categoryId": 4
+        },
+        {
+            "id": "88da5103-2ef0-4ef1-9381-2ce83ce58e28",
+            "levelNameKey": "levelLimeTime",
+            "categoryId": 4
+        },
+        {
+            "id": "42b539b6-d82e-4677-b626-4a66411ade8f",
+            "levelNameKey": "levelSplashOfGreen",
+            "categoryId": 4
+        },
+        {
+            "id": "36503207-d5c9-413a-a51f-938138129bfd",
+            "levelNameKey": "levelGreenNimbus",
+            "categoryId": 4
+        },
+        {
+            "id": "b2e7ae52-4a66-4fe4-a1e2-7cbc520e56d5",
+            "levelNameKey": "levelSkyscaper",
+            "categoryId": 4
+        },
+        {
+            "id": "5673f2cb-766f-4240-8d78-b4d6b1c98367",
+            "levelNameKey": "levelVexing",
+            "categoryId": 4
+        },
+        {
+            "id": "ceb7d0bd-3aad-4fee-a0ac-0d827aa7cc30",
+            "levelNameKey": "levelMustMix",
+            "categoryId": 5
+        },
+        {
+            "id": "16d115d2-5dbd-47c0-a237-207a55983176",
+            "levelNameKey": "levelTwoCan",
+            "categoryId": 5
+        },
+        {
+            "id": "3d17b381-ac08-4efd-ab8d-11e2a93938f1",
+            "levelNameKey": "levelButterfly",
+            "categoryId": 5
+        },
+        {
+            "id": "1940896c-9c48-4212-a04a-f0d075f2ebf1",
+            "levelNameKey": "levelIsThisReal",
+            "categoryId": 5
+        },
+        {
+            "id": "9739cf85-7132-41e6-aab5-63461fea0bfc",
+            "levelNameKey": "levelYesItIs",
+            "categoryId": 5
+        },
+        {
+            "id": "75df586b-e9bb-466a-8727-704ee97e5a7d",
+            "levelNameKey": "levelOnlyHalf",
+            "categoryId": 5
+        },
+        {
+            "id": "e7eebbe5-2ccf-4616-9456-4ba85b20be74",
+            "levelNameKey": "levelSkyfall",
+            "categoryId": 5
+        },
+        {
+            "id": "517f33fe-2a11-4a06-91e8-9b7ce65a6060",
+            "levelNameKey": "levelCloudControl",
+            "categoryId": 5
+        },
+        {
+            "id": "c0bb11ec-ae9c-4060-9d94-0d6367c365de",
+            "levelNameKey": "levelLeftAndRight",
+            "categoryId": 5
+        },
+        {
+            "id": "1d60eb2c-82f0-4fc3-8117-5d0bde6afb30",
+            "levelNameKey": "levelMeetInTheMiddle",
+            "categoryId": 5
+        },
+        {
+            "id": "74c8de0a-89e6-4f6f-ad34-6ba0f78ef7a5",
+            "levelNameKey": "levelPrecipitationStation",
+            "categoryId": 5
+        },
+        {
+            "id": "5625be29-a0a3-482d-b59e-7307295647ef",
+            "levelNameKey": "levelRhymesWithPurple",
+            "categoryId": 5
+        },
+        {
+            "id": "afd7698e-d75f-4fc3-ba93-adbb0ca3b3ba",
+            "levelNameKey": "levelCumulonimbus",
+            "categoryId": 5
+        },
+        {
+            "id": "03f89489-5a93-4a8d-bd8b-5f7196bc28e3",
+            "levelNameKey": "levelCloudCreator",
+            "categoryId": 5
+        },
+        {
+            "id": "d317a7f7-8766-4c9f-ac6b-be701cb16f04",
+            "levelNameKey": "levelPullTheHandle",
+            "categoryId": 6
+        },
+        {
+            "id": "3c53bae9-c0b3-4ee0-8040-ee0fdbea0052",
+            "levelNameKey": "levelPullAllTheHandles",
+            "categoryId": 6
+        },
+        {
+            "id": "4af1355a-70dd-451b-a114-1c5d3c351bf6",
+            "levelNameKey": "levelPeaksAndValleys",
+            "categoryId": 6
+        },
+        {
+            "id": "9e0b59b2-a19f-4809-9479-beecaf9d0bba",
+            "levelNameKey": "levelPurplePartitionMaker",
+            "categoryId": 6
+        },
+        {
+            "id": "53a487d6-3de3-475e-bf6a-fdaa5b7b45ca",
+            "levelNameKey": "levelFlipFlop",
+            "categoryId": 6
+        },
+        {
+            "id": "0073716f-9a03-4493-98cc-ceed2a794d4b",
+            "levelNameKey": "levelStandUpLieDown",
+            "categoryId": 6
+        },
+        {
+            "id": "2cba490f-584b-4bf2-a473-51629efbfe8f",
+            "levelNameKey": "levelHalfandHalf",
+            "categoryId": 6
+        },
+        {
+            "id": "0a70eb6a-809e-4c83-af63-2c2e64df9ffe",
+            "levelNameKey": "levelHeartbreak",
+            "categoryId": 6
+        },
+        {
+            "id": "a3ba3a3c-4324-4299-a598-12fac400db47",
+            "levelNameKey": "level!!!",
+            "categoryId": 6
+        },
+        {
+            "id": "69a6b34c-42f2-4d6e-974e-20e8b73603d7",
+            "levelNameKey": "levelFunnyBunny",
+            "categoryId": 6
+        },
+        {
+            "id": "fba45105-191d-4e0e-91b3-35648ea9dd69",
+            "levelNameKey": "levelLetsMakePurple",
+            "categoryId": 6
+        },
+        {
+            "id": "0e8652a8-aed3-4f00-8253-f7a6bfaefa8f",
+            "levelNameKey": "levelMixDown",
+            "categoryId": 6
+        },
+        {
+            "id": "aba365ee-9a20-4100-80d0-248a9414ed17",
+            "levelNameKey": "levelTripleMixDown",
+            "categoryId": 6
+        },
+        {
+            "id": "668a5879-6e9c-4c64-b988-cbf901bd1830",
+            "levelNameKey": "levelCloudCascade",
+            "categoryId": 6
+        },
+        {
+            "id": "8679cb66-17c5-4629-8786-a22f7213f1bb",
+            "levelNameKey": "levelBigFishLittleFish",
+            "categoryId": 6
+        },
+        {
+            "id": "f0dc89b7-469e-41be-aa4b-66888cc163af",
+            "levelNameKey": "levelTiltAWhirl",
+            "categoryId": 6
+        },
+        {
+            "id": "82467224-beef-4ec6-9d67-a550090d67af",
+            "levelNameKey": "levelTheChamp",
+            "categoryId": 6
+        },
+        {
+            "id": "6daf36f2-797d-4b9a-8e1a-8f64d74fab9a",
+            "levelNameKey": "levelLogRide",
+            "categoryId": 6
+        },
+        {
+            "id": "b113d2cd-8412-435f-b7a1-e977226f2645",
+            "levelNameKey": "levelClicktheButtons",
+            "categoryId": 7
+        },
+        {
+            "id": "92173425-70c4-4a34-8c5e-31d7c468f249",
+            "levelNameKey": "levelButtonsonBottom",
+            "categoryId": 7
+        },
+        {
+            "id": "c198e612-000a-4eef-a633-5121c96be2a3",
+            "levelNameKey": "levelUpDownDownUp",
+            "categoryId": 7
+        },
+        {
+            "id": "13854387-57a5-49aa-8ac4-b054e2627f4a",
+            "levelNameKey": "levelBigDrops",
+            "categoryId": 7
+        },
+        {
+            "id": "290a102a-a574-421d-aa64-c82db69556a9",
+            "levelNameKey": "levelZigZag",
+            "categoryId": 7
+        },
+        {
+            "id": "bc816d91-0783-437c-960b-9618ea9df68e",
+            "levelNameKey": "levelIcebreaker",
+            "categoryId": 7
+        },
+        {
+            "id": "8423908e-c5cb-420c-8441-3bd38efe8917",
+            "levelNameKey": "levelGoldilocks",
+            "categoryId": 7
+        },
+        {
+            "id": "82e2b173-d1f0-47cf-9df6-06036db80f67",
+            "levelNameKey": "levelRolltheIce",
+            "categoryId": 7
+        },
+        {
+            "id": "2f9540bd-c787-4827-beb3-ae626c5f426e",
+            "levelNameKey": "levelIcicles",
+            "categoryId": 7
+        },
+        {
+            "id": "220199c8-d9f8-47d7-b52c-1f36409cb46f",
+            "levelNameKey": "levelReflection",
+            "categoryId": 7
+        },
+        {
+            "id": "fbbd8a2d-944b-4d49-80b0-9f4cedb0befb",
+            "levelNameKey": "levelWindmills",
+            "categoryId": 7
+        },
+        {
+            "id": "f61dcaa9-03d9-4c6a-b179-f4e62ab61323",
+            "levelNameKey": "levelBrainDrain",
+            "categoryId": 7
+        },
+        {
+            "id": "3503250b-1612-4fa9-8bba-72ba4ae44575",
+            "levelNameKey": "levelWatercolors",
+            "categoryId": 7
+        },
+        {
+            "id": "8021bebf-a335-460d-b681-0bc447c8d897",
+            "levelNameKey": "levelHalftime",
+            "categoryId": 7
+        },
+        {
+            "id": "f4fd553f-5516-49cb-912f-73f1fd71772b",
+            "levelNameKey": "levelPumpItUp",
+            "categoryId": 7
+        },
+        {
+            "id": "d78dc1b6-e5b4-480b-8080-7b6c81798220",
+            "levelNameKey": "levelDropandMix",
+            "categoryId": 7
+        },
+        {
+            "id": "f1552223-089b-47dc-9447-97bbc13ddd5c",
+            "levelNameKey": "levelSecretIngredient",
+            "categoryId": 7
+        },
+        {
+            "id": "c81d2a6b-c09b-457d-8e43-1529d611faa2",
+            "levelNameKey": "levelDropandRemix",
+            "categoryId": 7
+        }
+    ],
+    "features": [
+        {
+            "name": "puzzleCreator"
+        }
+    ]
+}

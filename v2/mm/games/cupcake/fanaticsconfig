@@ -1,0 +1,36 @@
+{
+    "complaintStrings": [
+        "fanaticWhere",
+        "fanaticHave",
+        "fanaticDont",
+        "fanaticUgh",
+        "fanaticBadReview",
+        "fanaticWhatKind",
+        "fanaticBut",
+        "fanaticOnly",
+        "fanaticExplode"
+    ],
+    "happyStrings": [
+        "fanaticHappyDoAnything",
+        "fanaticHappyYum",
+        "fanaticHappyAmazing",
+        "fanaticHappyLove",
+        "fanaticHappyEatAnything",
+        "fanaticHappyHappyPlace",
+        "fanaticHappyYummy",
+        "fanaticHappyOMG",
+        "fanaticHappyHappiest",
+        "fanaticHappyThankYou"
+    ],
+    "sadStrings": [
+        "fanaticSadRanOut",
+        "fanaticSadPreferred",
+        "fanaticSadGuess",
+        "fanaticSadElse",
+        "fanaticSadBoo",
+        "fanaticSadErr"
+    ],
+    "numOrdersPerWave": 10,
+    "version": "4.16.0",
+    "patchVersion": 0
+}

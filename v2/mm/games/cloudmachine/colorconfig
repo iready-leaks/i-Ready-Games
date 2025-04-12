@@ -1,0 +1,110 @@
+{
+    "colors": [
+        {
+            "id": 0,
+            "displayName": "blue",
+            "color": "#01E0FF",
+            "colorSecondary": "#23EFFF"
+        },
+        {
+            "id": 1,
+            "displayName": "orange",
+            "color": "#ffb341",
+            "colorSecondary": "#ffe370"
+        },
+        {
+            "id": 2,
+            "displayName": "mixedBrown",
+            "color": "#87461b",
+            "colorSecondary": "#d08827"
+        },
+        {
+            "id": 3,
+            "displayName": "pink",
+            "color": "#FF86F4",
+            "colorSecondary": "#ffa4f0"
+        },
+        {
+            "id": 4,
+            "displayName": "mixedPurple",
+            "color": "#b213f4",
+            "colorSecondary": "#CB42FF"
+        },
+        {
+            "id": 5,
+            "displayName": "yellow",
+            "color": "#feff2a",
+            "colorSecondary": "#F7FFAA"
+        },
+        {
+            "id": 6,
+            "displayName": "green",
+            "color": "#B8FF94",
+            "colorSecondary": "#F4FF99"
+        },
+        {
+            "id": 7,
+            "displayName": "dark blue",
+            "color": "#0036e0",
+            "colorSecondary": "#0064e0"
+        },
+        {
+            "id": 8,
+            "displayName": "cream",
+            "color": "#fff4c0",
+            "colorSecondary": "#fcffee"
+        },
+        {
+            "id": 9,
+            "displayName": "mixedBlue",
+            "color": "#01E0FF",
+            "colorSecondary": "#23EFFF"
+        },
+        {
+            "id": 10,
+            "displayName": "purple",
+            "color": "#b213f4",
+            "colorSecondary": "#CB42FF"
+        },
+        {
+            "id": 11,
+            "displayName": "teal",
+            "color": "#36d7cf",
+            "colorSecondary": "#5ae3dc"
+        },
+        {
+            "id": 12,
+            "displayName": "mixedTeal",
+            "color": "#36d7cf",
+            "colorSecondary": "#5ae3dc"
+        }
+    ],
+    "colorSets": [
+        {
+            "id": 0,
+            "componentColor1": 3,
+            "componentColor2": 0,
+            "mixedColor": 4
+        },
+        {
+            "id": 1,
+            "componentColor1": 1,
+            "componentColor2": 0,
+            "mixedColor": 2
+        },
+        {
+            "id": 2,
+            "componentColor1": 7,
+            "componentColor2": 8,
+            "mixedColor": 9
+        },
+        {
+            "id": 3,
+            "componentColor1": 6,
+            "componentColor2": 7,
+            "mixedColor": 12
+        }
+    ],
+    "version": "2.7.0",
+    "patchVersion": 0
+}

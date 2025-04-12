@@ -1,0 +1,236 @@
+{
+    "version": "2.11.0",
+    "patchVersion": 0,
+    "bounceStrings": [
+        {
+            "key": "tutorialHoldLeft",
+            "english": "Hold the left arrow key on the keyboard.",
+            "spanish": "Presiona la flecha izquierda en el teclado."
+        },
+        {
+            "key": "tutorialHoldRight",
+            "english": "Hold the right arrow key.",
+            "spanish": "Presiona la tecla de la flecha derecha."
+        },
+        {
+            "key": "tutorialTiltLeft",
+            "english": "Tilt your device to the left.",
+            "spanish": "Inclina tu dispositivo a la izquierda."
+        },
+        {
+            "key": "tutorialTiltRight",
+            "english": "Tilt the device to the right.",
+            "spanish": "Inclina tu dispositivo a la derecha."
+        },
+        {
+            "key": "tutorialComplete",
+            "english": "Tutorial Complete!",
+            "spanish": "¡Completaste el tutorial!"
+        },
+        {
+            "key": "categoryCountingNumbers",
+            "english": "Counting Numbers",
+            "spanish": "Números para contar"
+        },
+        {
+            "key": "categoryFractions",
+            "english": "Fractions",
+            "spanish": "Fracciones"
+        },
+        {
+            "key": "categoryPercentages",
+            "english": "Percentages",
+            "spanish": "Porcentajes"
+        },
+        {
+            "key": "categoryDecimals",
+            "english": "Decimals",
+            "spanish": "Números decimales"
+        },
+        {
+            "key": "categoryPieCharts",
+            "english": "Pie Charts",
+            "spanish": "Gráficas circulares"
+        },
+        {
+            "key": "categoryFractionsFiesta",
+            "english": "Fractions Fiesta",
+            "spanish": "Fiesta de fracciones"
+        },
+        {
+            "key": "categoryNegatives",
+            "english": "Negatives",
+            "spanish": "Números negativos"
+        },
+        {
+            "key": "setProgress",
+            "english": "Your highest level",
+            "spanish": "Tu mejor nivel"
+        },
+        {
+            "key": "level1to5",
+            "english": "1 to 5",
+            "spanish": "1 a 5"
+        },
+        {
+            "key": "level1to10",
+            "english": "1 to 10",
+            "spanish": "1 a 10"
+        },
+        {
+            "key": "level0to20",
+            "english": "0 to 20",
+            "spanish": "0 a 20"
+        },
+        {
+            "key": "level0to100",
+            "english": "0 to 100",
+            "spanish": "0 a 100"
+        },
+        {
+            "key": "level0to1000",
+            "english": "0 to 1000",
+            "spanish": "0 a 1000"
+        },
+        {
+            "key": "level0to10000",
+            "english": "0 to 10,000",
+            "spanish": "0 a 10,000"
+        },
+        {
+            "key": "levelIntroFractions",
+            "english": "Intro - Unit Fractions",
+            "spanish": "Introducción: Fracciones unitarias"
+        },
+        {
+            "key": "levelIntro",
+            "english": "Intro",
+            "spanish": "Introducción"
+        },
+        {
+            "key": "levelMedium",
+            "english": "Medium",
+            "spanish": "Intermedio"
+        },
+        {
+            "key": "levelAdvanced",
+            "english": "Advanced",
+            "spanish": "Avanzado"
+        },
+        {
+            "key": "levelImpossible",
+            "english": "Impossible",
+            "spanish": "Imposible"
+        },
+        {
+            "key": "levelWinBanner",
+            "english": "New Record!",
+            "spanish": "¡Nuevo récord!"
+        },
+        {
+            "key": "levelWinDescription",
+            "english": "You completed",
+            "spanish": "Completaste"
+        },
+        {
+            "key": "winStringSoar",
+            "english": "Look at you soar!",
+            "spanish": "¡Mira cómo subes!"
+        },
+        {
+            "key": "winStringFlew",
+            "english": "You flew right through those problems!",
+            "spanish": "¡Resolviste los problemas muy rápido!"
+        },
+        {
+            "key": "winStringBounced",
+            "english": "You bounced all the way home!",
+            "spanish": "¡Rebotaste hasta la meta!"
+        },
+        {
+            "key": "winStringLeap",
+            "english": "That's one giant leap for monkey-kind!",
+            "spanish": "¡Es un logro gigante!"
+        },
+        {
+            "key": "winStringBounce",
+            "english": "Bounce, bounce, bounce, bounce!",
+            "spanish": "¡Rebota, rebota, rebota y vuelve a rebotar!"
+        },
+        {
+            "key": "winStringHome",
+            "english": "Home is where the monkey is!",
+            "spanish": "¡Ahora, el mono está en la meta!"
+        },
+        {
+            "key": "winStringBanana",
+            "english": "Banana-na-na-na-na you're home!",
+            "spanish": "¡Banana completa, estás en la meta!"
+        },
+        {
+            "key": "winStringBusiness",
+            "english": "No monkey business! You made it home!",
+            "spanish": "¡Sin trampas! ¡Llegaste a la meta!"
+        },
+        {
+            "key": "loseStringPrefix",
+            "english": "You got",
+            "spanish": "Completaste"
+        },
+        {
+            "key": "loseStringSuffix",
+            "english": "of the way home",
+            "spanish": "del camino que lleva a la meta"
+        },
+        {
+            "key": "comparisonLess",
+            "english": "less",
+            "spanish": "menos"
+        },
+        {
+            "key": "comparisonMore",
+            "english": "more",
+            "spanish": "más"
+        },
+        {
+            "key": "comparisonEquals",
+            "english": "equals",
+            "spanish": "es igual a"
+        },
+        {
+            "key": "levelNewLine",
+            "english": "NEW NUMBER LINE!",
+            "spanish": "¡OTRA RECTA NUMÉRICA!"
+        },
+        {
+            "key": "levelNewLevel",
+            "english": "Level",
+            "spanish": "Nivel"
+        },
+        {
+            "key": "buttonGotIt",
+            "english": "OK",
+            "spanish": "OK"
+        },
+        {
+            "key": "pauseTitle",
+            "english": "Game Paused",
+            "spanish": "Juego detenido"
+        },
+        {
+            "key": "pauseDescription",
+            "english": "<Category>: <Mode>, <Level>",
+            "spanish": "<Category>: <Mode>, <Level>"
+        },
+        {
+            "key": "quitTitle",
+            "english": "Are you sure you want to quit?",
+            "spanish": "¿Estás seguro de que quieres salir del juego?"
+        },
+        {
+            "key": "quitConfirmation",
+            "english": "You will have to start from Level 1 next time you play.",
+            "spanish": "La próxima vez que juegues, debes empezar en el Nivel 1."
+        }
+    ]
+}

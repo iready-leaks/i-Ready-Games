@@ -1,0 +1,571 @@
+{
+    "version": "3.22.0",
+    "patchVersion": 0,
+    "pizzaStrings": [
+        {
+            "key": "tutorialStart",
+            "english": "Hi there!\n\nSo you're opening a pizzeria?\n\nHere's ${$cash} to get you started!",
+            "spanish": "¡Hola!\n\n¿Así que vas a abrir una pizzería?\n\n¡Aquí tienes ${$cash} para empezar!"
+        },
+        {
+            "key": "tutorialIngredients",
+            "english": "Great!\n\nNow you can go buy some ingredients at the market.",
+            "spanish": "¡Genial!\n\nAhora puedes ir a comprar algunos ingredientes al mercado."
+        },
+        {
+            "key": "tutorialMarket",
+            "english": "The market is where you will stock up on supplies and find new ingredients as you progress.",
+            "spanish": "El mercado es el lugar donde te abastecerás de ingredientes y encontrarás nuevos ingredientes a medida que avanzas."
+        },
+        {
+            "key": "tutorialAfterMarket",
+            "english": "Now that you have some ingredients, you can head to the kitchen to create your first pizza!",
+            "spanish": "Ahora que tienes algunos ingredientes, ¡puedes ir a la cocina para crear tu primera pizza!"
+        },
+        {
+            "key": "tutorialKitchen",
+            "english": "Now name your pizza.\n\nPress the 'Enter' key when you're done.",
+            "spanish": "Ahora ponle nombre a tu pizza.\n\nPresiona la tecla 'Enter' cuando hayas terminado."
+        },
+        {
+            "key": "tutorialKitchenTouch",
+            "english": "Now name your pizza.",
+            "spanish": "Ahora ponle nombre a tu pizza."
+        },
+        {
+            "key": "tutorialPrice",
+            "english": "Great! Now price your pizza.\n\nIts ingredients cost {$pizzaCostStr}.",
+            "spanish": "¡Genial! Ahora ponle precio a tu pizza.\n\nSus ingredientes cuestan {$pizzaCostStr}."
+        },
+        {
+            "key": "tutorialSell",
+            "english": "Click here to sell your pizza.",
+            "spanish": "Elige aquí para vender tu pizza."
+        },
+        {
+            "key": "tutorialReadyToSell",
+            "english": "You're ready to sell!",
+            "spanish": "¡Estás listo para vender!"
+        },
+        {
+            "key": "tutorialFirstCustomer",
+            "english": "Your first customer! Let's get their order.",
+            "spanish": "¡Tu primer cliente! Vamos a tomar su orden."
+        },
+        {
+            "key": "tutorialCashRegister",
+            "english": "Use the cash register to enter the total price of the order...(Hint: {$answer})",
+            "spanish": "Usa la caja registradora para escribir el precio total del pedido...(Hint: {$answer})"
+        },
+        {
+            "key": "tutorialTapPizza",
+            "english": "Nice. Now tap the pizza to get it to your customer.",
+            "spanish": "Bien. Ahora toca en la pizza para dársela al cliente."
+        },
+        {
+            "key": "tutorialNextCustomer",
+            "english": "Select your next customer.",
+            "spanish": "Selecciona tu siguiente cliente."
+        },
+        {
+            "key": "tutorialOrderPrice",
+            "english": "Enter the price of the order...",
+            "spanish": "Escribe el precio de la orden..."
+        },
+        {
+            "key": "tutorialAfterFirstDay",
+            "english": "Remember to create new pizzas in the kitchen.\n\nYour customers will appreciate it! \n\nGood luck!",
+            "spanish": "No olvides crear nuevas pizzas en la cocina.\n\n¡Tus clientes lo apreciarán!\n\n¡Buena suerte!"
+        },
+        {
+            "key": "tutorialNewIngredient",
+            "english": "You unlocked a new ingredient!",
+            "spanish": "¡Has desbloqueado un nuevo ingrediente!"
+        },
+        {
+            "key": "tutorialNewVendor",
+            "english": "Look! A new stand opened up at the market. Shop around to find the best price.",
+            "spanish": "¡Mira! Un nuevo puesto está abierto en el mercado. Compara precios para encontrar el mejor."
+        },
+        {
+            "key": "tutorialUpgrades",
+            "english": "You can buy upgrades here.\n\nThey will bring more customers to your pizzeria!",
+            "spanish": "Puedes comprar mejoras aquí.\n\n¡Traerán más clientes a tu pizzería!"
+        },
+        {
+            "key": "tutorialUnderpriced",
+            "english": "Uh oh, looks like you’re losing money! Try changing the price of your pizzas…",
+            "spanish": "¡Vaya, parece que estás perdiendo dinero! Intenta cambiar el precio de tus pizzas..."
+        },
+        {
+            "key": "tutorialUnderpricedPizzaKitchen",
+            "english": "The “Price” of your pizzas should be MORE than the “Cost of Ingredients”.",
+            "spanish": "El \"precio\" de tus pizzas debe ser MAYOR que el \"costo de los ingredientes\"."
+        },
+        {
+            "key": "tutorialKeyboard",
+            "english": "Did you know you can use the keyboard to complete orders? Try it with a customer!",
+            "spanish": "¿Sabías que puedes usar el teclado para completar las órdenes? ¡Inténtalo con un cliente!"
+        },
+        {
+            "key": "tutorialKeyboardNumbers",
+            "english": "Use the numbers on your keyboard to enter the price.",
+            "spanish": "Usa los números de tu teclado para escribir el precio."
+        },
+        {
+            "key": "tutorialKeyboardEnter",
+            "english": "Press the Enter key to deliver pizzas to customers.",
+            "spanish": "Presiona la tecla \"Enter\" para entregar las pizzas a los clientes."
+        },
+        {
+            "key": "tutorialAddPizza",
+            "english": "Click here to add another pizza to the menu.",
+            "spanish": "Elige aquí para agregar otra pizza al menú."
+        },
+        {
+            "key": "tutorialLosingMoney",
+            "english": "You're losing money!\n\nPrice your pizzas higher than the cost of ingredients, but not so high your customers complain...",
+            "spanish": "¡Estás perdiendo dinero! \n\nPonle a tus pizzas un precio más alto que el costo de los ingredientes, pero no tan alto que tus clientes se quejen…"
+        },
+        {
+            "key": "avatarSelectTitle",
+            "english": "Okay! Who do you want to be?",
+            "spanish": "¡Muy bien! ¿Quién quieres ser?"
+        },
+        {
+            "key": "avatarSelectConfirm",
+            "english": "That's me!",
+            "spanish": "¡Ese soy yo!"
+        },
+        {
+            "key": "upgradeOutdoorMenu",
+            "english": "Outdoor Menu",
+            "spanish": "Menú al aire libre"
+        },
+        {
+            "key": "upgradeFlowerPot",
+            "english": "Flower Pot",
+            "spanish": "Maceta"
+        },
+        {
+            "key": "upgradeNewSign",
+            "english": "New Sign",
+            "spanish": "Anuncio nuevo"
+        },
+        {
+            "key": "upgradeDoubleDeck",
+            "english": "Double Deck Oven",
+            "spanish": "Horno de dos secciones"
+        },
+        {
+            "key": "upgradeNeonSign",
+            "english": "Neon Sign",
+            "spanish": "Señal de neón"
+        },
+        {
+            "key": "upgradeMoltoPro",
+            "english": "Molto Pro Oven",
+            "spanish": "Horno Molto Pro"
+        },
+        {
+            "key": "upgradeFrontAwning",
+            "english": "Front Awning",
+            "spanish": "Toldo delantero"
+        },
+        {
+            "key": "upgradeSideAwning",
+            "english": "Side Awning",
+            "spanish": "Toldo lateral"
+        },
+        {
+            "key": "upgrade20Percent",
+            "english": "20% increase in sales",
+            "spanish": "Incremento del 20% en las ventas."
+        },
+        {
+            "key": "upgrade25Percent",
+            "english": "25% increase in sales",
+            "spanish": "Incremento del 25% en las ventas."
+        },
+        {
+            "key": "upgrade35Percent",
+            "english": "35% increase in sales",
+            "spanish": "Incremento del 35% en las ventas."
+        },
+        {
+            "key": "upgradeToppings",
+            "english": "Add more toppings per pizza",
+            "spanish": "Añadir más ingredientes por pizza"
+        },
+        {
+            "key": "upgrade50Percent",
+            "english": "50% increase in sales",
+            "spanish": "Incremento del 50% en las ventas."
+        },
+        {
+            "key": "restartPrompt",
+            "english": "Do you want to restart your selling season?",
+            "spanish": "¿Quieres reiniciar tu temporada de ventas?"
+        },
+        {
+            "key": "pizzaCrust",
+            "english": "crust & sauce",
+            "spanish": "corteza y salsa"
+        },
+        {
+            "key": "tutorialBiggerOven",
+            "english": "Buy a bigger oven to put more ingredients on this pizza!",
+            "spanish": "¡Compra un horno más grande para ponerle más ingredientes a esta pizza!"
+        },
+        {
+            "key": "ingredientsCheese",
+            "english": "cheese",
+            "spanish": "queso"
+        },
+        {
+            "key": "ingredientsMushroom",
+            "english": "mushroom",
+            "spanish": "champiñon"
+        },
+        {
+            "key": "ingredientsPepperoni",
+            "english": "pepperoni",
+            "spanish": "salami picante"
+        },
+        {
+            "key": "ingredientsOlive",
+            "english": "olive",
+            "spanish": "aceituna"
+        },
+        {
+            "key": "ingredientsPineapple",
+            "english": "pineapple",
+            "spanish": "piña"
+        },
+        {
+            "key": "ingredientsChili",
+            "english": "chili pepper",
+            "spanish": "picante"
+        },
+        {
+            "key": "ingredientsSardine",
+            "english": "anchovy",
+            "spanish": "anchoa"
+        },
+        {
+            "key": "ingredientsSausage",
+            "english": "sausage",
+            "spanish": "salchicha"
+        },
+        {
+            "key": "ingredientsBasil",
+            "english": "basil",
+            "spanish": "albaca"
+        },
+        {
+            "key": "ingredientsTomato",
+            "english": "tomato",
+            "spanish": "tomate"
+        },
+        {
+            "key": "ingredientsCheddar",
+            "english": "cheddar",
+            "spanish": "queso cheddar"
+        },
+        {
+            "key": "ingredientsEgg",
+            "english": "egg",
+            "spanish": "huevo"
+        },
+        {
+            "key": "ingredientsPrawn",
+            "english": "shrimp",
+            "spanish": "camarón"
+        },
+        {
+            "key": "ingredientsPickle",
+            "english": "pickle",
+            "spanish": "pepinillo"
+        },
+        {
+            "key": "ingredientsBacon",
+            "english": "bacon",
+            "spanish": "tocino"
+        },
+        {
+            "key": "ingredientsOnion",
+            "english": "onion",
+            "spanish": "cebolla"
+        },
+        {
+            "key": "ingredientsCaviar",
+            "english": "caviar",
+            "spanish": "caviar"
+        },
+        {
+            "key": "ingredientsPluralCheese",
+            "english": "cheese",
+            "spanish": "quesos"
+        },
+        {
+            "key": "ingredientsPluralMushroom",
+            "english": "mushrooms",
+            "spanish": "champiñones"
+        },
+        {
+            "key": "ingredientsPluralPepperoni",
+            "english": "pepperoni",
+            "spanish": "salamis picantes"
+        },
+        {
+            "key": "ingredientsPluralOlive",
+            "english": "olives",
+            "spanish": "aceitunas"
+        },
+        {
+            "key": "ingredientsPluralPineapple",
+            "english": "pineapples",
+            "spanish": "piñas"
+        },
+        {
+            "key": "ingredientsPluralChili",
+            "english": "chili peppers",
+            "spanish": "picantes"
+        },
+        {
+            "key": "ingredientsPluralSardine",
+            "english": "sardines",
+            "spanish": "sardinas"
+        },
+        {
+            "key": "ingredientsPluralSausage",
+            "english": "sausages",
+            "spanish": "salchichas"
+        },
+        {
+            "key": "ingredientsPluralBasil",
+            "english": "basil",
+            "spanish": "albacas"
+        },
+        {
+            "key": "ingredientsPluralTomato",
+            "english": "tomatoes",
+            "spanish": "tomates"
+        },
+        {
+            "key": "ingredientsPluralCheddar",
+            "english": "cheddar",
+            "spanish": "quesos cheddar"
+        },
+        {
+            "key": "ingredientsPluralEgg",
+            "english": "eggs",
+            "spanish": "huevos"
+        },
+        {
+            "key": "ingredientsPluralPrawn",
+            "english": "prawns",
+            "spanish": "langostinos"
+        },
+        {
+            "key": "ingredientsPluralPickle",
+            "english": "pickles",
+            "spanish": "pepinillos"
+        },
+        {
+            "key": "ingredientsPluralBacon",
+            "english": "bacon",
+            "spanish": "tocinos"
+        },
+        {
+            "key": "ingredientsPluralOnion",
+            "english": "onions",
+            "spanish": "cebollas"
+        },
+        {
+            "key": "ingredientsPluralCaviar",
+            "english": "caviar",
+            "spanish": "caviar"
+        },
+        {
+            "key": "todaysMenu",
+            "english": "Today's Menu",
+            "spanish": "Menú de hoy"
+        },
+        {
+            "key": "exit",
+            "english": "exit",
+            "spanish": "salir"
+        },
+        {
+            "key": "deletePrompt",
+            "english": "Are you sure you want to delete your pizza?",
+            "spanish": "¿Estás seguro de que quieres eliminar tu pizza?"
+        },
+        {
+            "key": "menuFull",
+            "english": "Your menu is full. Delete a pizza to make room for a new one.",
+            "spanish": "Tu menú está lleno. Elimina una pizza para dejar espacio para una nueva."
+        },
+        {
+            "key": "pizzaNameDifferent",
+            "english": "Please give your pizza a different name",
+            "spanish": "Ponle otro nombre a tu pizza"
+        },
+        {
+            "key": "pizzaNameTaken",
+            "english": "That pizza name is already taken!",
+            "spanish": "¡Ya tienes una pizza con ese nombre!"
+        },
+        {
+            "key": "noPizzas",
+            "english": "You don't have any pizzas!\nGo to the kitchen to make more.",
+            "spanish": "¡No tienes pizzas!\n\nVe a la cocina para hacer más."
+        },
+        {
+            "key": "orderOnePizza",
+            "english": "I'd like a <name1> pizza, please.",
+            "spanish": "Quisiera una pizza <name1>, por favor."
+        },
+        {
+            "key": "orderOnePizzaName",
+            "english": "May I have <q1> <name1> pizzas, please?",
+            "spanish": "¿Me das <q1> pizzas <name1>, por favor?"
+        },
+        {
+            "key": "orderMultiplePizzas",
+            "english": "I'd like <q1> <name1> pizzas, please.",
+            "spanish": "Quisiera <q1> pizzas <name1>, por favor."
+        },
+        {
+            "key": "orderMultiplePizzasNames",
+            "english": "I'd like <q1> <name1> and <q2> <name2> pizzas.",
+            "spanish": "Quisiera <q1> pizzas <name1> y <q2> pizzas <name2>."
+        },
+        {
+            "key": "endOutOfIngredients",
+            "english": "You ran out of <ingredients>!",
+            "spanish": "¡Te quedaste sin <ingredients>!"
+        },
+        {
+            "key": "gameOverInsufficientFunds",
+            "english": "You don't have enough money to buy ingredients!",
+            "spanish": "¡No tienes suficiente dinero para comprar ingredientes!"
+        },
+        {
+            "key": "gameOverIngredients",
+            "english": "Ingredients Unlocked",
+            "spanish": "Ingredientes desbloqueados"
+        },
+        {
+            "key": "complaintMorePizzas",
+            "english": "I want more pizzas to choose from!",
+            "spanish": "¡Quiero más pizzas para escoger!"
+        },
+        {
+            "key": "complaintKitchenOfferMore",
+            "english": "When will your kitchen offer more pizzas?",
+            "spanish": "¿Cuándo ofrecerá más pizzas tu cocina?"
+        },
+        {
+            "key": "complaintOptions",
+            "english": "I'd like more options on your menu.",
+            "spanish": "Quiero que haya más opciones en tu menú."
+        },
+        {
+            "key": "complaintRanOut",
+            "english": "You ran out of {0}!",
+            "spanish": "¡Te quedaste sin {0}!"
+        },
+        {
+            "key": "complaintAllOut",
+            "english": "You're all out of {0}!",
+            "spanish": "¡No tienes {0}!"
+        },
+        {
+            "key": "complaintNoMore",
+            "english": "There are no more {0}!",
+            "spanish": "No hay más {0}!"
+        },
+        {
+            "key": "complaintNeedMore",
+            "english": "You need more {0}!",
+            "spanish": "¡Necesitas más {0}!"
+        },
+        {
+            "key": "complaintTwiceCost",
+            "english": "Why is {0} {1}? That’s more than twice the ingredient cost!",
+            "spanish": "¿Por qué {0} {1}? ¡Eso es más del doble del costo de los ingredientes!"
+        },
+        {
+            "key": "complaintCheaper",
+            "english": "{0} is more than twice the cost of its ingredients! Make it cheaper!",
+            "spanish": "¡{0} es más del doble del costo de tus ingredientes! ¡Rebájalo!"
+        },
+        {
+            "key": "complaintTooExpensive",
+            "english": "{0} is too expensive! It's more than twice the cost of its ingredients.",
+            "spanish": "¡{0} es muy caro! Es más del doble del costo de tus ingredientes."
+        },
+        {
+            "key": "complaintDontWant",
+            "english": "I don't want a pizza that costs more than twice the ingredient amount! {0} is too expensive.",
+            "spanish": "¡No quiero una pizza que cuesta más del doble que la cantidad de ingredientes! {0} es muy caro."
+        },
+        {
+            "key": "complaintCharging",
+            "english": "You are charging more than twice the cost of the ingredients for {0}?! I can't afford that!",
+            "spanish": "¿Estás cobrando más del doble del costo de los ingredientes de {0}? ¡No puedo pagar eso!"
+        },
+        {
+            "key": "fanaticMore",
+            "english": "That pizza looks OK, but I want a pizza with more <ingredient>.",
+            "spanish": "Esa pizza se ve bien, pero quiero una pizza con más <ingredient>."
+        },
+        {
+            "key": "fanaticSoMuch",
+            "english": "I love <ingredient> so much! I want a pizza with more!",
+            "spanish": "¡Quiero <ingredient>! ¡Quiero una pizza con más!"
+        },
+        {
+            "key": "fanaticNotEnough",
+            "english": "Not enough <ingredient>! I want pizzas with more <ingredient>!",
+            "spanish": "¡No tiene suficiente <ingredient>! ¡Quiero pizzas con más <ingredient>!"
+        },
+        {
+            "key": "fanaticWhere",
+            "english": "Where are all the pizzas with <ingredient>? I guess I won't be buying any...",
+            "spanish": "¿Dónde están todas las pizzas con <ingredient>? Supongo que no voy a comprar ninguna..."
+        },
+        {
+            "key": "fanaticAny",
+            "english": "Do you have any pizzas with <ingredient>? No? Aww. I'll try again tomorrow.",
+            "spanish": "¿Tienes pizzas con <ingredient>? ¿No? Qué mal. Intentaré de nuevo mañana."
+        },
+        {
+            "key": "fanaticNeed",
+            "english": "Ahh! I need pizzas with <ingredient> right now!",
+            "spanish": "¡Ah! ¡Quiero pizzas con <ingredient> ahora mismo!"
+        },
+        {
+            "key": "fanaticGimme",
+            "english": "Gimme <ingredient>, <ingredient>, <ingredient> pizzas!",
+            "spanish": "¡Dame pizzas con <ingredient>, <ingredient>, <ingredient>!"
+        },
+        {
+            "key": "fanaticWontStop",
+            "english": "I won't stop asking until you make pizzas with <ingredient> on them...",
+            "spanish": "No dejaré de preguntar hasta que hagas pizzas con <ingredient>..."
+        },
+        {
+            "key": "bought",
+            "english": "Bought",
+            "spanish": "Comprado"
+        },
+        {
+            "key": "and",
+            "english": "and",
+            "spanish": "y"
+        }
+    ]
+}

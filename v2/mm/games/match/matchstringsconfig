@@ -1,0 +1,176 @@
+{
+    "matchStrings": [
+        {
+            "key": "tutorialFind",
+            "english": "Find the matching Jellies!",
+            "spanish": "¡Empareja las Jellies!"
+        },
+        {
+            "key": "tutorialWin",
+            "english": "Intro Complete!",
+            "spanish": "¡Introducción completa!"
+        },
+        {
+            "key": "menuChoose",
+            "english": ", choose your level!",
+            "spanish": ", ¡escoge tu nivel!"
+        },
+        {
+            "key": "categoryNumbers",
+            "english": "Numbers",
+            "spanish": "Números"
+        },
+        {
+            "key": "categoryBasicAddition",
+            "english": "Intro to Addition",
+            "spanish": "Introducción a Suma"
+        },
+        {
+            "key": "categoryVisualMultiplication",
+            "english": "Intro to Multiplication",
+            "spanish": "Introducción a Multiplicación"
+        },
+        {
+            "key": "categoryAddition",
+            "english": "Addition",
+            "spanish": "Suma"
+        },
+        {
+            "key": "categorySubtraction",
+            "english": "Subtraction",
+            "spanish": "Resta"
+        },
+        {
+            "key": "categoryMultiplication",
+            "english": "Multiplication",
+            "spanish": "Multiplicación"
+        },
+        {
+            "key": "categoryDivision",
+            "english": "Division",
+            "spanish": "División"
+        },
+        {
+            "key": "categoryFractions",
+            "english": "Fractions",
+            "spanish": "Fracciones"
+        },
+        {
+            "key": "categoryRatios",
+            "english": "Ratios",
+            "spanish": "Razones"
+        },
+        {
+            "key": "categoryDecimalOperations",
+            "english": "Decimal Addition and Subtraction",
+            "spanish": "Suma y resta de decimales"
+        },
+        {
+            "key": "categoryIntroToRationalNumbers",
+            "english": "Intro To Rational Numbers",
+            "spanish": "Introducción a los números racionales"
+        },
+        {
+            "key": "categoryRationalNumberAdditionSubtraction",
+            "english": "Rational Number Addition and Subtraction",
+            "spanish": "Suma y resta de números racionales"
+        },
+        {
+            "key": "categoryRationalNumberMultiplicationDivision",
+            "english": "Rational Number Multiplication and Division",
+            "spanish": "Multiplicación y división de números racionales"
+        },
+        {
+            "key": "pausePaused",
+            "english": "Game Paused",
+            "spanish": "Juego detenido"
+        },
+        {
+            "key": "pauseLevelInfo",
+            "english": "Level",
+            "spanish": "Nivel"
+        },
+        {
+            "key": "quitTitle",
+            "english": "Are you sure you want to quit?",
+            "spanish": "¿Estás seguro de que quieres salir del juego?"
+        },
+        {
+            "key": "quitInfo",
+            "english": "You will have to start from Level {0} next time you play {1}.",
+            "spanish": "La próxima vez que juegues {1}, deberás empezar en el Nivel {0}."
+        },
+        {
+            "key": "winProgress",
+            "english": "{0}: Level {1} Complete!",
+            "spanish": "{0}: Nivel {1} ¡Completo!"
+        },
+        {
+            "key": "winSkill",
+            "english": "Your skill has no equal!",
+            "spanish": "¡Tu habilidad es inigualable!"
+        },
+        {
+            "key": "winTastic",
+            "english": "Match-tastic!",
+            "spanish": "¡Emparejas-tico!"
+        },
+        {
+            "key": "winAwesome",
+            "english": "You + numbers = awesome!",
+            "spanish": "Tú + números = ¡impresionante!"
+        },
+        {
+            "key": "winTalents",
+            "english": "Your talents are unmatched!",
+            "spanish": "¡Tus talentos son incomparables!"
+        },
+        {
+            "key": "winMagic",
+            "english": "Matching math magic!",
+            "spanish": "¡Empareja con la magia matemática!"
+        },
+        {
+            "key": "loseClose",
+            "english": "You were so close, {0}!",
+            "spanish": "¡Casi lo logras, {0}!"
+        },
+        {
+            "key": "loseTry",
+            "english": "Try again?",
+            "spanish": "¿Quieres probar otra vez?"
+        },
+        {
+            "key": "loseBetter",
+            "english": "Better luck next time",
+            "spanish": "Mejor suerte la próxima vez"
+        },
+        {
+            "key": "loseSlow",
+            "english": "Slow down, {0}, and match carefully.",
+            "spanish": "Ve más despacio, {0}, y empareja con cuidado."
+        },
+        {
+            "key": "customizeColors",
+            "english": "Change the colors and patterns on your jelly!",
+            "spanish": "¡Cambia los colores y patrones de tu mermelada!"
+        },
+        {
+            "key": "categoryIntroToFractions",
+            "english": "Intro to Fractions",
+            "spanish": "Introducción a Fracciones"
+        },
+        {
+            "key": "ratioTo",
+            "english": "to",
+            "spanish": "a"
+        },
+        {
+            "key": "ratioForEvery",
+            "english": "for every",
+            "spanish": "por cada"
+        }
+    ],
+    "version": "4.10.0",
+    "patchVersion": 0
+}

@@ -1,0 +1,198 @@
+{
+    "dayToShowKeyboardTutorial": 2,
+    "lostCustomerPenaltyPercent": 0.15,
+    "stepsPerDinerOperation": 10,
+    "lengthOfSellingDay": 60,
+    "outOfIngredientStrings": [
+        "complaintRanOut",
+        "complaintAllOut",
+        "complaintNoMore",
+        "complaintNeedMore"
+    ],
+    "tooExpensiveStrings": [
+        "complaintTwiceCost",
+        "complaintCheaper",
+        "complaintTooExpensive",
+        "complaintDontWant",
+        "complaintCharging"
+    ],
+    "only1PizzaStrings": [
+        "complaintMorePizzas",
+        "complaintKitchenOfferMore",
+        "complaintOptions"
+    ],
+    "only2PizzaStrings": [
+        "complaintMorePizzas",
+        "complaintKitchenOfferMore",
+        "complaintOptions"
+    ],
+    "baseUtilityCost": 4,
+    "complaintPatienceTime": 3,
+    "firstDayOrderSeed": 120,
+    "overpricedMultiplier": 2.02,
+    "passModValueForRamp": 0.25,
+    "responseTimeModifierSuccess": 1.1,
+    "responseTimeModifierFailure": 1.9,
+    "patienceTimerTargetPlayerSuccessRate": 0.85,
+    "patienceTimerSmoothingFactor": 0.2,
+    "dinerSuccessRateSmoothingFactor": 0.05,
+    "responseTimeBonusForDinerDifficultyJump": 2,
+    "patienceTimeMultiplierForMultiplePizzaOrders": 1.5,
+    "orderQuantitySigmoidKFactor": 1.2,
+    "orderQuantityRevenueMarginMax": 0.5,
+    "orderQuantityVarianceRangePercent": 0.5,
+    "version": "3.22.0",
+    "patchVersion": 0,
+    "dinerOperations": [
+        {
+            "singleOrderAmountMax": 2,
+            "singleOrderAmountMin": 1,
+            "useSigmoidVsUniformDistro": false,
+            "doubleOrderPizza1PriceMax": 0,
+            "doubleOrderPizza2PriceMax": 0,
+            "doubleOrderAmountMin": 0,
+            "doubleOrderPercent": 0,
+            "description": "Simple requests of 1-2 pizzas"
+        },
+        {
+            "singleOrderAmountMax": 5,
+            "singleOrderAmountMin": 1,
+            "useSigmoidVsUniformDistro": true,
+            "doubleOrderPizza1PriceMax": 0,
+            "doubleOrderPizza2PriceMax": 0,
+            "doubleOrderAmountMin": 0,
+            "doubleOrderPercent": 0,
+            "description": "Simple requests of 1-5 pizzas"
+        },
+        {
+            "singleOrderAmountMax": 5,
+            "singleOrderAmountMin": 1,
+            "useSigmoidVsUniformDistro": true,
+            "doubleOrderPizza1PriceMax": 1,
+            "doubleOrderPizza2PriceMax": 2,
+            "doubleOrderAmountMin": 1,
+            "doubleOrderPercent": 0.6,
+            "description": "Intro to compound problems of 1-2 pizzas"
+        },
+        {
+            "singleOrderAmountMax": 5,
+            "singleOrderAmountMin": 2,
+            "useSigmoidVsUniformDistro": true,
+            "doubleOrderPizza1PriceMax": 1,
+            "doubleOrderPizza2PriceMax": 2,
+            "doubleOrderAmountMin": 1,
+            "doubleOrderPercent": 0.8,
+            "description": "Intro to compound problems of 1-2 pizzas"
+        },
+        {
+            "singleOrderAmountMax": 5,
+            "singleOrderAmountMin": 2,
+            "useSigmoidVsUniformDistro": true,
+            "doubleOrderPizza1PriceMax": 2,
+            "doubleOrderPizza2PriceMax": 2,
+            "doubleOrderAmountMin": 1,
+            "doubleOrderPercent": 0.6,
+            "description": "Requests of 1-5 pizzas plus compound problems of 1-2 pizzas"
+        },
+        {
+            "singleOrderAmountMax": 10,
+            "singleOrderAmountMin": 2,
+            "useSigmoidVsUniformDistro": true,
+            "doubleOrderPizza1PriceMax": 2,
+            "doubleOrderPizza2PriceMax": 2,
+            "doubleOrderAmountMin": 1,
+            "doubleOrderPercent": 0.1,
+            "description": "Requests of 1-10 pizzas plus previous compound problems"
+        },
+        {
+            "singleOrderAmountMax": 10,
+            "singleOrderAmountMin": 3,
+            "useSigmoidVsUniformDistro": true,
+            "doubleOrderPizza1PriceMax": 5,
+            "doubleOrderPizza2PriceMax": 5,
+            "doubleOrderAmountMin": 2,
+            "doubleOrderPercent": 0.3,
+            "description": "Requests of 1-10 pizzas plus compound problems 1-5"
+        },
+        {
+            "singleOrderAmountMax": 12,
+            "singleOrderAmountMin": 3,
+            "useSigmoidVsUniformDistro": true,
+            "doubleOrderPizza1PriceMax": 10,
+            "doubleOrderPizza2PriceMax": 10,
+            "doubleOrderAmountMin": 2,
+            "doubleOrderPercent": 0.3,
+            "description": "Requests of 1-12 pizzas plus compound problems 1-10"
+        },
+        {
+            "singleOrderAmountMax": 12,
+            "singleOrderAmountMin": 3,
+            "useSigmoidVsUniformDistro": true,
+            "doubleOrderPizza1PriceMax": 12,
+            "doubleOrderPizza2PriceMax": 12,
+            "doubleOrderAmountMin": 2,
+            "doubleOrderPercent": 0.4,
+            "description": "Requests of 1-12 pizzas plus compound problems 1-10"
+        }
+    ],
+    "feedbackOperations": [
+        {
+            "description": "Ran out of ingredients",
+            "capPerPizza": 10,
+            "activationDay": 0,
+            "probabilityMin": 1,
+            "probabilityMax": 1,
+            "numDaysToMax": 1
+        },
+        {
+            "description": "Too expensive",
+            "capPerPizza": 5,
+            "activationDay": 2,
+            "probabilityMin": 0.3,
+            "probabilityMax": 0.8,
+            "numDaysToMax": 5
+        },
+        {
+            "description": "More than 1 pizza",
+            "capPerPizza": 5,
+            "activationDay": 4,
+            "probabilityMin": 0.3,
+            "probabilityMax": 0.8,
+            "numDaysToMax": 5
+        },
+        {
+            "description": "Fanatics",
+            "capPerPizza": 5,
+            "activationDay": 5,
+            "probabilityMin": 0.1,
+            "probabilityMax": 0.8,
+            "numDaysToMax": 4
+        },
+        {
+            "description": "More than 2 pizzas",
+            "capPerPizza": 5,
+            "activationDay": 9,
+            "probabilityMin": 0.3,
+            "probabilityMax": 0.8,
+            "numDaysToMax": 5
+        }
+    ],
+    "orderTexts": [
+        {
+            "numArgs": 1,
+            "displayText": "orderOnePizza"
+        },
+        {
+            "numArgs": 2,
+            "displayText": "orderOnePizzaName"
+        },
+        {
+            "numArgs": 2,
+            "displayText": "orderMultiplePizzas"
+        },
+        {
+            "numArgs": 4,
+            "displayText": "orderMultiplePizzasNames"
+        }
+    ]
+}

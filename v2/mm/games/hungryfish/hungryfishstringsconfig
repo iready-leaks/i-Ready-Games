@@ -1,0 +1,446 @@
+{
+    "version": "2.22.0",
+    "patchVersion": 0,
+    "hungryFishStrings": [
+        {
+            "key": "tutorialClick",
+            "english": "Click and drag the bubbles together",
+            "spanish": "Elige burbujas y arrástralas para juntarlas."
+        },
+        {
+            "key": "tutorialDrag",
+            "english": "Drag the bubbles together",
+            "spanish": "Arrastra burbujas para juntarlas."
+        },
+        {
+            "key": "tutorialFeed",
+            "english": "Feed your fish!",
+            "spanish": "¡Alimenta a tu pez!"
+        },
+        {
+            "key": "winMath",
+            "english": "Math is delicious!",
+            "spanish": "¡Las matemáticas son deliciosas!"
+        },
+        {
+            "key": "winThanks",
+            "english": "Thanks! I'm so full!",
+            "spanish": "¡Gracias! ¡Estoy muy lleno!"
+        },
+        {
+            "key": "winTasty",
+            "english": "Tasty! Thanks for feeding me!",
+            "spanish": "¡Qué sabroso! ¡Gracias por alimentarme!"
+        },
+        {
+            "key": "winNumbers",
+            "english": "I love numbers...and you!",
+            "spanish": "Adoro los números... ¡y a ti!"
+        },
+        {
+            "key": "winYummy",
+            "english": "Yummy yummy yummy math!",
+            "spanish": "¡Riqúisimas matemáticas!"
+        },
+        {
+            "key": "winDelicious",
+            "english": "Deeeeeeeelicious numbers!",
+            "spanish": "¡Números delicioooooooosos!"
+        },
+        {
+            "key": "winWonderful",
+            "english": "Wonderful numbers fill my belly!",
+            "spanish": "¡Números maravillosos llenan mi barriga!"
+        },
+        {
+            "key": "winDelish",
+            "english": "Delish! Thank you!",
+            "spanish": "¡Delicioso! ¡Gracias!"
+        },
+        {
+            "key": "winBelly",
+            "english": "Belly full. Fish happy.",
+            "spanish": "Barriga llena. Pez contento."
+        },
+        {
+            "key": "winCare",
+            "english": "You take good care of me.",
+            "spanish": "Me cuidas muy bien."
+        },
+        {
+            "key": "winEat",
+            "english": "I could eat numbers all day long.",
+            "spanish": "Podría comer números todo el día."
+        },
+        {
+            "key": "winEnd",
+            "english": "I only eat numbers on days that end in \"y\".",
+            "spanish": "Solo como números en los días que terminan en \"s\" y \"o\"."
+        },
+        {
+            "key": "winAll",
+            "english": "Thanks for all those numbers!",
+            "spanish": "¡Gracias por todos esos números!"
+        },
+        {
+            "key": "winWell",
+            "english": "You feed me so well - thanks!",
+            "spanish": "Me alimentas tan bien, ¡gracias!"
+        },
+        {
+            "key": "winMouthwatering",
+            "english": "Math is mouthwatering!",
+            "spanish": "¡Las matemáticas me hacen agua la boca!"
+        },
+        {
+            "key": "winNom",
+            "english": "Numbers nom nom nom!",
+            "spanish": "¡Hmm hmm hmm, números!"
+        },
+        {
+            "key": "winGlub",
+            "english": "Glub glub, thanks for the grub.",
+            "spanish": "Gulp Gulp, gracias por la comida."
+        },
+        {
+            "key": "winFavorite",
+            "english": "That number was my favorite.",
+            "spanish": "Ese número era mi favorito."
+        },
+        {
+            "key": "winSalt",
+            "english": "Yummy number (could have used more salt).",
+            "spanish": "Número delicioso (le hacía falta un poco de sal)."
+        },
+        {
+            "key": "winSea",
+            "english": "Of all the numbers in the sea, that one was the best for me.",
+            "spanish": "De todos los números en el mar, ese fue el mejor para mí."
+        },
+        {
+            "key": "winRoses",
+            "english": "Roses are red, violets are blue, I like numbers.",
+            "spanish": "Las rosas son rojas, las violetas son azules, me gustan los números."
+        },
+        {
+            "key": "winReward",
+            "english": "Great work! You won a reward!",
+            "spanish": "¡Buen trabajo! ¡Ganaste una recompensa!"
+        },
+        {
+            "key": "winPrize",
+            "english": "Tasty numbers! Here's a prize.",
+            "spanish": "¡Números sabrosos! Aquí hay un premio."
+        },
+        {
+            "key": "winHard",
+            "english": "You earned a reward for your hard work!",
+            "spanish": "¡Ganaste una recompensa por tu duro trabajo!"
+        },
+        {
+            "key": "winFood",
+            "english": "Thanks for the food! Here's a reward.",
+            "spanish": "¡Gracias por la comida! Aquí hay una recompensa."
+        },
+        {
+            "key": "winYay",
+            "english": "Yay! Here's a reward.",
+            "spanish": "¡Hurra! Aquí hay una recompensa."
+        },
+        {
+            "key": "winStuffedMS",
+            "english": "I'm stuffed.",
+            "spanish": "Estoy lleno."
+        },
+        {
+            "key": "winTastyMS",
+            "english": "Tasty!",
+            "spanish": "¡Sabroso!"
+        },
+        {
+            "key": "winSchoolMS",
+            "english": "Why are fish so smart? Because they live in schools.",
+            "spanish": "¿Por qué los peces son tan ricos? Porque viven en bancos."
+        },
+        {
+            "key": "winFishFoodMS",
+            "english": "Bubbles are tasty, but I'd rather eat fish food.",
+            "spanish": "Las burbujas son sabrosas, pero prefiero comer comida para peces."
+        },
+        {
+            "key": "winThanksMS",
+            "english": "Thanks!",
+            "spanish": "¡Gracias!"
+        },
+        {
+            "key": "winSwimminglyMS",
+            "english": "Things are going swimmingly.",
+            "spanish": "Las cosas van como pez en el agua."
+        },
+        {
+            "key": "winBreakfastMS",
+            "english": "Numbers are part of a nutritious and complete breakfast.",
+            "spanish": "Los números son parte de un desayuno nutritivo y completo."
+        },
+        {
+            "key": "winCompleteMS",
+            "english": "Level complete.",
+            "spanish": "Nivel completado."
+        },
+        {
+            "key": "winOweMS",
+            "english": "I owe you one.",
+            "spanish": "Te debo una."
+        },
+        {
+            "key": "winCheapMS",
+            "english": "Thanks for not feeding me the cheap stuff.",
+            "spanish": "Gracias por no alimentarme con cosas baratas."
+        },
+        {
+            "key": "winSpeakMS",
+            "english": "If fish could speak, I'd say thank you.",
+            "spanish": "Si los peces pudiéramos hablar, yo diría: gracias."
+        },
+        {
+            "key": "winGrubMS",
+            "english": "Thanks for the grub.",
+            "spanish": "Gracias por la comida."
+        },
+        {
+            "key": "winFedMS",
+            "english": "You have fed me well.",
+            "spanish": "Me has alimentado bien."
+        },
+        {
+            "key": "winSaltMS",
+            "english": "Could have used more salt.",
+            "spanish": "Me hubiera gustado un poco más de sal."
+        },
+        {
+            "key": "winPiMS",
+            "english": "Almost as good as π.",
+            "spanish": "Casi tan bueno como un π."
+        },
+        {
+            "key": "winFoodMS",
+            "english": "Food glorious food!",
+            "spanish": "¡Comida, gloriosa comida!"
+        },
+        {
+            "key": "winSugarMS",
+            "english": "A spoonful of numbers make the medicine go down.",
+            "spanish": "Con una cucharada de números, me paso la medicina."
+        },
+        {
+            "key": "winPrizeMS",
+            "english": "Here's a prize.",
+            "spanish": "Aquí hay un premio."
+        },
+        {
+            "key": "winRewardMS",
+            "english": "You earned a reward.",
+            "spanish": "Ganaste una recompensa."
+        },
+        {
+            "key": "loseTrying",
+            "english": "Keep trying to feed your fish!",
+            "spanish": "¡Sigue intentando alimentar a tus peces!"
+        },
+        {
+            "key": "loseFainted",
+            "english": "Oh no! Your fish fainted!",
+            "spanish": "¡Ay no! ¡Tu pez se desmayó!"
+        },
+        {
+            "key": "loseEnough",
+            "english": "Uh-oh! Not enough numbers.",
+            "spanish": "¡Vaya! No hay suficientes números."
+        },
+        {
+            "key": "loseFood",
+            "english": "Your fish needed more food.",
+            "spanish": "Tu pez necesitaba más comida."
+        },
+        {
+            "key": "loseYum",
+            "english": "Not enough yum-yum. Keep trying!",
+            "spanish": "No es suficiente, ñam, ñam. ¡Sigue intentando!"
+        },
+        {
+            "key": "loseNumbers",
+            "english": "That fish needed more numbers in its belly.",
+            "spanish": "Ese pez necesitaba más números en su barriga."
+        },
+        {
+            "key": "loseChallenging",
+            "english": "Keep challenging yourself – try again.",
+            "spanish": "Sigue desafiándote, inténtalo de nuevo."
+        },
+        {
+            "key": "loseTime",
+            "english": "Not enough this time. Keep trying!",
+            "spanish": "No fue suficiente esta vez. ¡Sigue intentando!"
+        },
+        {
+            "key": "loseBrain",
+            "english": "Challenge grows your brain - keep going!",
+            "spanish": "Los desafíos desarrollan tu cerebro, ¡sigue adelante!"
+        },
+        {
+            "key": "loseEnoughMS",
+            "english": "You didn't feed the fish enough numbers.",
+            "spanish": "No le diste de comer suficientes números al pez."
+        },
+        {
+            "key": "loseTryMS",
+            "english": "Keep trying!",
+            "spanish": "¡Sigue intentándolo!"
+        },
+        {
+            "key": "loseFasterMS",
+            "english": "Feed the fish faster.",
+            "spanish": "Alimenta a los peces más rápido."
+        },
+        {
+            "key": "loseAgainMS",
+            "english": "Try again.",
+            "spanish": "Inténtalo de nuevo."
+        },
+        {
+            "key": "categoryAddition",
+            "english": "Addition",
+            "spanish": "Suma"
+        },
+        {
+            "key": "categorySubtraction",
+            "english": "Subtraction",
+            "spanish": "Resta"
+        },
+        {
+            "key": "categoryNegatives",
+            "english": "Negatives",
+            "spanish": "Números negativos"
+        },
+        {
+            "key": "levelPrefix",
+            "english": "Play",
+            "spanish": "Juega"
+        },
+        {
+            "key": "level1to5",
+            "english": "1 to 5",
+            "spanish": "1 a 5"
+        },
+        {
+            "key": "level3to5",
+            "english": "3 to 5",
+            "spanish": "3 a 5"
+        },
+        {
+            "key": "level6to10",
+            "english": "6 to 10",
+            "spanish": "6 a 10"
+        },
+        {
+            "key": "level11to15",
+            "english": "11 to 15",
+            "spanish": "11 a 15"
+        },
+        {
+            "key": "level16to20",
+            "english": "16 to 20",
+            "spanish": "16 a 20"
+        },
+        {
+            "key": "level21to30",
+            "english": "21 to 30",
+            "spanish": "21 a 30"
+        },
+        {
+            "key": "level31to100",
+            "english": "31 to 100",
+            "spanish": "31 a 100"
+        },
+        {
+            "key": "level10s",
+            "english": "10s",
+            "spanish": "10 en 10"
+        },
+        {
+            "key": "level100s",
+            "english": "100s",
+            "spanish": "100 en 100"
+        },
+        {
+            "key": "level-1to-5",
+            "english": "-1 to -5",
+            "spanish": "-1 a -5"
+        },
+        {
+            "key": "level-6to-10",
+            "english": "-6 to -10",
+            "spanish": "-6 a -10"
+        },
+        {
+            "key": "level-11to-15",
+            "english": "-11 to -15",
+            "spanish": "-11 a -15"
+        },
+        {
+            "key": "level-16to-20",
+            "english": "-16 to -20",
+            "spanish": "-16 a -20"
+        },
+        {
+            "key": "level-21to-30",
+            "english": "-21 to -30",
+            "spanish": "-21 a -30"
+        },
+        {
+            "key": "level-31to-100",
+            "english": "-31 to -100",
+            "spanish": "-31 a -100"
+        },
+        {
+            "key": "level-10s",
+            "english": "-10s",
+            "spanish": "-10 en -10"
+        },
+        {
+            "key": "level-100s",
+            "english": "-100s",
+            "spanish": "-100 en -100"
+        },
+        {
+            "key": "customizeName",
+            "english": "{0}'s Fish",
+            "spanish": "El pez de {0}"
+        },
+        {
+            "key": "tutorialThinkFastPrompt",
+            "english": "I'm ready to go a little faster...",
+            "spanish": "Estoy listo para ir un poco más rápido..."
+        },
+        {
+            "key": "tutorialThinkFast",
+            "english": "Let's try Think Fast!",
+            "spanish": "¡Vamos a tratar de Pensar rápido!"
+        },
+        {
+            "key": "tutorialThinkFastFinish",
+            "english": "Select a level",
+            "spanish": "Elige un nivel"
+        },
+        {
+            "key": "level10ths",
+            "english": "10ths",
+            "spanish": "Décima en décima"
+        },
+        {
+            "key": "level100ths",
+            "english": "100ths",
+            "spanish": "Centésima en centésima"
+        }
+    ]
+}

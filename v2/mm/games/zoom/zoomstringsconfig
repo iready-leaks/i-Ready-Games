@@ -1,0 +1,96 @@
+{
+    "version": "2.22.0",
+    "patchVersion": 0,
+    "zoomStrings": [
+        {
+            "key": "tutorialKeyboard",
+            "english": "Hint: Use your keyboard!",
+            "spanish": "Pista: ¡Usa tu teclado!"
+        },
+        {
+            "key": "tutorialPop",
+            "english": "Pop the bubble!",
+            "spanish": "¡Revienta la burbuja!"
+        },
+        {
+            "key": "tutorialNumber",
+            "english": "Where does the number in the bubble belong?",
+            "spanish": "¿A qué grupo pertenece el número de la burbuja?"
+        },
+        {
+            "key": "tutorialZoom",
+            "english": "Use your keyboard to zoom in and see the numbers in between!",
+            "spanish": "¡Usa tu teclado para acercar la imagen y ver los números que están en medio!"
+        },
+        {
+            "key": "tutorialBetween",
+            "english": "Zoom in and see the numbers in between!",
+            "spanish": "¡Acerca la imagen y ve los números que están en medio!"
+        },
+        {
+            "key": "tutorialNeedle",
+            "english": "Ah! A needle!",
+            "spanish": "¡Ah! ¡Una aguja!"
+        },
+        {
+            "key": "tutorialNeedlePop",
+            "english": "Find the correct empty platform before the needle pops your bubble!",
+            "spanish": "¡Halla la plataforma vacía correcta antes de que la aguja reviente tu burbuja! [1]"
+        },
+        {
+            "key": "tutorialSpacebar",
+            "english": "One last thing...use SPACEBAR on your keyboard to pop the bubble faster!",
+            "spanish": "Una última cosa… ¡Usa la BARRA ESPACIADORA de tu teclado para reventar la burbuja más rápido!"
+        },
+        {
+            "key": "lose",
+            "english": "Oooh, so close! Try again?",
+            "spanish": "¡Uy, casi lo logras! ¿Quieres probar otra vez?"
+        },
+        {
+            "key": "level0-120",
+            "english": "Numbers 0–120",
+            "spanish": "Números del 0 al 120"
+        },
+        {
+            "key": "level0-10000",
+            "english": "Numbers 0–10,000",
+            "spanish": "Números del 0 al 10,000"
+        },
+        {
+            "key": "levelTenths",
+            "english": "Tenths",
+            "spanish": "Décimas"
+        },
+        {
+            "key": "levelHundreths",
+            "english": "Hundredths",
+            "spanish": "Centésimas"
+        },
+        {
+            "key": "levelThousandths",
+            "english": "Thousandths",
+            "spanish": "Milésimas"
+        },
+        {
+            "key": "levelNegatives",
+            "english": "Negatives",
+            "spanish": "Números negativos"
+        },
+        {
+            "key": "hintHelp",
+            "english": "Hi, want help?",
+            "spanish": "Hola, ¿necesitas ayuda?"
+        },
+        {
+            "key": "hintTry",
+            "english": "Now, you try!",
+            "spanish": "¡Ahora, prueba tú!"
+        },
+        {
+            "key": "streak",
+            "english": "STREAK!",
+            "spanish": "¡BUENA RACHA!"
+        }
+    ]
+}

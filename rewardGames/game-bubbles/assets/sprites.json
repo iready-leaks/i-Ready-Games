@@ -1,0 +1,198 @@
+	{ 
+		
+		"bgOverlay": [
+			
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 56,0 , 56,831 , 0,831 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 1200,0 , 1250,0 , 1250,831 , 1200,831 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 1250,0 , 1250,150 , 0,150 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 317,0 , 317,184 , 0,184 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 404,0 , 494,0 , 494,184 , 404,184 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 755,0 , 845,0 , 845,184 , 755,184 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 931,0 , 1250,0 , 1250,184 , 931,184 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 145,935 , 185,891 , 210,891 , 210,936 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 1039,935 , 1039,891 , 1064,891 , 1104,936 ]
+			}
+		],
+
+		"bgOverlayMedium": [
+			
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 46,0 , 46,681 , 0,681 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 984,0 , 1024,0 , 1024,681 , 984,681 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 1024,0 , 1024,123 , 0,123 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 260,0 , 260,151 , 0,151 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 331,0 , 406,0 , 406,151 , 331,151 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 619,0 , 693,0 , 693,151 , 619,151 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 763,0 , 891,0 , 891,151 , 763,151 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 119,768 , 152,731 , 172,731 , 172,768 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 852,768 , 852,731 , 872,731 , 905,768 ]
+			}
+		],
+
+		"bgOverlaySmall": [
+			
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 36,0 , 36,532 , 0,532 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 768,0 , 800,0 , 800,532 , 768,532 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 800,0 , 800,96 , 0,96 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 0,0 , 203,0 , 203,118 , 0,118 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 259,0 , 316,0 , 316,118 , 259,118 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 483,0 , 541,0 , 541,118 , 483,118 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 596,0 , 696,0 , 696,118 , 596,118 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 93,598 , 118,570 , 134,570 , 134,599 ]
+			},
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 665,598 , 665,570 , 681,570 , 707,599 ]
+			}
+		],
+
+		"player": [
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 25,0 , 225,0 , 250,50 , 0,50 ]
+			}
+		],
+
+		"playerLarger": [
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 25,0 , 300,0 , 325,50 , 0,50 ]
+			}
+		],
+
+		"playerMedium": [
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 21,0 , 178,0 , 199,42 , 0,42 ]
+			}
+		],
+
+		"playerMediumLarger": [
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 21,0 , 246,0 , 267,42 , 0,42 ]
+			}
+		],
+
+		"playerSmall": [
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 16,0 , 144,0 , 160,32 , 0,32 ]
+			}
+		],
+
+		"playerSmallLarger": [
+			{
+				"density": 10, "friction": 0, "bounce": 10, 
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [ 16,0 , 192,0 , 208,32 , 0,32 ]
+			}
+		]
+		
+	}

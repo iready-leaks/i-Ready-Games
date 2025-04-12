@@ -1,0 +1,46 @@
+{
+    "version": "0.47.0",
+    "patchVersion": 0,
+    "hungryGuppyStrings": [
+        {
+            "key": "tutorialClickAndHold",
+            "english": "Click and hold the bubble",
+            "spanish": "Elige la burbuja y mantenla presionada"
+        },
+        {
+            "key": "tutorialHoldAndDrag",
+            "english": "Keep holding and drag the bubble",
+            "spanish": "Sigue presionando y arrastra la burbuja"
+        },
+        {
+            "key": "tutorialLetGo",
+            "english": "Let go of the bubble",
+            "spanish": "Suelta la burbuja"
+        },
+        {
+            "key": "tutorialClick",
+            "english": "Click and drag the bubbles together",
+            "spanish": "Elige y arrastra las burbujas para juntarlas"
+        },
+        {
+            "key": "tutorialFeed",
+            "english": "Feed your fish!",
+            "spanish": "¡Dale de comer a tu pez!"
+        },
+        {
+            "key": "tutorialDrag",
+            "english": "Drag the bubbles together",
+            "spanish": "Arrastra las burbujas para juntarlas"
+        },
+        {
+            "key": "tutorialFishOnlyEats",
+            "english": "This fish only eats",
+            "spanish": "Este pez solo come"
+        },
+        {
+            "key": "tutorialCanYouMake",
+            "english": "Can you make",
+            "spanish": "¿Puedes formar"
+        }
+    ]
+}

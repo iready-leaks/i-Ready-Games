@@ -1,0 +1,8 @@
+{
+    "pantrySpace": 50,
+    "cash": 50,
+    "maxNumCupcakes": 2,
+    "numUnlockedIngredients": 3,
+    "version": "4.16.0",
+    "patchVersion": 0
+}

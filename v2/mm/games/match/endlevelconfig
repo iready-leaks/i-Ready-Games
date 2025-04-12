@@ -1,0 +1,30 @@
+{
+    "closeLoseThreshold": 0.75,
+    "winMessages": [
+        "winSkill",
+        "winTastic",
+        "winAwesome",
+        "winTalents",
+        "winMagic"
+    ],
+    "closeLoseTitles": [
+        "loseClose"
+    ],
+    "closeLoseCTAs": [
+        "loseTry"
+    ],
+    "badLoseTitles": [
+        "loseBetter"
+    ],
+    "badLoseCTAs": [
+        "loseTry"
+    ],
+    "untimedLoseTitles": [
+        "loseSlow"
+    ],
+    "untimedLoseCTAs": [
+        "loseTry"
+    ],
+    "version": "4.10.0",
+    "patchVersion": 0
+}

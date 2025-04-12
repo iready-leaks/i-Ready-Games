@@ -1,0 +1,291 @@
+{
+    "version": "0.22.0",
+    "patchVersion": 0,
+    "commonStrings": [
+        {
+            "key": "settings",
+            "english": "Settings",
+            "spanish": "Configuración"
+        },
+        {
+            "key": "language",
+            "english": "Language",
+            "spanish": "Idioma"
+        },
+        {
+            "key": "menu",
+            "english": "Menu",
+            "spanish": "Menú"
+        },
+        {
+            "key": "intro",
+            "english": "Intro",
+            "spanish": "Introd."
+        },
+        {
+            "key": "greeting",
+            "english": "Hi",
+            "spanish": "Hola"
+        },
+        {
+            "key": "quit",
+            "english": "Quit",
+            "spanish": "Salir"
+        },
+        {
+            "key": "level",
+            "english": "Level",
+            "spanish": "Nivel"
+        },
+        {
+            "key": "pause",
+            "english": "paused",
+            "spanish": "Juego detenido"
+        },
+        {
+            "key": "startOver",
+            "english": "Start Over:",
+            "spanish": "Comenzar de nuevo:"
+        },
+        {
+            "key": "restart",
+            "english": "Restart",
+            "spanish": "Reiniciar"
+        },
+        {
+            "key": "restartConfirmation",
+            "english": "Are you sure you want to restart? You will lose all your progress!",
+            "spanish": "¿Estás seguro de que quieres reiniciar? ¡Perderás todo tu progreso!"
+        },
+        {
+            "key": "restartCancel",
+            "english": "Cancel",
+            "spanish": "Cancelar"
+        },
+        {
+            "key": "modeNoRush",
+            "english": "No Rush",
+            "spanish": "No hay prisa"
+        },
+        {
+            "key": "modeThinkFast",
+            "english": "Think Fast",
+            "spanish": "Piensa rápido"
+        },
+        {
+            "key": "modeThinkFaster",
+            "english": "Think Faster",
+            "spanish": "Piensa más rápido"
+        },
+        {
+            "key": "modeThinkFastest",
+            "english": "Think Fastest",
+            "spanish": "Piensa súper rápido"
+        },
+        {
+            "key": "exceptionDialog",
+            "english": "Oops! We're sorry, something went wrong.",
+            "spanish": "¡Uy! Lo sentimos, algo salió mal."
+        },
+        {
+            "key": "exceptionReload",
+            "english": "Reload",
+            "spanish": "Vuelve a cargar"
+        },
+        {
+            "key": "fullscreenReminder",
+            "english": "Press esc to exit fullscreen",
+            "spanish": "Presiona esc para salir de pantalla completa"
+        },
+        {
+            "key": "vendorIngredients",
+            "english": "Ingredients",
+            "spanish": "Ingredientes"
+        },
+        {
+            "key": "vendorUpgrades",
+            "english": "Upgrades",
+            "spanish": "Mejoras"
+        },
+        {
+            "key": "endSales",
+            "english": "Sales",
+            "spanish": "Ventas"
+        },
+        {
+            "key": "endWater",
+            "english": "Water & Gas",
+            "spanish": "Agua y gas"
+        },
+        {
+            "key": "endIngredients",
+            "english": "Ingredient Costs",
+            "spanish": "Costos de los ingredientes"
+        },
+        {
+            "key": "endCustomersServed",
+            "english": "Customers served: {0}",
+            "spanish": "Clientes atendidos: {0}"
+        },
+        {
+            "key": "endCustomersLost",
+            "english": "Customers lost: {0}",
+            "spanish": "Clientes perdidos: {0}"
+        },
+        {
+            "key": "endTodaysSales",
+            "english": "Today's Sales",
+            "spanish": "Ventas de hoy"
+        },
+        {
+            "key": "endCost",
+            "english": "Cost",
+            "spanish": "Costo"
+        },
+        {
+            "key": "endMyProgress",
+            "english": "My Progress",
+            "spanish": "Mi progreso"
+        },
+        {
+            "key": "endDailyProfit",
+            "english": "Daily Profit",
+            "spanish": "Ganancia diaria"
+        },
+        {
+            "key": "endTotalProfit",
+            "english": "Total Profit:",
+            "spanish": "Ganancia Total:"
+        },
+        {
+            "key": "endDay",
+            "english": "Day {0}",
+            "spanish": "Día {0}"
+        },
+        {
+            "key": "gameOverCongratulations",
+            "english": "Congrats!",
+            "spanish": "¡Felicidades¡"
+        },
+        {
+            "key": "gameOverSeasonOver",
+            "english": "Selling Season Over",
+            "spanish": "Se terminó la temporada de ventas."
+        },
+        {
+            "key": "gameOverProfit",
+            "english": "Your Profit:",
+            "spanish": "Tus ganancias:"
+        },
+        {
+            "key": "gameOverRestartPrompt",
+            "english": "Can you beat this profit in your next game?",
+            "spanish": "¿Puedes mejorar estas ganancias en tu siguiente juego?"
+        },
+        {
+            "key": "newSeasonMessage",
+            "english": "Welcome to your new selling season! Can you beat your profit from last season?\n\nHere's $50 to get you started.",
+            "spanish": "¡Bienvenido a tu nueva temporada de ventas! ¿Puedes mejorar tu ganancia de la temporada pasada?\n\nAquí tienes $50 para comenzar."
+        },
+        {
+            "key": "price",
+            "english": "Price",
+            "spanish": "Precio"
+        },
+        {
+            "key": "costOfIngredients",
+            "english": "Cost of Ingredients",
+            "spanish": "Costo de los ingredientes"
+        },
+        {
+            "key": "outOfIngredient",
+            "english": "out of {0}",
+            "spanish": "sin {0}"
+        },
+        {
+            "key": "insufficientFunds",
+            "english": "You don't have enough money to buy this!",
+            "spanish": "¡No tienes suficiente dinero para comprar esto!"
+        },
+        {
+            "key": "insufficientIngredients",
+            "english": "You don't have enough ingredients! Go to the market to buy more.",
+            "spanish": "¡No tienes suficientes ingredientes! Ve al mercado para comprar más."
+        },
+        {
+            "key": "halfwayMessage",
+            "english": "You're halfway through the selling season and have {0} days left. Good luck making as much profit as you can!",
+            "spanish": "Estás a la mitad de la temporada de ventas y te quedan {0} días. ¡Buena suerte para obtener la mejor ganancia que puedas!"
+        },
+        {
+            "key": "vendorIncorrect",
+            "english": "You could have saved ${0} by buying from the other vendor!",
+            "spanish": "¡Podrías haber ahorrado ${0} comprando al otro vendedor!"
+        },
+        {
+            "key": "vendorReally",
+            "english": "Really?",
+            "spanish": "¿En serio?"
+        },
+        {
+            "key": "vendorCorrect",
+            "english": "You saved ${0} by picking the right vendor.",
+            "spanish": "Ahorraste ${0} al escoger el vendedor correcto."
+        },
+        {
+            "key": "vendorExplanation",
+            "english": "You picked a vendor with more expensive prices!",
+            "spanish": "¡Escogiste un vendedor con precios más caros!"
+        },
+        {
+            "key": "vendorYouPicked",
+            "english": "You picked:",
+            "spanish": "Escogiste:"
+        },
+        {
+            "key": "vendorOtherVendor",
+            "english": "The other vendor:",
+            "spanish": "El otro vendedor:"
+        },
+        {
+            "key": "per",
+            "english": "per",
+            "spanish": "por"
+        },
+        {
+            "key": "yes",
+            "english": "Yes",
+            "spanish": "Sí"
+        },
+        {
+            "key": "no",
+            "english": "No",
+            "spanish": "No"
+        },
+        {
+            "key": "new",
+            "english": "NEW",
+            "spanish": "NUEVO"
+        },
+        {
+            "key": "for",
+            "english": "for",
+            "spanish": "por"
+        },
+        {
+            "key": "ok",
+            "english": "OK",
+            "spanish": "OK"
+        },
+        {
+            "key": "gameOver",
+            "english": "Game Over!",
+            "spanish": "¡Fin del juego!"
+        },
+        {
+            "key": "buttonNext",
+            "english": "Next",
+            "spanish": "Siguente"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "noIngredientComplaintStrings": [
+        "fanaticWhere",
+        "fanaticAny",
+        "fanaticNeed",
+        "fanaticGimme",
+        "fanaticWontStop"
+    ],
+    "insufficientIngredientComplaintStrings": [
+        "fanaticMore",
+        "fanaticSoMuch",
+        "fanaticNotEnough"
+    ],
+    "numDaysToNextWave": 2,
+    "numOrdersPerWave": 10,
+    "minNumIngredientsPerPizza": 3,
+    "additionalQuantityMultiplier": 2,
+    "version": "3.22.0",
+    "patchVersion": 0
+}

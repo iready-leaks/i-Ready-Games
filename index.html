@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <title>Free i-Ready Games</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700" rel="stylesheet">
+</head>
+
+<body>
+    <main id="main" role="main">
+        <div id="game-container">
+            <div class="game-box" onclick="playGame('Bounce')">
+                <img src="images/games/fractionsBanner.jpg" alt="Bounce Game" />
+                <button class="play-button">Play Bounce</button>
+            </div>
+            <div class="game-box" onclick="playGame('CloudMachine')">
+                <img src="images/games/CloudMachineBanner.jpg" alt="Cloud Machine Game" />
+                <button class="play-button">Play CloudMachine</button>
+            </div>
+            <div class="game-box" onclick="playGame('Cupcake')">
+                <img src="images/games/CupcakeBanner.jpg" alt="Cupcake Game" />
+                <button class="play-button">Play Cupcake</button>
+            </div>
+            <div class="game-box" onclick="playGame('HungryFish')">
+                <img src="images/games/hungryFishBanner.jpg" alt="Hungry Fish Game" />
+                <button class="play-button">Play HungryFish</button>
+            </div>
+            <div class="game-box" onclick="playGame('HungryGuppy')">
+                <img src="images/games/HungryGuppyBanner.jpg" alt="Hungry Guppy Game" />
+                <button class="play-button">Play HungryGuppy</button>
+            </div>
+            <div class="game-box" onclick="playGame('Match')">
+                <img src="images/games/MatchBanner.jpg" alt="Match Game" />
+                <button class="play-button">Play Match</button>
+            </div>
+            <div class="game-box" onclick="playGame('Pizza')">
+                <img src="images/games/PizzaBanner.jpg" alt="Pizza Game" />
+                <button class="play-button">Play Pizza</button>
+            </div>
+            <div class="game-box" onclick="playGame('Zoom')">
+                <img src="images/games/ZoomBanner.jpg" alt="Zoom Game" />
+                <button class="play-button">Play Zoom</button>
+            </div>
+            <div class="game-box" onclick="playGame('Fluency')">
+                <img src="images/games/fluency.png" alt="Fluency Game" />
+                <button class="play-button">Play Fluency Flight</button>
+            </div>
+            <div class="game-box" onclick="playRewardGame('begooped')">
+                <img src="images/games/rewards_begooped.jpg" alt="Begooped" />
+                <button class="play-button">Play Begooped</button>
+            </div>
+            <div class="game-box" onclick="playRewardGame('catstacker')">
+                <img src="images/games/rewards_cat.jpg" alt="CatStacker" />
+                <button class="play-button">Play Cat Stacker</button>
+            </div>
+            <div class="game-box" onclick="playRewardGame('minedigger')">
+                <img src="images/games/rewards_digger.jpg" alt="Digsite" />
+                <button class="play-button">Play Digsite</button>
+            </div>
+            <div class="game-box" onclick="playRewardGame('pathspinners')">
+                <img src="images/games/rewards_path.jpg" alt="Path Spinners" />
+                <button class="play-button">Play Path Spinners</button>
+            </div>
+            <div class="game-box" onclick="playRewardGame('lanerunner')">
+                <img src="images/games/rewards_runner.jpg" alt="Galaxy Sprint" />
+                <button class="play-button">Play Galaxy Sprint</button>
+            </div>
+            <div class="game-box" onclick="playRewardGame('bubbles')">
+                <img src="images/games/rewards_wizard.jpg" alt="Wizard Pinball" />
+                <button class="play-button">Play Wizard Pinball</button>
+            </div>
+            <div class="game-box" onclick="playFlashGame('AstroBoard')">
+                <img src="images/games/AstroBoard.png" alt="Astro Board" />
+                <button class="play-button">Play Astro Board</button>
+            </div>
+            <div class="game-box" onclick="playFlashGame('LogRolling')">
+                <img src="images/games/LogRolling.png" alt="Log Rolling" />
+                <button class="play-button">Play Log Rolling</button>
+            </div>
+            <div class="game-box" onclick="playFlashGame('SpaceSkier')">
+                <img src="images/games/SpaceSkier.png" alt="Space Skier" />
+                <button class="play-button">Play Space Skier</button>
+            </div>
+            <div class="game-box" onclick="playFlashGame('DojoMojo')">
+                <img src="images/games/DojoMojo.png" alt="Dojo Mojo" />
+                <button class="play-button">Play Dojo Mojo</button>
+            </div>
+            <div class="game-box" onclick="playFlashGame('Eggscapade')">
+                <img src="images/games/Eggscapade.png" alt="Eggscapade!" />
+                <button class="play-button">Play Eggscapade!</button>
+            </div>
+            <div class="game-box" onclick="playFlashGame('SpaceGame')">
+                <img src="images/games/spaceGame.png" alt="Space Game" />
+                <button class="play-button">Play Space Game</button>
+            </div>
+            <div class="game-box" onclick="playFlashGame('WaterGame')">
+                <img src="images/games/waterGame.png" alt="Water Game" />
+                <button class="play-button">Play Water Game</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer" role="contentinfo">
+        <script src="UnityLoader.js"></script>
+        <script defer src="loader.js"></script>
+        <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+{
+    "biggerOvenString": "tutorialBiggerOven",
+    "defaultPizzaNames": [
+        "MVP",
+        "Chef's Special",
+        "Magnifico",
+        "Dough-licious",
+        "All-Star"
+    ],
+    "pizzaNameMaxLength": 15,
+    "defaultPizzaLimit": 3,
+    "defaultIngredientLimit": 15,
+    "version": "3.22.0",
+    "patchVersion": 0
+}

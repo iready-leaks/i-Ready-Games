@@ -1,0 +1,926 @@
+{
+    "version": "2.7.0",
+    "patchVersion": 0,
+    "cloudMachineStrings": [
+        {
+            "key": "tutorialOpenGate",
+            "english": "Click a gate to open it",
+            "spanish": "Elige una puerta para abrirla"
+        },
+        {
+            "key": "tutorialOpenGateTap",
+            "english": "Tap a gate to open it",
+            "spanish": "Toca una puerta para abrirla"
+        },
+        {
+            "key": "tutorialOpenBothGates",
+            "english": "Open both gates",
+            "spanish": "Abre ambas puertas"
+        },
+        {
+            "key": "tutorialBlockWater",
+            "english": "Block off the water",
+            "spanish": "Bloquea el agua"
+        },
+        {
+            "key": "tutorialFillBothGoals",
+            "english": "Fill both goals",
+            "spanish": "Llena ambos objetivos"
+        },
+        {
+            "key": "tutorialCloseGate",
+            "english": "Close this gate",
+            "spanish": "Cierra esta puerta"
+        },
+        {
+            "key": "settingsIntro",
+            "english": "Introduction",
+            "spanish": "Introducción"
+        },
+        {
+            "key": "settingsResume",
+            "english": "Resume",
+            "spanish": "Reanudar"
+        },
+        {
+            "key": "mainMenuWelcome",
+            "english": "Welcome to Cloud Machine,",
+            "spanish": "Bienvenido a Cloud Machine,"
+        },
+        {
+            "key": "mainMenuLevelsCompleted",
+            "english": "puzzles completed",
+            "spanish": "rompecabeza completados"
+        },
+        {
+            "key": "hintNotEnough",
+            "english": "Not enough yet",
+            "spanish": "Aún no es suficiente"
+        },
+        {
+            "key": "hintFillToHere",
+            "english": "Fill to here",
+            "spanish": "Llena hasta aquí"
+        },
+        {
+            "key": "hintWrongColor",
+            "english": "Wrong color",
+            "spanish": "Color incorrecto"
+        },
+        {
+            "key": "categorySpringRain",
+            "english": "Spring Rain",
+            "spanish": "Lluvia de primavera"
+        },
+        {
+            "key": "categoryRiverbank",
+            "english": "The Riverbank",
+            "spanish": "La ribera"
+        },
+        {
+            "key": "categoryWateringHole",
+            "english": "Watering Hole",
+            "spanish": "Abrevadero"
+        },
+        {
+            "key": "categoryLemonLimeOasis",
+            "english": "Lemon Lime Oasis",
+            "spanish": "Oasis lima limón"
+        },
+        {
+            "key": "categoryPurpleRain",
+            "english": "Purple Rain",
+            "spanish": "Lluvia púrpura"
+        },
+        {
+            "key": "levelOpenAGate",
+            "english": "Open a Gate",
+            "spanish": "Abre una puerta"
+        },
+        {
+            "key": "levelYouFilledACloud",
+            "english": "You filled a cloud!",
+            "spanish": "¡Llenaste una nube!"
+        },
+        {
+            "key": "levelReadyForMore",
+            "english": "Ready for more?",
+            "spanish": "¿Listo para más?"
+        },
+        {
+            "key": "levelIntroAlmostComplete",
+            "english": "Intro almost complete",
+            "spanish": "Introducción casi completa"
+        },
+        {
+            "key": "levelHalfOfFour",
+            "english": "Half Of Four",
+            "spanish": "La mitad de cuatro"
+        },
+        {
+            "key": "levelWaterworks",
+            "english": "Waterworks",
+            "spanish": "Planta de agua"
+        },
+        {
+            "key": "levelMeowMeow",
+            "english": "Meow Meow",
+            "spanish": "Miau miau"
+        },
+        {
+            "key": "levelMirrorMatch",
+            "english": "Mirror Match",
+            "spanish": "Juego de correspondencia"
+        },
+        {
+            "key": "levelRainmaker",
+            "english": "Rainmaker",
+            "spanish": "Creador de lluvia"
+        },
+        {
+            "key": "levelPouringRain",
+            "english": "Pouring Rain",
+            "spanish": "Lluvia torrencial"
+        },
+        {
+            "key": "levelRaindrops",
+            "english": "Raindrops",
+            "spanish": "Gotas de lluvia"
+        },
+        {
+            "key": "levelThunderstorm",
+            "english": "Thunderstorm",
+            "spanish": "Tormenta eléctrica"
+        },
+        {
+            "key": "levelLightningStrikes",
+            "english": "Lightning Strikes",
+            "spanish": "Relámpagos"
+        },
+        {
+            "key": "levelCloudCloud",
+            "english": "Cloud & Cloud",
+            "spanish": "Nube y nube"
+        },
+        {
+            "key": "levelFourSeasons",
+            "english": "Four Seasons",
+            "spanish": "Las cuatro estaciones"
+        },
+        {
+            "key": "levelWinkingFrog",
+            "english": "Winking Frog",
+            "spanish": "La rana guiñadora"
+        },
+        {
+            "key": "levelClover",
+            "english": "Clover",
+            "spanish": "Trébol"
+        },
+        {
+            "key": "levelMixItUp",
+            "english": "Mix It Up",
+            "spanish": "Mézclalo"
+        },
+        {
+            "key": "levelTwoWays",
+            "english": "Two Ways",
+            "spanish": "Dos maneras"
+        },
+        {
+            "key": "levelSwampThing",
+            "english": "Swamp Thing",
+            "spanish": "Monstruo del pantano"
+        },
+        {
+            "key": "levelAntlers",
+            "english": "Antlers",
+            "spanish": "Cuernos"
+        },
+        {
+            "key": "levelSplitTheSky",
+            "english": "Split the Sky",
+            "spanish": "Bolas de cielo"
+        },
+        {
+            "key": "levelDoubleScoop",
+            "english": "Double Scoop",
+            "spanish": "Dos bolas"
+        },
+        {
+            "key": "levelPaintTheSky",
+            "english": "Paint the Sky",
+            "spanish": "Pinta el cielo"
+        },
+        {
+            "key": "levelFistOfWind",
+            "english": "Fist of Wind",
+            "spanish": "Puñado de viento"
+        },
+        {
+            "key": "levelSkyTurtle",
+            "english": "Sky Turtle",
+            "spanish": "Tortuga celestial"
+        },
+        {
+            "key": "levelSkyCamel",
+            "english": "Sky Camel",
+            "spanish": "Camello celestial"
+        },
+        {
+            "key": "levelLobster",
+            "english": "Lobster",
+            "spanish": "Langosta"
+        },
+        {
+            "key": "levelLlama",
+            "english": "Llama",
+            "spanish": "Llama"
+        },
+        {
+            "key": "levelMallard",
+            "english": "Mallard",
+            "spanish": "Pato real"
+        },
+        {
+            "key": "levelThumbsUp",
+            "english": "Thumbs Up",
+            "spanish": "Pulgares hacia arriba"
+        },
+        {
+            "key": "levelNestEggs",
+            "english": "Nest Eggs",
+            "spanish": "Huevos de nido"
+        },
+        {
+            "key": "levelTicTacToe",
+            "english": "Tic Tac Toe",
+            "spanish": "Tres en línea"
+        },
+        {
+            "key": "levelHorse",
+            "english": "Horse",
+            "spanish": "Caballo"
+        },
+        {
+            "key": "levelZebra",
+            "english": "Zebra",
+            "spanish": "Cebra"
+        },
+        {
+            "key": "levelTwoGorillas",
+            "english": "Two Gorillas",
+            "spanish": "Dos gorilas"
+        },
+        {
+            "key": "levelThreeClaws",
+            "english": "Three Claws",
+            "spanish": "Tres garras"
+        },
+        {
+            "key": "levelLeftClaw",
+            "english": "Left Claw",
+            "spanish": "Garra izquierda"
+        },
+        {
+            "key": "levelMiddleClaw",
+            "english": "Middle Claw",
+            "spanish": "Garra del medio"
+        },
+        {
+            "key": "levelDoubleTheFunnel",
+            "english": "Double the Funnel",
+            "spanish": "Doble diversión"
+        },
+        {
+            "key": "levelTheCrown",
+            "english": "The Crown",
+            "spanish": "La corona"
+        },
+        {
+            "key": "levelCrabDown",
+            "english": "Crab Down",
+            "spanish": "Cangrejo boca abajo"
+        },
+        {
+            "key": "levelCrabUp",
+            "english": "Crab Up",
+            "spanish": "Cangrejo boca arriba"
+        },
+        {
+            "key": "levelDoubleBloom",
+            "english": "Double Bloom",
+            "spanish": "Dos flores"
+        },
+        {
+            "key": "levelBigBloom",
+            "english": "Big Bloom",
+            "spanish": "Gran flor"
+        },
+        {
+            "key": "levelCrocodileTear",
+            "english": "Crocodile Tear",
+            "spanish": "Lágrima de cocodrilo"
+        },
+        {
+            "key": "levelStratus",
+            "english": "Stratus",
+            "spanish": "Estrato"
+        },
+        {
+            "key": "levelLimesInTheMiddle",
+            "english": "Limes in the Middle",
+            "spanish": "Limas en el medio"
+        },
+        {
+            "key": "levelMoth",
+            "english": "Moth",
+            "spanish": "Mariposa nocturna"
+        },
+        {
+            "key": "levelLilParrot",
+            "english": "Lil' Parrot",
+            "spanish": "Loro pequeño"
+        },
+        {
+            "key": "levelParrotFamily",
+            "english": "Parrot Family",
+            "spanish": "Familia loro"
+        },
+        {
+            "key": "levelMyTwoLimes",
+            "english": "My Two Limes",
+            "spanish": "Mis dos limas"
+        },
+        {
+            "key": "levelBabySnakes",
+            "english": "Baby Snakes",
+            "spanish": "Serpientes bebé"
+        },
+        {
+            "key": "levelSnakeSquad",
+            "english": "Snake Squad",
+            "spanish": "Escuadrón serpiente"
+        },
+        {
+            "key": "levelFamilyPhoto",
+            "english": "Family Photo",
+            "spanish": "Foto familiar"
+        },
+        {
+            "key": "levelEagleSoar",
+            "english": "Eagle Soar",
+            "spanish": "Vuelo del águila"
+        },
+        {
+            "key": "levelGreenSteps",
+            "english": "Green Steps",
+            "spanish": "Escalones verdes"
+        },
+        {
+            "key": "levelElephantParty",
+            "english": "Elephant Party",
+            "spanish": "Fiesta de elefantes"
+        },
+        {
+            "key": "levelHuntingHawk",
+            "english": "Hunting Hawk",
+            "spanish": "Halcón cazador"
+        },
+        {
+            "key": "levelLimeTime",
+            "english": "Lime Time",
+            "spanish": "La hora de las limas"
+        },
+        {
+            "key": "levelSplashOfGreen",
+            "english": "Splash of Green",
+            "spanish": "Un toque de verde"
+        },
+        {
+            "key": "levelGreenNimbus",
+            "english": "Green Nimbus",
+            "spanish": "Nimbo verde"
+        },
+        {
+            "key": "levelSkyscaper",
+            "english": "Skyscaper",
+            "spanish": "Rascacielos"
+        },
+        {
+            "key": "levelVexing",
+            "english": "Vexing",
+            "spanish": "Complicado"
+        },
+        {
+            "key": "levelMustMix",
+            "english": "Must Mix",
+            "spanish": "Debes mezclar."
+        },
+        {
+            "key": "levelTwoCan",
+            "english": "Two Can",
+            "spanish": "Tucanes"
+        },
+        {
+            "key": "levelButterfly",
+            "english": "Butterfly",
+            "spanish": "Mariposa"
+        },
+        {
+            "key": "levelIsThisReal",
+            "english": "Is this Real?",
+            "spanish": "¿Es esto real?"
+        },
+        {
+            "key": "levelYesItIs",
+            "english": "Yes, It Is",
+            "spanish": "Sí lo es."
+        },
+        {
+            "key": "levelOnlyHalf",
+            "english": "Only Half",
+            "spanish": "Solo la mitad"
+        },
+        {
+            "key": "levelSkyfall",
+            "english": "Skyfall",
+            "spanish": "Catástrofe"
+        },
+        {
+            "key": "levelCloudControl",
+            "english": "Cloud Control",
+            "spanish": "Control de nubes"
+        },
+        {
+            "key": "levelLeftAndRight",
+            "english": "Left and Right",
+            "spanish": "Izquierda y derecha"
+        },
+        {
+            "key": "levelMeetInTheMiddle",
+            "english": "Meet in the Middle",
+            "spanish": "Encuentro en el centro"
+        },
+        {
+            "key": "levelPrecipitationStation",
+            "english": "Precipitation Station",
+            "spanish": "Estación de lluvia"
+        },
+        {
+            "key": "levelRhymesWithPurple",
+            "english": "Rhymes with Purple",
+            "spanish": "Nunca rima"
+        },
+        {
+            "key": "levelCumulonimbus",
+            "english": "Cumulonimbus",
+            "spanish": "Cumulonimbo"
+        },
+        {
+            "key": "levelCloudCreator",
+            "english": "Cloud Creator",
+            "spanish": "Creador de nubes"
+        },
+        {
+            "key": "categoryPulley",
+            "english": "Splash Safari",
+            "spanish": "Safari mojado"
+        },
+        {
+            "key": "levelPullTheHandle",
+            "english": "Pull the Handle",
+            "spanish": "Jala la cuerda"
+        },
+        {
+            "key": "levelPullAllTheHandles",
+            "english": "Pull all the Handles",
+            "spanish": "Jala todas las cuerdas"
+        },
+        {
+            "key": "levelPeaksAndValleys",
+            "english": "Peaks and Valleys",
+            "spanish": "Picos y valles"
+        },
+        {
+            "key": "levelPurplePartitionMaker",
+            "english": "Purple Partition Maker",
+            "spanish": "Generador de divisiones moradas"
+        },
+        {
+            "key": "levelFlipFlop",
+            "english": "Flip, Flop",
+            "spanish": "Arriba, abajo"
+        },
+        {
+            "key": "levelStandUpLieDown",
+            "english": "Stand Up, Lie Down",
+            "spanish": "Parado, acostado"
+        },
+        {
+            "key": "levelHalfandHalf",
+            "english": "Half and Half",
+            "spanish": "Mitad y mitad"
+        },
+        {
+            "key": "levelHeartbreak",
+            "english": "Heartbreak",
+            "spanish": "Corazón roto"
+        },
+        {
+            "key": "level!!!",
+            "english": "!!!",
+            "spanish": "!!!"
+        },
+        {
+            "key": "levelFunnyBunny",
+            "english": "Funny Bunny",
+            "spanish": "Conejito gracioso"
+        },
+        {
+            "key": "levelLetsMakePurple",
+            "english": "Let's Make Purple",
+            "spanish": "Cómo hacer el color morado"
+        },
+        {
+            "key": "levelMixDown",
+            "english": "Mix Down",
+            "spanish": "Mezclas"
+        },
+        {
+            "key": "levelTripleMixDown",
+            "english": "Triple Mix Down",
+            "spanish": "Tres mezclas"
+        },
+        {
+            "key": "levelCloudCascade",
+            "english": "Cloud Cascade",
+            "spanish": "Cascada de nubes"
+        },
+        {
+            "key": "levelBigFishLittleFish",
+            "english": "Big Fish, Little Fish",
+            "spanish": "Pez grande, pez chico"
+        },
+        {
+            "key": "levelTiltAWhirl",
+            "english": "Tilt-a-Whirl",
+            "spanish": "Remolino musical"
+        },
+        {
+            "key": "levelTheChamp",
+            "english": "The Champ",
+            "spanish": "El campeón"
+        },
+        {
+            "key": "levelLogRide",
+            "english": "Log Ride",
+            "spanish": "Registro de atracciones"
+        },
+        {
+            "key": "categorySymbols",
+            "english": "Mechtropolis",
+            "spanish": "Mectrópolis"
+        },
+        {
+            "key": "levelClicktheButtons",
+            "english": "Click the Buttons",
+            "spanish": "Presionar los botones"
+        },
+        {
+            "key": "levelButtonsonBottom",
+            "english": "Buttons on Bottom",
+            "spanish": "Botones en el fondo"
+        },
+        {
+            "key": "levelUpDownDownUp",
+            "english": "Up Down Down Up",
+            "spanish": "Arriba abajo Abajo arriba"
+        },
+        {
+            "key": "levelBigDrops",
+            "english": "Big Drops",
+            "spanish": "Gotas grandes"
+        },
+        {
+            "key": "levelZigZag",
+            "english": "Zig Zag",
+            "spanish": "Zigzag"
+        },
+        {
+            "key": "levelIcebreaker",
+            "english": "Icebreaker",
+            "spanish": "Rompehielos"
+        },
+        {
+            "key": "levelGoldilocks",
+            "english": "Goldilocks",
+            "spanish": "Ricitos de oro"
+        },
+        {
+            "key": "levelRolltheIce",
+            "english": "Roll the Ice",
+            "spanish": "Lanzar los hielos"
+        },
+        {
+            "key": "levelIcicles",
+            "english": "Icicles",
+            "spanish": "Carámbanos"
+        },
+        {
+            "key": "levelReflection",
+            "english": "Reflection",
+            "spanish": "Reflexión"
+        },
+        {
+            "key": "levelWindmills",
+            "english": "Windmills",
+            "spanish": "Molinos de viento"
+        },
+        {
+            "key": "levelBrainDrain",
+            "english": "Brain Drain",
+            "spanish": "Vaciar el cerebro"
+        },
+        {
+            "key": "levelWatercolors",
+            "english": "Watercolors",
+            "spanish": "Acuarelas"
+        },
+        {
+            "key": "levelHalftime",
+            "english": "Halftime",
+            "spanish": "Medio tiempo"
+        },
+        {
+            "key": "levelPumpItUp",
+            "english": "Pump It Up",
+            "spanish": "Bombear"
+        },
+        {
+            "key": "levelDropandMix",
+            "english": "Drop and Mix",
+            "spanish": "Soltar y mezclar"
+        },
+        {
+            "key": "levelSecretIngredient",
+            "english": "Secret Ingredient",
+            "spanish": "Ingrediente secreto"
+        },
+        {
+            "key": "levelDropandRemix",
+            "english": "Drop and Remix",
+            "spanish": "Soltar y volver a mezclar"
+        },
+        {
+            "key": "errorOops",
+            "english": "Oops!",
+            "spanish": "¡Huy!"
+        },
+        {
+            "key": "errorHorizontalVerticalNotSupported",
+            "english": "We don't support containers that have both horizontal and vertical gates yet. \nPlease update the container and try again.",
+            "spanish": "En este momento no tenemos recipientes con puertas horizontales y verticales. Por favor actualiza el recipiente y vuelve a intentar."
+        },
+        {
+            "key": "errorDifferentWay",
+            "english": "You can't do that yet. \nTry making the puzzle a different way!",
+            "spanish": "Todavía no puedes hacer eso. ¡Intenta hacer el rompecabezas de otra manera!"
+        },
+        {
+            "key": "btnPuzzleCreator",
+            "english": "Puzzle Creator",
+            "spanish": "Creador de rompecabezas"
+        },
+        {
+            "key": "savedPuzzleNamePrefix",
+            "english": "Puzzle",
+            "spanish": "Rompecabeza"
+        },
+        {
+            "key": "hudContainer",
+            "english": "Container",
+            "spanish": "Recipiente"
+        },
+        {
+            "key": "hudGoal",
+            "english": "Goal",
+            "spanish": "Meta"
+        },
+        {
+            "key": "hudLiquid",
+            "english": "Liquid",
+            "spanish": "Líquido"
+        },
+        {
+            "key": "hudGate",
+            "english": "Gate",
+            "spanish": "Puerta"
+        },
+        {
+            "key": "hudWall",
+            "english": "Wall",
+            "spanish": "Pared"
+        },
+        {
+            "key": "btnEdit",
+            "english": "Edit",
+            "spanish": "Editar"
+        },
+        {
+            "key": "btnPlay",
+            "english": "Play",
+            "spanish": "Jugar"
+        },
+        {
+            "key": "btnReset",
+            "english": "Reset",
+            "spanish": "Cambiar ajustes"
+        },
+        {
+            "key": "btnSaveExit",
+            "english": "Save & Exit",
+            "spanish": "Guardar y salir"
+        },
+        {
+            "key": "saveConfirm1",
+            "english": "You can access it anytime by clicking on",
+            "spanish": "Puedes entrar cuando quieras si haces click en"
+        },
+        {
+            "key": "saveConfirm2",
+            "english": "in the Puzzle Creator category",
+            "spanish": "en la categoría de Creador de rompecabezas."
+        },
+        {
+            "key": "saveBeforeQuit",
+            "english": "Save before quitting?",
+            "spanish": "¿Lo quieres guardar antes de salir?"
+        },
+        {
+            "key": "saveChanges",
+            "english": "Your changes may not be saved if you exit now.",
+            "spanish": "Es posible que tus cambios no se guarden si te sales ahora."
+        },
+        {
+            "key": "btnDontSave",
+            "english": "Don't Save",
+            "spanish": "No salvar"
+        },
+        {
+            "key": "btnCreatePuzzle",
+            "english": "Create a puzzle",
+            "spanish": "Haz un rompecabezas"
+        },
+        {
+            "key": "btnStatusShared",
+            "english": "Shared",
+            "spanish": "Compartido"
+        },
+        {
+            "key": "btnStatusPrivate",
+            "english": "Private",
+            "spanish": "Privado"
+        },
+        {
+            "key": "btnMakePrivate",
+            "english": "Make Private",
+            "spanish": "Haz un rompecabezas privado"
+        },
+        {
+            "key": "btnEditPuzzle",
+            "english": "Edit Puzzle",
+            "spanish": "Editar rompecabezas"
+        },
+        {
+            "key": "btnDeletePuzzle",
+            "english": "Delete Puzzle",
+            "spanish": "Borra el rompecabezas"
+        },
+        {
+            "key": "me",
+            "english": "Me",
+            "spanish": "Yo"
+        },
+        {
+            "key": "optionsLiquidNumerator",
+            "english": "Liquid numerator",
+            "spanish": "Numerador líquido"
+        },
+        {
+            "key": "optionsLiquidDenominator",
+            "english": "Liquid denominator",
+            "spanish": "Denominador líquido"
+        },
+        {
+            "key": "optionsParts",
+            "english": "Parts",
+            "spanish": "Partes"
+        },
+        {
+            "key": "optionsPartitionType",
+            "english": "Partition type",
+            "spanish": "Tipo de división"
+        },
+        {
+            "key": "optionsTargetNumerator",
+            "english": "Target numerator",
+            "spanish": "Numerador objetivo"
+        },
+        {
+            "key": "optionsTargetDenominator",
+            "english": "Target denominator",
+            "spanish": "Denominador objetivo"
+        },
+        {
+            "key": "creatorTutorialWelcome",
+            "english": "Welcome to the Puzzle Creator!",
+            "spanish": "¡Bienvenido al creador de rompecabezas!"
+        },
+        {
+            "key": "creatorTutorialCreateContainer",
+            "english": "This is where you can design, play and share your puzzles. \nFirst, create a container to hold liquid.",
+            "spanish": "Aquí puedes diseñar, jugar y compartir tus rompecabezas.\nPrimero, crea un recipiente para líquidos."
+        },
+        {
+            "key": "creatorTutorialAddLiquid",
+            "english": "Now add some liquid to the container you created.",
+            "spanish": "Ahora, añade un poco de líquido al recipiente que creaste."
+        },
+        {
+            "key": "creatorTutorialChangeAmount",
+            "english": "This shows you how much liquid is in your container. Use the buttons to change the amount.",
+            "spanish": "Esto muestra cuánto líquido hay en tu recipiente. Usa los botones para cambiar la cantidad."
+        },
+        {
+            "key": "creatorTutorialAddGoal",
+            "english": "Now add a goal to your puzzle.",
+            "spanish": "Ahora agrega una meta a tu rompecabezas."
+        },
+        {
+            "key": "creatorTutorialSetGoal",
+            "english": "Use the buttons to set your goal target.",
+            "spanish": "Usa los botones para ajustar tu meta."
+        },
+        {
+            "key": "creatorTutorialAddGate",
+            "english": "Add a gate to the bottom of the container. This lets the liquid drain out.",
+            "spanish": "Pon una puerta en el fondo del recipiente. Esto permite que todo el líquido salga."
+        },
+        {
+            "key": "creatorTutorialPlayPuzzle",
+            "english": "Try playing your puzzle.",
+            "spanish": "Intenta jugar con tu rompecabezas."
+        },
+        {
+            "key": "creatorTutorialKeepEditing",
+            "english": "Keep editing your puzzle to make it more challenging.\nSolve it to share with your friends!",
+            "spanish": "Sigue editando tu rompecabezas para hacerlo más difícil. ¡Resuélvelo para compartirlo con tus amigos!"
+        },
+        {
+            "key": "classNameChange",
+            "english": "Change Name",
+            "spanish": "Cambia el nombre"
+        },
+        {
+            "key": "classNameChangeInstruction",
+            "english": "Rename your class to help students identify it.",
+            "spanish": "Cambia el nombre de tu clase para que los estudiantes la identifiquen"
+        },
+        {
+            "key": "classRenameClass",
+            "english": "Rename Class",
+            "spanish": "Cambia el nombre de tu clase"
+        },
+        {
+            "key": "classButtonHeader",
+            "english": "My Class Puzzles",
+            "spanish": "Los rompecabezas de mi clase"
+        },
+        {
+            "key": "btnShareWithClass",
+            "english": "Share With Your Class",
+            "spanish": "Comparte con tu clase"
+        },
+        {
+            "key": "puzzleSolved",
+            "english": "Puzzle Solved",
+            "spanish": "Rompecabezas resuelto"
+        },
+        {
+            "key": "savePrivately",
+            "english": "Save Privately",
+            "spanish": "Guardar privado"
+        },
+        {
+            "key": "shareYourPuzzle",
+            "english": "Share Your Puzzle",
+            "spanish": "Comparte tu rompecabezas"
+        },
+        {
+            "key": "yourPuzzleNameIs",
+            "english": "Your puzzle name is",
+            "spanish": "Tu rompecabezas se llama"
+        }
+    ]
+}

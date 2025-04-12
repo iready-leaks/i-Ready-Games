@@ -1,0 +1,10 @@
+{
+    "cash": 50,
+    "currentDay": 0,
+    "numUnlockedIngredients": 3,
+    "dinerDifficulty": 0,
+    "dinerSuccessRate": 1,
+    "averageCustomerResponseTime": 20,
+    "version": "3.22.0",
+    "patchVersion": 0
+}

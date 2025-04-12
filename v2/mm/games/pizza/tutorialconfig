@@ -1,0 +1,7 @@
+{
+    "maxCustomers": 1,
+    "queueCount": 1,
+    "sellingDayLength": 30,
+    "version": "3.22.0",
+    "patchVersion": 0
+}

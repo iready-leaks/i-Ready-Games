@@ -1,0 +1,335 @@
+{
+    "timerDuration": 40,
+    "colors": [
+        "#F79A3E",
+        "#2AA9FC",
+        "#FC4FB6",
+        "#36BA42",
+        "#83F0FF",
+        "#DD3919",
+        "#FCEE86",
+        "#C965C9",
+        "#18C0C4",
+        "#BCBBBB",
+        "#8D1442",
+        "#003374",
+        "#96CE74",
+        "#D7D0E4",
+        "#F79A7A",
+        "#1188B7",
+        "#6B3A37",
+        "#E4E5CE",
+        "#F47D8E",
+        "#B8F766"
+    ],
+    "version": "2.22.0",
+    "patchVersion": 0,
+    "bodyEffects": [
+        {
+            "id": 1,
+            "icon": "bodyEffect1",
+            "effect": "shader1"
+        },
+        {
+            "id": 2,
+            "icon": "bodyEffect2",
+            "effect": "shader2"
+        },
+        {
+            "id": 3,
+            "icon": "bodyEffect3",
+            "effect": "shader3"
+        },
+        {
+            "id": 4,
+            "icon": "bodyEffect4",
+            "effect": "shader4"
+        },
+        {
+            "id": 5,
+            "icon": "bodyEffect5",
+            "effect": "shader5"
+        },
+        {
+            "id": 6,
+            "icon": "bodyEffect6",
+            "effect": "shader6"
+        },
+        {
+            "id": 7,
+            "icon": "bodyEffect7",
+            "effect": "shader7"
+        },
+        {
+            "id": 8,
+            "icon": "bodyEffect8",
+            "effect": "shader8"
+        }
+    ],
+    "winAnimations": [
+        {
+            "id": 1,
+            "icon": "winAnimation1",
+            "clip": "winAnimationClip1"
+        },
+        {
+            "id": 2,
+            "icon": "winAnimation2",
+            "clip": "winAnimationClip2"
+        },
+        {
+            "id": 3,
+            "icon": "winAnimation3",
+            "clip": "winAnimationClip3"
+        },
+        {
+            "id": 4,
+            "icon": "winAnimation4",
+            "clip": "winAnimationClip4"
+        },
+        {
+            "id": 5,
+            "icon": "winAnimation5",
+            "clip": "winAnimationClip5"
+        },
+        {
+            "id": 6,
+            "icon": "winAnimation6",
+            "clip": "winAnimationClip6"
+        },
+        {
+            "id": 7,
+            "icon": "winAnimation7",
+            "clip": "winAnimationClip7"
+        },
+        {
+            "id": 8,
+            "icon": "winAnimation8",
+            "clip": "winAnimationClip8"
+        }
+    ],
+    "patterns": [
+        {
+            "id": 1,
+            "type": "body",
+            "spritePrefix": "body1",
+            "middleSchool": ""
+        },
+        {
+            "id": 2,
+            "type": "body",
+            "spritePrefix": "body2",
+            "middleSchool": ""
+        },
+        {
+            "id": 3,
+            "type": "body",
+            "spritePrefix": "body3",
+            "middleSchool": ""
+        },
+        {
+            "id": 4,
+            "type": "body",
+            "spritePrefix": "body4",
+            "middleSchool": ""
+        },
+        {
+            "id": 5,
+            "type": "eye",
+            "spritePrefix": "eye1",
+            "middleSchool": ""
+        },
+        {
+            "id": 6,
+            "type": "eye",
+            "spritePrefix": "eye2",
+            "middleSchool": ""
+        },
+        {
+            "id": 7,
+            "type": "eye",
+            "spritePrefix": "eye3",
+            "middleSchool": ""
+        },
+        {
+            "id": 8,
+            "type": "eye",
+            "spritePrefix": "eye4",
+            "middleSchool": ""
+        },
+        {
+            "id": 9,
+            "type": "bottomFin",
+            "spritePrefix": "bottomFin1",
+            "middleSchool": ""
+        },
+        {
+            "id": 10,
+            "type": "bottomFin",
+            "spritePrefix": "bottomFin2",
+            "middleSchool": ""
+        },
+        {
+            "id": 11,
+            "type": "bottomFin",
+            "spritePrefix": "bottomFin3",
+            "middleSchool": ""
+        },
+        {
+            "id": 12,
+            "type": "bottomFin",
+            "spritePrefix": "bottomFin4",
+            "middleSchool": ""
+        },
+        {
+            "id": 13,
+            "type": "topFin",
+            "spritePrefix": "topFin1",
+            "middleSchool": ""
+        },
+        {
+            "id": 14,
+            "type": "topFin",
+            "spritePrefix": "topFin2",
+            "middleSchool": ""
+        },
+        {
+            "id": 15,
+            "type": "topFin",
+            "spritePrefix": "topFin3",
+            "middleSchool": ""
+        },
+        {
+            "id": 16,
+            "type": "topFin",
+            "spritePrefix": "topFin4",
+            "middleSchool": ""
+        },
+        {
+            "id": 17,
+            "type": "tail",
+            "spritePrefix": "tail1",
+            "middleSchool": ""
+        },
+        {
+            "id": 18,
+            "type": "tail",
+            "spritePrefix": "tail2",
+            "middleSchool": ""
+        },
+        {
+            "id": 19,
+            "type": "tail",
+            "spritePrefix": "tail3",
+            "middleSchool": ""
+        },
+        {
+            "id": 20,
+            "type": "tail",
+            "spritePrefix": "tail4",
+            "middleSchool": ""
+        },
+        {
+            "id": 21,
+            "type": "hat",
+            "spritePrefix": "hat1",
+            "middleSchool": true
+        },
+        {
+            "id": 22,
+            "type": "hat",
+            "spritePrefix": "hat2",
+            "middleSchool": true
+        },
+        {
+            "id": 23,
+            "type": "hat",
+            "spritePrefix": "hat3",
+            "middleSchool": true
+        },
+        {
+            "id": 24,
+            "type": "hat",
+            "spritePrefix": "hat4",
+            "middleSchool": true
+        },
+        {
+            "id": 25,
+            "type": "hat",
+            "spritePrefix": "hat5",
+            "middleSchool": true
+        },
+        {
+            "id": 26,
+            "type": "hat",
+            "spritePrefix": "hat6",
+            "middleSchool": true
+        },
+        {
+            "id": 27,
+            "type": "hat",
+            "spritePrefix": "hat7",
+            "middleSchool": true
+        },
+        {
+            "id": 28,
+            "type": "hat",
+            "spritePrefix": "hat8",
+            "middleSchool": true
+        },
+        {
+            "id": 29,
+            "type": "hat",
+            "spritePrefix": "hat9",
+            "middleSchool": true
+        },
+        {
+            "id": 30,
+            "type": "hat",
+            "spritePrefix": "hat10",
+            "middleSchool": true
+        },
+        {
+            "id": 31,
+            "type": "hat",
+            "spritePrefix": "hat11",
+            "middleSchool": true
+        },
+        {
+            "id": 32,
+            "type": "hat",
+            "spritePrefix": "hat12",
+            "middleSchool": true
+        },
+        {
+            "id": 33,
+            "type": "hat",
+            "spritePrefix": "hat13",
+            "middleSchool": true
+        },
+        {
+            "id": 34,
+            "type": "hat",
+            "spritePrefix": "hat14",
+            "middleSchool": true
+        },
+        {
+            "id": 35,
+            "type": "hat",
+            "spritePrefix": "hat15",
+            "middleSchool": true
+        },
+        {
+            "id": 36,
+            "type": "hat",
+            "spritePrefix": "hat16",
+            "middleSchool": true
+        },
+        {
+            "id": 37,
+            "type": "hat",
+            "spritePrefix": "hat17",
+            "middleSchool": true
+        }
+    ]
+}

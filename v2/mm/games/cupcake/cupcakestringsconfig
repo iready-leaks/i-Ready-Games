@@ -1,0 +1,1501 @@
+{
+    "version": "4.16.0",
+    "patchVersion": 0,
+    "cupcakeStrings": [
+        {
+            "key": "tutorialStart",
+            "english": "So you want to run a cupcake delivery business?\n\nHere's ${$cash} to get you started!",
+            "spanish": "¿Quieres tener un negocio de entrega de panecillos? \n\n¡Aquí hay ${$cash} para que empieces!"
+        },
+        {
+            "key": "tutorialArrowKeys",
+            "english": "Great!\n \nNow use the arrow keys on the keyboard to drive down to the market.",
+            "spanish": "¡Muy bien! \n\nAhora usa las teclas de flechas en el teclado para manejar hacia el mercado."
+        },
+        {
+            "key": "tutorialKeyboard",
+            "english": "Use the keyboard!",
+            "spanish": "Usa el teclado"
+        },
+        {
+            "key": "tutorialMarket",
+            "english": "This is the market!\n\nYou'll buy ingredients for your cupcakes here.",
+            "spanish": "¡Este es el mercado!\n\nAquí vas a comprar los ingredientes para los panecillos."
+        },
+        {
+            "key": "tutorialDrive",
+            "english": "Great!\n\nNow drive down to the market.",
+            "spanish": "¡Muy bien!\n\nAhora maneja hacia el mercado."
+        },
+        {
+            "key": "tutorialMarketNextIngredient",
+            "english": "You can buy more ingredients by clicking on other stands.",
+            "spanish": "Puedes comprar más ingredientes eligiendo otros puestos."
+        },
+        {
+            "key": "tutorialMarketNextIngredientTouch",
+            "english": "You can buy more ingredients by tapping on the other stands.",
+            "spanish": "Puedes comprar más ingredientes eligiendo otros puestos."
+        },
+        {
+            "key": "tutorialBakeryNumber",
+            "english": "Click the number of cupcakes asked for.",
+            "spanish": "Elige el número de panecillos que te piden."
+        },
+        {
+            "key": "tutorialBakeryCupcake",
+            "english": "Now click the kind of cupcake.",
+            "spanish": "Ahora, elige el tipo de panecillo."
+        },
+        {
+            "key": "tutorialBakeryReceipt",
+            "english": "Click on the receipt!",
+            "spanish": "¡Elige el recibo!"
+        },
+        {
+            "key": "tutorialBakeryNumberTouch",
+            "english": "Tap the number of cupcakes asked for.",
+            "spanish": "Toca el número de panecillos que te piden."
+        },
+        {
+            "key": "tutorialBakeryCupcakeTouch",
+            "english": "Now tap the kind of cupcake.",
+            "spanish": "Ahora toca el tipo de panecillo."
+        },
+        {
+            "key": "ftueBakeryTouch",
+            "english": "Drag the receipt to the right location!",
+            "spanish": "¡Arrastra el recibo al lugar correcto!"
+        },
+        {
+            "key": "tutorialDeliveryLocation",
+            "english": "Drive to {$xLocation}.",
+            "spanish": "Maneja hacia {$xLocation}."
+        },
+        {
+            "key": "tutorialDeliverySpacebar",
+            "english": "Press spacebar!",
+            "spanish": "¡Presiona la barra espaciadora!"
+        },
+        {
+            "key": "tutorialDeliveryCustomer",
+            "english": "Tap the customer!",
+            "spanish": "¡Toca al cliente!"
+        },
+        {
+            "key": "tutorialIngredient",
+            "english": "You unlocked a new ingredient! \n\nGo to the market to check it out!",
+            "spanish": "¡Desbloqueaste otro ingrediente!\n\r\n¡Ve al mercado para verlo!"
+        },
+        {
+            "key": "tutorialVendor",
+            "english": "A new seller has arrived. Shop around in the market to find the best prices.",
+            "spanish": "Hay un vendedor nuevo. Compara los precios en el mercado para encontrar los mejores."
+        },
+        {
+            "key": "tutorialVendorStand",
+            "english": "Sometimes a stand will have two sellers.\n\nTry to buy from the seller with the best price!",
+            "spanish": "A veces un puesto tendrá dos vendedores. ¡Intenta comprarle al vendedor con el mejor precio!"
+        },
+        {
+            "key": "tutorialUpgrades",
+            "english": "There are other vendors in your town that will make your cupcake business even better! \n\nDrive around to find them!",
+            "spanish": "¡Hay otros vendedores en el pueblo que van a ayudar a mejorar tu negocio de panecillos! \n\n¡Recorre el pueblo para hallarlos!"
+        },
+        {
+            "key": "hintLocation",
+            "english": "The first number ({$xLocation}) is how far right. \n\nThe second number ({$yLocation}) is how far up.",
+            "spanish": "El primer número ({$xLocation}) indica la distancia hacia la derecha. \n\nEl segundo número ({$yLocation}) indica la distancia hacia arriba."
+        },
+        {
+            "key": "coordinateHouse",
+            "english": "My house is at <coord>.",
+            "spanish": "Mi casa está en <coord>."
+        },
+        {
+            "key": "coordinateAppt",
+            "english": "My apartment is at <coord>.",
+            "spanish": "Mi apartamento está en <coord>."
+        },
+        {
+            "key": "coordinateBe",
+            "english": "I'll be at <coord>.",
+            "spanish": "Estaré en <coord>."
+        },
+        {
+            "key": "coordinateLocation",
+            "english": "My location: <coord>.",
+            "spanish": "Mi ubicación: <coord>."
+        },
+        {
+            "key": "coordinateAddress",
+            "english": "Oh, you'll need my address. It's <coord>.",
+            "spanish": "Ay, vas a necesitar mi dirección. Es <coord>."
+        },
+        {
+            "key": "coordinateDropoff",
+            "english": "The dropoff location is <coord>. Don't be late.",
+            "spanish": "La ubicación de entrega es <coord>. No llegues tarde."
+        },
+        {
+            "key": "coordinateLive",
+            "english": "I live at <coord>.",
+            "spanish": "Vivo en <coord>."
+        },
+        {
+            "key": "coordinateDeliver",
+            "english": "Please deliver to <coord> -- thanks!",
+            "spanish": "Por favor, envíalo a <coord>. ¡Gracias!"
+        },
+        {
+            "key": "coordinateDistractorLive",
+            "english": "I live at <distractor>. But I'll pick it up at <coord>.",
+            "spanish": "Vivo en <distractor>. Pero lo recogeré en <coord>."
+        },
+        {
+            "key": "coordinateDistractorParty",
+            "english": "My party is at location <distractor>; I'll pick up the cupcakes at <coord>.",
+            "spanish": "Mi fiesta está en la ubicación <distractor>; recogeré los panecillos en <coord>."
+        },
+        {
+            "key": "coordinateDistractorStore",
+            "english": "I was at <distractor> and heard about your store! Sounds amazing. I'll be at <coord>.",
+            "spanish": "¡Estaba en <distractor> y escuché sobre esta tienda! Suena asombrosa. Estaré en <coord>."
+        },
+        {
+            "key": "upgradesVehicleScooter",
+            "english": "Scooter",
+            "spanish": "Motoneta"
+        },
+        {
+            "key": "upgradesVehicleCompact",
+            "english": "Compact",
+            "spanish": "Carro compacto"
+        },
+        {
+            "key": "upgradesVehicleSedan",
+            "english": "Sedan",
+            "spanish": "Sedán"
+        },
+        {
+            "key": "upgradesVehicleStock",
+            "english": "Stock Car",
+            "spanish": "Carro de abastecimiento"
+        },
+        {
+            "key": "upgradesVehiclePickup",
+            "english": "Pickup",
+            "spanish": "Camioneta de carga"
+        },
+        {
+            "key": "upgradesVehicleVan",
+            "english": "Van",
+            "spanish": "Camioneta"
+        },
+        {
+            "key": "upgradesVehicle5030",
+            "english": "Speed: 50 mi/hr\nCapacity: 30 cupcakes",
+            "spanish": "Velocidad: 50 mi/h\nCapacidad: 30 panecillos"
+        },
+        {
+            "key": "upgradesVehicle7040",
+            "english": "Speed: 70 mi/hr\nCapacity: 40 cupcakes",
+            "spanish": "Velocidad: 70 mi/h\nCapacidad: 40 panecillos"
+        },
+        {
+            "key": "upgradesVehicle5060",
+            "english": "Speed: 50 mi/hr\nCapacity: 60 cupcakes",
+            "spanish": "Velocidad: 50 mi/h\nCapacidad: 60 panecillos"
+        },
+        {
+            "key": "upgradesVehicle9080",
+            "english": "Speed: 90 mi/hr\nCapacity: 80 cupcakes",
+            "spanish": "Velocidad: 90 mi/h\nCapacidad: 80 panecillos"
+        },
+        {
+            "key": "upgradesVehicle70120",
+            "english": "Speed: 70 mi/hr\nCapacity: 120 cupcakes",
+            "spanish": "Velocidad: 70 mi/h\nCapacidad: 120 panecillos"
+        },
+        {
+            "key": "upgradesVehicle80400",
+            "english": "Speed: 80 mi/hr\nCapacity: 400 cupcakes",
+            "spanish": "Velocidad: 80 mi/h\nCapacidad: 400 panecillos"
+        },
+        {
+            "key": "upgradesSign",
+            "english": "Fancy sign",
+            "spanish": "Señal de lujo"
+        },
+        {
+            "key": "upgradesOven",
+            "english": "Triple oven",
+            "spanish": "Horno triple"
+        },
+        {
+            "key": "upgradesPoster",
+            "english": "Promotional posters",
+            "spanish": "Carteles promocionales"
+        },
+        {
+            "key": "upgradesBoxes",
+            "english": "Impact resistant boxes",
+            "spanish": "Cajas resistentes a impactos"
+        },
+        {
+            "key": "upgradesFridge",
+            "english": "Industrial fridge",
+            "spanish": "Nevera industrial"
+        },
+        {
+            "key": "upgradesBusAds",
+            "english": "Bus Stop Ads",
+            "spanish": "Anuncios de parada de autobús"
+        },
+        {
+            "key": "upgradesRug",
+            "english": "Full Size Rug",
+            "spanish": "Alfombra de tamaño completo"
+        },
+        {
+            "key": "upgradesPierre",
+            "english": "Pierre the Pastry Chef",
+            "spanish": "Pierre el pastelero"
+        },
+        {
+            "key": "upgradesKitchenMachine",
+            "english": "Kitchen Machine Deluxe",
+            "spanish": "Máquina de cocina de lujo"
+        },
+        {
+            "key": "upgradesKate",
+            "english": "Kate the Baker",
+            "spanish": "Kate la panadera"
+        },
+        {
+            "key": "upgradesSolar",
+            "english": "Solar Panels",
+            "spanish": "Paneles solares"
+        },
+        {
+            "key": "upgradesBillboards",
+            "english": "Rooftop Billboards",
+            "spanish": "Vallas publicitarias en la azotea"
+        },
+        {
+            "key": "upgradesSculpture",
+            "english": "Cupcake Sculpture",
+            "spanish": "Escultura de panecillo"
+        },
+        {
+            "key": "upgradesBenches",
+            "english": "Park Benches",
+            "spanish": "Bancas de parque"
+        },
+        {
+            "key": "upgrades2Percent",
+            "english": "+2% in sales",
+            "spanish": "+2% en ventas"
+        },
+        {
+            "key": "upgrades10Percent",
+            "english": "+10% in sales",
+            "spanish": "+10% en ventas"
+        },
+        {
+            "key": "upgrades15Percent",
+            "english": "+15% in sales",
+            "spanish": "+15% en ventas"
+        },
+        {
+            "key": "upgrades20Percent",
+            "english": "+20% in sales",
+            "spanish": "+20% en ventas"
+        },
+        {
+            "key": "upgrades25Percent",
+            "english": "+25% in sales",
+            "spanish": "+25% en ventas"
+        },
+        {
+            "key": "upgrades30Percent",
+            "english": "+30% in sales",
+            "spanish": "+30% en ventas"
+        },
+        {
+            "key": "upgrade3Cupcakes",
+            "english": "Create up to 3 different cupcakes",
+            "spanish": "Crear hasta 3 panecillos diferentes"
+        },
+        {
+            "key": "upgradeUnlimited",
+            "english": "Unlimited ingredient storage space",
+            "spanish": "Espacio de almacenamiento de ingredientes ilimitado"
+        },
+        {
+            "key": "upgradeFancy",
+            "english": "Fancy!",
+            "spanish": "¡Lujosa!"
+        },
+        {
+            "key": "upgradeMustHave",
+            "english": "Must have! Now!",
+            "spanish": "¡Lo quiero! ¡Ya!"
+        },
+        {
+            "key": "upgradeElectricity",
+            "english": "Reduce electricity costs by half",
+            "spanish": "Reducir los costos de electricidad a la mitad"
+        },
+        {
+            "key": "ingredientsPlainDough",
+            "english": "plain dough",
+            "spanish": "masa simple"
+        },
+        {
+            "key": "ingredientsWhippedCream",
+            "english": "whipped cream",
+            "spanish": "crema batida"
+        },
+        {
+            "key": "ingredientsSprinkles",
+            "english": "sprinkles",
+            "spanish": "chispas"
+        },
+        {
+            "key": "ingredientsChocolateDough",
+            "english": "chocolate dough",
+            "spanish": "masa de chocolate"
+        },
+        {
+            "key": "ingredientsChocolateFrosting",
+            "english": "chocolate frosting",
+            "spanish": "glaseado de chocolate"
+        },
+        {
+            "key": "ingredientsCherries",
+            "english": "cherries",
+            "spanish": "cerezas"
+        },
+        {
+            "key": "ingredientsMangoFrosting",
+            "english": "mango frosting",
+            "spanish": "glaseado de mango"
+        },
+        {
+            "key": "ingredientsChocolateChips",
+            "english": "chocolate chips",
+            "spanish": "chispas de chocolate"
+        },
+        {
+            "key": "ingredientsPineappleDough",
+            "english": "pineapple dough",
+            "spanish": "masa de piña"
+        },
+        {
+            "key": "ingredientsStrawberryFrosting",
+            "english": "strawberry frosting",
+            "spanish": "glaseado de fresa"
+        },
+        {
+            "key": "ingredientsJiggly",
+            "english": "jiggly eyes",
+            "spanish": "ojitos saltones"
+        },
+        {
+            "key": "ingredientsBlueberryFrosting",
+            "english": "blueberry frosting",
+            "spanish": "glaseado de arándano azul"
+        },
+        {
+            "key": "ingredientsHearts",
+            "english": "hearts",
+            "spanish": "corazones"
+        },
+        {
+            "key": "ingredientsPistachioFrosting",
+            "english": "pistachio frosting",
+            "spanish": "glaseado de pistache"
+        },
+        {
+            "key": "makeCupcakeDialog",
+            "english": "You need to make cupcakes before you can sell them",
+            "spanish": "Tienes que preparar los panecillos antes de poder venderlos."
+        },
+        {
+            "key": "saveCupcakeDialog",
+            "english": "Pick Price",
+            "spanish": "Escoger el precio"
+        },
+        {
+            "key": "deleteCupcakeDialog",
+            "english": "Are you sure you want to delete your cupcake?",
+            "spanish": "¿Estás seguro de que quieres eliminar tu panecillo?"
+        },
+        {
+            "key": "signOvens",
+            "english": "ovens & more",
+            "spanish": "hornos y más"
+        },
+        {
+            "key": "signAutomobiles",
+            "english": "automobiles",
+            "spanish": "automóviles"
+        },
+        {
+            "key": "deliveryNext",
+            "english": "Next Delivery",
+            "spanish": "Siguiente entrega"
+        },
+        {
+            "key": "deliveryTip",
+            "english": "10% tip for speed",
+            "spanish": "10% propina por entrega rápida"
+        },
+        {
+            "key": "fanaticWhere",
+            "english": "Where are all the cupcakes with <ingredient>? I guess I won't be buying any...",
+            "spanish": "¿Dónde están todos los panecillos con <ingredient>? Supongo que no voy a comprar ninguno..."
+        },
+        {
+            "key": "fanaticHave",
+            "english": "Do you have any cupcakes with <ingredient>? No? Aww. I'll try again tomorrow.",
+            "spanish": "¿Tienes algún panecillo con <ingredient>? ¿No? Ni modo. Lo intentaré de nuevo mañana."
+        },
+        {
+            "key": "fanaticDont",
+            "english": "Why don't you have any cupcakes with <ingredient>?!",
+            "spanish": "¿Por qué no tienes panecillos con <ingredient>?"
+        },
+        {
+            "key": "fanaticUgh",
+            "english": "Ugh, no cupcakes with <ingredient>?! I'm out of here!",
+            "spanish": "¿Qué? ¿No tienes panecillos con <ingredient>? ¡Me voy de aquí!"
+        },
+        {
+            "key": "fanaticBadReview",
+            "english": "If you don't make some cupcakes with <ingredient>, I'm going to leave a BAD review!!",
+            "spanish": "Si no haces algunos panecillos con <ingredient>, voy a escribir una MALA reseña."
+        },
+        {
+            "key": "fanaticWhatKind",
+            "english": "What kind of cupcake store doesn't have cupcakes with <ingredient>?!",
+            "spanish": "¿Qué clase de tienda de panecillos no tiene panecillos con <ingredient>?"
+        },
+        {
+            "key": "fanaticBut",
+            "english": "But...but...I LOVE <ingredient>. Waaaaahhhhh! WAAAAAAHHHH!",
+            "spanish": "Pero... pero... quiero <ingredient>. ¡Ayyyyyyyyyy! ¡AYYYYYYYYYY!"
+        },
+        {
+            "key": "fanaticOnly",
+            "english": "I only eat cupcakes with <ingredient> in them because of my diet.",
+            "spanish": "Debido a mi dieta, solo como panecillos con <ingredient>."
+        },
+        {
+            "key": "fanaticExplode",
+            "english": "If I don't get cupcakes with <ingredient> soon, I'll explode!",
+            "spanish": "¡Si no consigo panecillos con <ingredient> pronto, explotaré!"
+        },
+        {
+            "key": "fanaticHappyDoAnything",
+            "english": "I'd do anything for cupcakes with <ingredient>!",
+            "spanish": "¡Haría cualquier cosa por conseguir panecillos con <ingredient>!"
+        },
+        {
+            "key": "fanaticHappyYum",
+            "english": "Yum! I looove <ingredient>.",
+            "spanish": "¡Hmm! En serio, quiero <ingredient>."
+        },
+        {
+            "key": "fanaticHappyAmazing",
+            "english": "I'd do anything for these amazing <name> cupcakes!",
+            "spanish": "¡Haría cualquier cosa por estos increíbles panecillos de <name>!"
+        },
+        {
+            "key": "fanaticHappyLove",
+            "english": "I LOVE <ingredient>!!!",
+            "spanish": "¡¡ME ENCANTA <ingredient>!!!"
+        },
+        {
+            "key": "fanaticHappyEatAnything",
+            "english": "I would eat anything with <ingredient>. ANYTHING!",
+            "spanish": "Yo comería cualquier cosa con <ingredient>. ¡CUALQUIER COSA!"
+        },
+        {
+            "key": "fanaticHappyHappyPlace",
+            "english": "Mmm, <ingredient>! This takes me to my happy place.",
+            "spanish": "Hmm, <ingredient> llévame a mi lugar feliz."
+        },
+        {
+            "key": "fanaticHappyYummy",
+            "english": "Yummy yummy yummy, I'm getting <ingredient> in my tummy.",
+            "spanish": "Hmm Hmm Hmm, <ingredient> llega despacito a mi pancita."
+        },
+        {
+            "key": "fanaticHappyOMG",
+            "english": "OH-EM-GEE. You have cupcakes with <ingredient>?! I'm so happy!",
+            "spanish": "¡¿Qué?! ¿Tiene panecillos con <ingredient>? ¡Estoy tan feliz!"
+        },
+        {
+            "key": "fanaticHappyHappiest",
+            "english": "This is the happiest day of my life. I love cupcakes with <ingredient>!",
+            "spanish": "Este es el día más feliz de mi vida. ¡Me encantan los panecillos con <ingredient>!"
+        },
+        {
+            "key": "fanaticHappyThankYou",
+            "english": "Thank you for having <name> cupcakes. You're really making my day.",
+            "spanish": "Gracias por tener panecillos <name>. Realmente me estás alegrando el día."
+        },
+        {
+            "key": "fanaticSadRanOut",
+            "english": "Aww you ran out of <name>? Something else will have to do.",
+            "spanish": "¡Puf! ¿Ya no hay <name>? Tendré que conformarme con otra cosa."
+        },
+        {
+            "key": "fanaticSadPreferred",
+            "english": "I would have preferred to buy <name>.",
+            "spanish": "Hubiera preferido comprar <name>."
+        },
+        {
+            "key": "fanaticSadGuess",
+            "english": "I came here for cupcakes with <ingredient>. I guess I'll take something else.",
+            "spanish": "Vine aquí por panecillos con <ingredient>. Supongo que me llevaré otra cosa."
+        },
+        {
+            "key": "fanaticSadElse",
+            "english": "How could you run out of <name>?! Now I have to buy something else.",
+            "spanish": "¿Cómo te pudiste quedar sin <name>? Ahora tengo que comprar otra cosa."
+        },
+        {
+            "key": "fanaticSadBoo",
+            "english": "Booo. I really wanted cupcakes with <ingredient>.",
+            "spanish": "Buuu. Realmente quería panecillos con <ingredient>."
+        },
+        {
+            "key": "fanaticSadErr",
+            "english": "Err I thought you would have <name> left! I'll try something else I guess.",
+            "spanish": "¡Ay, pensé que le quedarían <name>! Supongo que probaré otra cosa."
+        },
+        {
+            "key": "complaintOrder",
+            "english": "I didn't order that!",
+            "spanish": "¡Yo no pedí eso!"
+        },
+        {
+            "key": "complaintNot",
+            "english": "That's not what I want.",
+            "spanish": "Eso no es lo que quiero."
+        },
+        {
+            "key": "complaintBrain",
+            "english": "That’s not what I ordered, but it’s okay because math mistakes grow your brain. Try again.",
+            "spanish": "Eso no es lo que pedí, pero está bien porque los errores matemáticos desarrollan el cerebro. Intenta de nuevo."
+        },
+        {
+            "key": "complaintMistake",
+            "english": "You've made a mistake...I love learning from my own mistakes. Try again.",
+            "spanish": "Cometiste un error... Me encanta aprender de mis propios errores. Intenta de nuevo."
+        },
+        {
+            "key": "complaintFocus",
+            "english": "Please focus. I'd like my order if possible.",
+            "spanish": "Por favor, pon atención. Quiero mi orden, si se puede."
+        },
+        {
+            "key": "tipsListen",
+            "english": "Listen closely.",
+            "spanish": "Escuche atentamente."
+        },
+        {
+            "key": "tipsAttention",
+            "english": "Pay attention.",
+            "spanish": "Pon atención."
+        },
+        {
+            "key": "complaintExpensiveTwice",
+            "english": "Why is {0} {1}? That’s more than twice the ingredient cost!",
+            "spanish": "¿Por qué {0} {1}? ¡Eso es más del doble del costo de los ingredientes!"
+        },
+        {
+            "key": "complaintExpensiveCheaper",
+            "english": "{0} is more than twice the cost of its ingredients! Make it cheaper!",
+            "spanish": "¡{0} es más del doble del costo de sus ingredientes! ¡Hazlo más barato!"
+        },
+        {
+            "key": "complaintExpensiveCost",
+            "english": "{0} is too expensive! It's more than twice the cost of its ingredients.",
+            "spanish": "¡{0} es muy caro! Es más del doble del costo de sus ingredientes."
+        },
+        {
+            "key": "complaintExpensiveCupcake",
+            "english": "I don't want a cupcake that costs more than twice the ingredient amount! {0} is too expensive.",
+            "spanish": "¡No quiero un panecillo que cuesta más del doble que la cantidad de ingredientes! {0} es demasiado caro."
+        },
+        {
+            "key": "complaintExpensiveCharging",
+            "english": "You are charging more than twice the cost of the ingredients for {0}?! That's too much.",
+            "spanish": "¡¿Estás cobrando más del doble del precio de los ingredientes para {0}?! Es demasiado."
+        },
+        {
+            "key": "complaintExpensiveTooMuch",
+            "english": "{1} is too much for that cupcake!",
+            "spanish": "¡{1} es demasiado por ese panecillo!"
+        },
+        {
+            "key": "complaintOnlyOne",
+            "english": "Only 1 cupcake? You need more variety.",
+            "spanish": "¿Solo 1 panecillo? Necesitas más variedad."
+        },
+        {
+            "key": "complaintOnlyMore",
+            "english": "Could you sell more types of cupcakes?",
+            "spanish": "¿Podrías vender más tipos de panecillos?"
+        },
+        {
+            "key": "complaintOnlyOptions",
+            "english": "I'd like more options than just {0}.",
+            "spanish": "Me gustaría tener más opciones que solo {0}."
+        },
+        {
+            "key": "complaintOnlyTry",
+            "english": "I want to try more than just 1 type of cupcake!",
+            "spanish": "¡Quiero probar más de 1 tipo de panecillo!"
+        },
+        {
+            "key": "vehicleButtonUsing",
+            "english": "using",
+            "spanish": "vehículo actual"
+        },
+        {
+            "key": "vehicleButtonSwitch",
+            "english": "switch",
+            "spanish": "cambiar"
+        },
+        {
+            "key": "vehicleVendorTitle",
+            "english": "Vehicles",
+            "spanish": "Vehículos"
+        },
+        {
+            "key": "outOfIngredients",
+            "english": "You need to buy ingredients at the market before you can make cupcakes.",
+            "spanish": "Tienes que comprar ingredientes en el mercado para poder preparar panecillos."
+        },
+        {
+            "key": "pantryFull",
+            "english": "Your pantry is full!\nBuy a fridge to store more ingredients.",
+            "spanish": "¡Tu despensa esta llena!\nCompra otra nevera para almacenar más ingredientes."
+        },
+        {
+            "key": "deleteOneCupcakeDialog",
+            "english": "Delete one of your cupcakes to make a new one!",
+            "spanish": "¡Elimina uno de tus panecillos para preparar uno nuevo!"
+        },
+        {
+            "key": "buyIngredientsDialog",
+            "english": "You need to buy ingredients at the market before you can sell in the bakery!",
+            "spanish": "¡Tienes que comprar ingredientes en el mercado antes de poder vender en la panadería!"
+        },
+        {
+            "key": "nameCupcakeDialog",
+            "english": "Make sure to name your cupcake!",
+            "spanish": "¡Ponle un nombre a tu panecillo!"
+        },
+        {
+            "key": "nameTakenDialog",
+            "english": "That cupcake name is already taken!",
+            "spanish": "¡Ya tienes un panecillo con este nombre!"
+        },
+        {
+            "key": "buttonSkip",
+            "english": "Skip",
+            "spanish": "Saltar"
+        },
+        {
+            "key": "currentlyMakePrompt",
+            "english": "You can currently make",
+            "spanish": "Con estos ingredientes puedes preparar"
+        },
+        {
+            "key": "noSalesDialog",
+            "english": "No Sales!!!",
+            "spanish": "¡No tuviste ventas!"
+        },
+        {
+            "key": "recipeCups",
+            "english": "cups",
+            "spanish": "tazas"
+        },
+        {
+            "key": "progressDay",
+            "english": "Day",
+            "spanish": "Dia"
+        },
+        {
+            "key": "ranOutOfMoneyDialog",
+            "english": "Your store has run out of money.\nYou lost too many customers and missed too many sales.",
+            "spanish": "Tu tienda ya no tiene dinero.\nPerdiste muchos clientes y no tuviste ventas."
+        },
+        {
+            "key": "upgradeSign",
+            "english": "Ovens & More",
+            "spanish": "Hornos y algo más"
+        },
+        {
+            "key": "cupcakeNameDifferent",
+            "english": "Please give your cupcake a different name",
+            "spanish": "Ponle otro nombre a tu panecillo"
+        },
+        {
+            "key": "marketBackToMarketButton",
+            "english": "Back to market",
+            "spanish": "Regresar al mercado"
+        },
+        {
+            "key": "marketBuyButton",
+            "english": "Buy",
+            "spanish": "Comprar"
+        },
+        {
+            "key": "marketPretext1",
+            "english": "I’m selling...",
+            "spanish": "Estoy vendiendo..."
+        },
+        {
+            "key": "marketPretext2",
+            "english": "Today I’ve got...",
+            "spanish": "Hoy tengo..."
+        },
+        {
+            "key": "marketSellerExplanation",
+            "english": "You picked a seller with a higher price.",
+            "spanish": "Elegiste un vendedor con un precio más alto."
+        },
+        {
+            "key": "marketCashAmount",
+            "english": "Cash",
+            "spanish": "Cantidad en efectivo"
+        },
+        {
+            "key": "marketGetMoreIngredientsForMoney",
+            "english": "You get more units of {0} for the same price!",
+            "spanish": "¡Obtienes más unidades de {0} por el mismo precio!"
+        },
+        {
+            "key": "marketSellerCorrect",
+            "english": "You saved ${0} by picking the right seller!",
+            "spanish": "¡Ahorraste ${0} al elegir el vendedor correcto!"
+        },
+        {
+            "key": "marketSellerIncorrect",
+            "english": "You could’ve saved ${0} by buying from me.",
+            "spanish": "Podrías haber ahorrado ${0} al comprarme a mí."
+        },
+        {
+            "key": "orderDefault1",
+            "english": "<q1> <name1>, please.",
+            "spanish": "<q1> <name1>, por favor."
+        },
+        {
+            "key": "orderDefault2",
+            "english": "Gimme <q1> <name1>!",
+            "spanish": "¡Dame <q1> <name1>!"
+        },
+        {
+            "key": "orderDefault3",
+            "english": "May I have <q1> <name1> cupcakes please? Thank you so much.",
+            "spanish": "¿Me puedes dar <q1> panecillos <name1> por favor? Muchas gracias."
+        },
+        {
+            "key": "orderDefault4",
+            "english": "I'd like <q1> <name1>.",
+            "spanish": "Quiero <q1> <name1>."
+        },
+        {
+            "key": "orderDefault5",
+            "english": "I want <q1> <name1> cupcakes.",
+            "spanish": "Quiero <q1> panecillos <name1>."
+        },
+        {
+            "key": "orderDistractor1",
+            "english": "I have <q1> dogs, <q2> cats, <q3> kids and 6 lemmings, but I really just want <q1> <name1> cupcakes.",
+            "spanish": "Tengo <q1> perros, <q2> gatos, <q3> niños y 6 ratoncitos, pero solamente quiero <q1> panecillos <name1>."
+        },
+        {
+            "key": "orderDistractor2",
+            "english": "I love <name2> but I want <q1> <name1>.",
+            "spanish": "Me gustan los <name2> pero quiero <q1> <name1>."
+        },
+        {
+            "key": "orderDistractor3",
+            "english": "I want <q1> <name1>. No no, actually I want <q2> <name2>. No sorry, I just want <q1> <name1>. Thanks.",
+            "spanish": "Quiero <q1> <name1>. No, mejor quiero <q2> <name2>. No, perdón, solo quiero <q1> <name1>. Gracias."
+        },
+        {
+            "key": "orderDistractor4",
+            "english": "I want <q2> <name2>. Actually, nevermind I want <q1> <name1>.",
+            "spanish": "Quiero <q2> <name2>. No, mejor quiero <q1> <name1>."
+        },
+        {
+            "key": "orderDistractor5",
+            "english": "I'd like <q1> cupcakes. I also want <q2> pizzas, but I guess you're the wrong store for that.",
+            "spanish": "Quiero <q1> panecillos. También quiero <q2> pizzas, pero creo que tengo que ir a otra tienda."
+        },
+        {
+            "key": "orderDistractor6",
+            "english": "My chihuahua would order <q1>0 cupcakes if she could, but I only want <q1> <name1>. Thanks.",
+            "spanish": "Mi perro chihuahua pediría <q1>0 panecillos si pudiera, pero yo solo quiero <q1> <name1>. Gracias."
+        },
+        {
+            "key": "orderDistractor7",
+            "english": "I love <name1>, <name2>, and <name3>, but I can't decide. Please choose <q1> of any one for me.",
+            "spanish": "Me gustan los <name1>, los <name2> y los <name3>, pero no me decido. Por favor escoge <q1> de cualquier tipo para mí."
+        },
+        {
+            "key": "orderDistractor8",
+            "english": "I want <q2> <name2> and <q1> <name1>. Actually, forget <name2>. I only need <q1> <name1>.",
+            "spanish": "Quiero <q2> <name2> y <q1> <name1>. Mejor, olvida los <name2>. Solo necesito <q1> <name1>."
+        },
+        {
+            "key": "orderDistractor9",
+            "english": "I want <q1> of each except <name3>.",
+            "spanish": "Quiero <q1> de cada uno, excepto de <name3>."
+        },
+        {
+            "key": "orderLessMore1",
+            "english": "<q1> <name1> cupcakes would be too many, but <q2> would be too few.",
+            "spanish": "<q1> panecillos <name1> serían muchos, pero <q2> serían pocos."
+        },
+        {
+            "key": "orderLessMore6",
+            "english": "I want at least <q1> <name1> cupcakes, but no more than <q2>.",
+            "spanish": "Quiero por lo menos <q1> panecillos <name1>, pero no más de <q2>."
+        },
+        {
+            "key": "orderLessMore2",
+            "english": "I'd like more than <q1> <name1> cupcakes, but less than <q2>, thanks.",
+            "spanish": "Quiero más de <q1> panecillos <name1>, pero menos de <q2>. Gracias."
+        },
+        {
+            "key": "orderLessMore3",
+            "english": "Oh, thank goodness you're open! I want more than <q1> <name1> cupcakes but not more than <q2>. ",
+            "spanish": "¡Vaya, qué bueno que está abierto! Quiero más de <q1> panecillos <name1> pero no más de <q2>."
+        },
+        {
+            "key": "orderOddEven1",
+            "english": "I’d like less than <q1> <name1> cupcakes please. And make it an even number. Thanks so much.",
+            "spanish": "Quiero menos de <q1> panecillos <name1> por favor. Y que sea un número par. Muchas gracias."
+        },
+        {
+            "key": "orderOddEven2",
+            "english": "Oh, hello there. I want an even number of <name1> cupcakes. <q1> would be too many.",
+            "spanish": "Hola, ¿qué tal? Quiero un número par de panecillos <name1>. <q1> serían demasiados."
+        },
+        {
+            "key": "orderOddEven3",
+            "english": "I’d like an odd number of <name1> cupcakes, but less than <q1>.",
+            "spanish": "Quiero un número impar de panecillos <name1>, pero menos de <q1>."
+        },
+        {
+            "key": "orderOddEven4",
+            "english": "Delicious cupcakes you got here, wow! I want between <q1> and <q2> cupcakes, and just for fun, please make it an odd number. Thanks!",
+            "spanish": "¡Guau! Tus panecillos son deliciosos. Quiero entre <q1> y <q2> panecillos, y solo para hacerlo más divertido, que sea un número impar por favor. ¡Gracias!"
+        },
+        {
+            "key": "orderShapes1",
+            "english": "I'm hosting friends to sit at my quadrilateral-shaped table and I'll need a <name1> cupcake for each side.",
+            "spanish": "Invité a mis amigos a cenar y se sentarán en mi mesa en forma de cuadrilátero, así que necesitaré un panecillo <name1> para cada lado de la mesa."
+        },
+        {
+            "key": "orderShapes2",
+            "english": "Hey friend! I finally did it, I created a hexagon cake! Now I just want to buy a <name1> cupcake to sit on each side of the cake. Then it will look perfect!",
+            "spanish": "¡Hola! Finalmente lo logré, ¡hice un pastel hexagonal! Ahora quiero comprar un panecillo <name1> para ponerlo en cada lado del pastel. ¡Así se verá perfecto!"
+        },
+        {
+            "key": "orderShapes3",
+            "english": "So...I have <q1> pentagon plates and I want to buy <name1> cupcakes to put on each side of each plate. Thank you very much. ",
+            "spanish": "Sabe, tengo platos en forma de pentágono y quiero comprar <q1> panecillos <name1> para ponerlos en los lados de cada plato. Muchas gracias."
+        },
+        {
+            "key": "orderAddition1",
+            "english": "Gimme <q1> <name1> plus <q2> more <name1>.",
+            "spanish": "Dame <q1> <name1> y <q2> <name1> más."
+        },
+        {
+            "key": "orderAddition2",
+            "english": "I want <q1> <name1> and <q2> <name2> and my brother wants <q3> <name1>.",
+            "spanish": "Quiero <q1> <name1> y <q2> <name2> y mi hermano quiere <q3> <name1>."
+        },
+        {
+            "key": "orderAddition3",
+            "english": "My 3 kids are having their birthday. One's turning <q1>, and the twins are turning <q2>. Each kid should get as many <name1> cupcakes as their age.",
+            "spanish": "Va a ser cumpleaños de mis 3 hijos. Uno va a cumplir <q1> y los gemelos van a cumplir <q2>. Cada niño debe recibir el mismo número de panecillos <name1> que su edad."
+        },
+        {
+            "key": "orderAddition5",
+            "english": "I'd like <q1> <name1> for now and <q2> for a later time.",
+            "spanish": "Quiero <q1> <name1> para ahorita y <q2> para más tarde."
+        },
+        {
+            "key": "orderAddition6",
+            "english": "<q1> <name1> please. Actually, add <q2> to that.",
+            "spanish": "<q1> <name1> por favor. ¿Sabes qué? Mejor agrega <q2>."
+        },
+        {
+            "key": "orderAddition8",
+            "english": "I'd like <q1> <name1> for myself and my friend will want an additional <q2>.",
+            "spanish": "Quiero <q1> <name1> para mí y mi amigo va a querer otros <q2>."
+        },
+        {
+            "key": "orderAddition9",
+            "english": "My nice boss wants <q1> <name1> and my mean boss wants <q2> <name1> and <q3> <name2>.",
+            "spanish": "Mi querido jefe quiere <q1> <name1> y mi otro jefe, no tan querido, quiere <q2> <name1> y <q3> <name2>."
+        },
+        {
+            "key": "orderAddition10",
+            "english": "I'm buying cupcakes for my parents. My mom wants <q1> <name1> and <q2> <name2>. Dad just wants <q3> <name1>.",
+            "spanish": "Estoy comprando panecillos para mis papás. Mi mamá quiere <q1> <name1> y <q2> <name2>. Mi papá solo quiere <q3> <name1>."
+        },
+        {
+            "key": "orderAddition11",
+            "english": "I'm hosting <q1> jugglers, <q2> acrobats, and <q3> ballerinas tonight for dinner. Every guest will want a <name1> cupcake.",
+            "spanish": "Hoy vienen a cenar <q1> malabaristas, <q2> acróbatas y <q3> bailarinas. Cada uno va a querer un panecillo <name1>."
+        },
+        {
+            "key": "orderAddition12",
+            "english": "We're having a party! <q1> girls, <q2> boys, and <q3> adults. Each person would love one <name1> cupcake.",
+            "spanish": "¡Vamos a hacer una fiesta! <q1> niñas, <q2> niños y <q3> adultos. Cada persona va a querer un panecillo <name1>."
+        },
+        {
+            "key": "orderAddition13",
+            "english": "I want <q1> <name2> and <q2> <name1> and my sister wants <q3> <name2>.",
+            "spanish": "Quiero <q1> <name2> y <q2> <name1> y mi hermana quiere <q3> <name2>."
+        },
+        {
+            "key": "orderAddition14",
+            "english": "I want <q1> <name1> please. Ya know what? Throw an extra <q2> in there.",
+            "spanish": "Quiero <q1> <name1> por favor. ¿Sabes qué? Agrega <q2> más."
+        },
+        {
+            "key": "orderAddition15",
+            "english": "I’d like <q1> <name1> and <q2> <name2> and also... that’s it. No, wait, <q3> more <name1>. Thanks!",
+            "spanish": "Quiero <q1> <name1> y <q2> <name2> y también... Eso es todo. No, espérame, <q3> <name1> más. ¡Gracias!"
+        },
+        {
+            "key": "orderAddition16",
+            "english": "Last month I ordered <q1> cupcakes, but today I want <q2> more than that. <name1> looks good. You're the best!",
+            "spanish": "El mes pasado compré <q1> panecillos, pero hoy quiero <q2> más que eso. Los <name1> se ven bien. ¡Grandioso!"
+        },
+        {
+            "key": "orderSubtractionWithinTwenty1",
+            "english": "I want <q2> cupcakes, but only <q1> each of <name1> and <name2>.",
+            "spanish": "Quiero <q2> panecillos en total, pero quiero que <q1> sean de <name1> y <q1> sean de <name2>."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty2",
+            "english": "Yesterday I ordered <q1> cupcakes, but today I'd like <q2> fewer. <name1>, thank you ever so kindly.",
+            "spanish": "Ayer, pedí <q1> panecillos, pero hoy quiero <q2> menos. <name1>, gracias, muy amable."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty3",
+            "english": "I thought I would order <q1> <name1> cupcakes, but I think I'll get <q2> less than that, if you don't mind.",
+            "spanish": "Pensé que iba a pedir <q1> panecillos <name1>, pero creo que llevaré <q2> menos, si no te importa."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty4",
+            "english": "You might remember me. I almost always order <q1> cupcakes, but today for some reason I'll get <q2> fewer than that. I guess I'll try the <name1>.",
+            "spanish": "Puede que me recuerdes. Casi siempre pido <q1> panecillos, pero llevaré <q2> menos. Supongo que probaré <name1>."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty5",
+            "english": "My friend bought <q1> <name1> cupcakes earlier, but I don't want as many as her, so I'd like <q2> fewer. Much obliged.",
+            "spanish": "Mi amiga compró <q1> panecillos <name1>, pero yo no quiero tantos. Quiero <q2> menos. Muchas gracias."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty6",
+            "english": "Oh, hi there. I wanted <name1> cupcakes for my <q1> friends, but <q2> of them left, so I'll just have one each for my friends who are still here.",
+            "spanish": "Hola. Quería <name1> panecillos para mis <q1> amigos, pero <q2> se fueron, así que solo llevaré uno para cada uno de los amigos que quedan."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty7",
+            "english": "Yes indeed! I'd like <q1> <name1> cupcakes, yes I would. But, actually, remove <q2> of that order. Yes indeed. Thank you.",
+            "spanish": "¡Así es! Quiero <q1> panecillos <name1>, eso quiero. Pero, mejor, quita <q2> de la orden. Así es. Gracias."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty8",
+            "english": "Please oh please give me <q1> <name1> cupcakes, thank you. No, wait, let's change <q2> of those into <name2>. Perfect.",
+            "spanish": "Por favor, ay, por favor, dame <q1> panecillos <name1>, gracias. No, espera, cambiemos <q2> de esos por <name2>. Perfecto."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty9",
+            "english": "My <q1> friends each need a dessert. For <q2> of them I'll make some cookies, and I'd like to buy a <name1> cupcake each for the rest of them.",
+            "spanish": "Cada uno de mis <q1> amigos necesita un postre; para <q2> de ellos prepararé unas galletas y quiero comprar un panecillo <name1> para el resto."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty10",
+            "english": "All I want is <q1> <name1> cupcakes total. And I already have <q2>. Please help me out.",
+            "spanish": "Todo lo que quiero es <q1> panecillos <name1> en total y ya tengo <q2>. Por favor, ayúdeme."
+        },
+        {
+            "key": "orderSubtractionWithinTwenty11",
+            "english": "I'm building a beautiful tower of <q1> <name1> cupcakes. It's already <q2> cupcakes tall! Please sell me the cupcakes I need to fulfill my artistic vision.",
+            "spanish": "Estoy construyendo una hermosa torre de <q1> panecillos <name1>. ¡Ya tiene <q2> panecillos de alto! Por favor, véndame los panecillos que necesito para lograr mi visión artística."
+        },
+        {
+            "key": "orderMultiplication1",
+            "english": "I'd like <q1> for me and <q2> each for my <q3> buddies. <name1> please.",
+            "spanish": "Quiero <q1> para mí y <q2> para cada uno de mis <q3> amigos. <name1> por favor."
+        },
+        {
+            "key": "orderMultiplication2",
+            "english": "I'm going on a <q1>-day trip with my family of <q2> people. We need <q3> <name1> cupcakes per person per day.",
+            "spanish": "Voy a hacer un viaje de <q1> días con mi familia. En mi familia hay <q2> personas. Necesitamos <q3> panecillos <name1> por persona por día."
+        },
+        {
+            "key": "orderMultiplication3",
+            "english": "I need <q1> <name1> cupcakes to eat each hour for the next <q2> hours.",
+            "spanish": "Necesito <q1> panecillos <name1> para comerlos cada hora durante las siguientes <q2> horas."
+        },
+        {
+            "key": "orderMultiplication4",
+            "english": "I need <q1> <name1> and twice as many <name2>.",
+            "spanish": "Necesito <q1> <name1> y el doble de <name2>."
+        },
+        {
+            "key": "orderMultiplication5",
+            "english": "I would be most glad if I could have <q1> <name1> and <q2> times as many <name2>.",
+            "spanish": "Me alegraría mucho si pudiera llevar <q1> <name1> y <q2> veces más de <name2>."
+        },
+        {
+            "key": "orderMultiplication6",
+            "english": "I want <q1> <name1> for each of my <q2> besties.",
+            "spanish": "Quiero <q1> <name1> para cada uno de mis <q2> mejores amigos."
+        },
+        {
+            "key": "orderMultiplication7",
+            "english": "<q1> <name1> each for me, my <q2> sons, and my <q3> enemies. Thanks.",
+            "spanish": "<q1> <name1> para cada uno: yo, mis <q2> hijos y mis <q3> enemigos. Gracias."
+        },
+        {
+            "key": "orderMultiplication9",
+            "english": "There's <q1> of us; we'll take <q2> <name1> for each person.",
+            "spanish": "Somos <q1>; llevaremos <q2> <name1> para cada persona."
+        },
+        {
+            "key": "orderMultiplication10",
+            "english": "I'm having a party for <q1> people and we'll each want <q2> <name1>.",
+            "spanish": "Voy a hacer una fiesta para <q1> personas y cada una quiere <q2> <name1>."
+        },
+        {
+            "key": "orderMultiplication11",
+            "english": "I have <q1> kids and <q2> cats. I want <q3> <name1> cupcakes for each of my kids.",
+            "spanish": "Tengo <q1> niños y <q2> gatos. Quiero <q3> panecillos <name1> para cada uno de mis niños."
+        },
+        {
+            "key": "orderMultiplication12",
+            "english": "I have <q1> sisters and <q2> brothers. I want <q3> <name1> cupcakes for each of my sisters.",
+            "spanish": "Tengo <q1> hermanas y <q2> hermanos. Quiero <q3> panecillos <name1> para cada una de mis hermanas."
+        },
+        {
+            "key": "orderMultiplication13",
+            "english": "I have 20 students. I want to reward <q2> of the students who try the hardest with <q3> <name1> cupcakes each.",
+            "spanish": "Tengo 20 estudiantes. Quiero recompensar a <q2> de los estudiantes que se esfuerzan más con <q3> panecillos <name1> cada uno."
+        },
+        {
+            "key": "orderMultiplication14",
+            "english": "I need <q1> cupcakes for each guest at my party. I invited <q2> people, but only <q3> will show up.",
+            "spanish": "Necesito <q1> panecillos para cada uno de los invitados de mi fiesta. Invité a <q2> personas, pero solo vendrán <q3>."
+        },
+        {
+            "key": "orderMultiplication15",
+            "english": "I want <q1> <name1>. Wait! Make it twice as many.",
+            "spanish": "Quiero <q1> <name1>. ¡Espera! Pon el doble de eso, por favor."
+        },
+        {
+            "key": "orderMultiplication16",
+            "english": "I have <q1> kids and <q2> cats. I want <q3> <name1> cupcakes for each of my cats.",
+            "spanish": "Tengo <q1> niños y <q2> gatos. Quiero <q3> panecillos <name1> para cada uno de mis gatos."
+        },
+        {
+            "key": "orderMultiplication17",
+            "english": "I have <q1> sisters and <q2> brothers. I want <q3> <name1> cupcakes for each of my brothers.",
+            "spanish": "Tengo <q1> hermanas y <q2> hermanos. Quiero <q3> panecillos <name1> para cada uno de mis hermanos."
+        },
+        {
+            "key": "orderMultiplication18",
+            "english": "I've heard great things about your shop! Anyway, I have <q1> children and each of them has <q2> children. I'd like a <name1> cupcake for each of my grandchildren.",
+            "spanish": "¡He escuchado cosas maravillosas sobre su tienda! De cualquier manera, tengo <q1> hijos y cada uno tiene <q2> hijos. Quiero un panecillo <name1> para cada uno de mis nietos."
+        },
+        {
+            "key": "orderMultiplication19",
+            "english": "I'm a teacher. My amazing classroom has <q1> rows of desks, with <q2> desks in each row. I’d like to put a <name1> cupcake on each desk. Thanks!",
+            "spanish": "Trabajo en una escuela y mi increíble salón de clases tiene <q1> filas de escritorios, con <q2> escritorios en cada fila. Me gustaría poner un panecillo <name1> en cada escritorio. ¡Gracias!"
+        },
+        {
+            "key": "orderMultiplication20",
+            "english": "I like to serve cupcakes to my guests in a perfect grid. Today I want <name1> cupcakes in an array of <q1> rows and <q2> columns. Good day.",
+            "spanish": "Me gusta servir panecillos a mis invitados en una cuadrícula perfecta. Hoy quiero poner panecillos <name1> en una matriz de <q1> filas y <q2> columnas. Buen día."
+        },
+        {
+            "key": "orderMultiplication21",
+            "english": "Last month I ordered <q1> cupcakes, but today I want <q2> times as many. I want <name1>, thanks.",
+            "spanish": "El mes pasado pedí <q1> panecillos, pero hoy quiero <q2> veces más. Quiero <name1>, gracias."
+        },
+        {
+            "key": "orderDivision2",
+            "english": "I wanted <q1> cupcakes but now I just want half of that. <name1>, please.",
+            "spanish": "Quería <q1> panecillos, pero ahora solo quiero la mitad de eso. <name1>, por favor."
+        },
+        {
+            "key": "orderDivision4",
+            "english": "<q1> delicious cupcakes por favor. Half <name1>, half <name2>. Thanks so much. You're really making my day!",
+            "spanish": "<q1> deliciosos panecillos por favor. La mitad de <name1>, la mitad de <name2>. Muchas gracias. ¡Realmente estás alegrando mi día!"
+        },
+        {
+            "key": "orderDivision5",
+            "english": "I want each of my employees to get half a <name1> cupcake. I have <q1> employees.",
+            "spanish": "Quiero darle a cada uno de mis empleados medio panecillo <name1>. Tengo <q1> empleados."
+        },
+        {
+            "key": "orderDivision6",
+            "english": "My basketball team needs to learn to share cupcakes. There are <q1> players and they should each get half a <name1> cupcake.",
+            "spanish": "Mi equipo de básquetbol debe aprender a compartir los panecillos. Hay <q1> jugadores y cada uno debe recibir la mitad de un panecillo <name1>."
+        },
+        {
+            "key": "orderDivision7",
+            "english": "My soccer team really needs a lesson on sharing. There are <q1> players and they should each get half a <name1> cupcake.",
+            "spanish": "Mi equipo de fútbol realmente necesita aprender una lección sobre compartir. Hay <q1> jugadores y cada uno debe recibir la mitad de un panecillo <name1>."
+        },
+        {
+            "key": "orderDivision8",
+            "english": "My cousin's getting married and there are <q1> guests but I think that only half of them will want a cupcakes.",
+            "spanish": "Mi prima se va a casar y hay <q1> invitados, pero creo que solo la mitad de los invitados querrán panecillos."
+        },
+        {
+            "key": "orderDivision9",
+            "english": "I'm having a party for <q1 * q2> people and one out of every <q2> guests will want a <name1> cupcake.",
+            "spanish": "Estoy organizando una fiesta para <q1 * q2> personas y uno de cada <q2> invitados querrá un panecillo <name1>."
+        },
+        {
+            "key": "orderDivision10",
+            "english": "I'm hosting a charity event for <q1 * q2> people. One out of every <q2> guests would love a cupcake. <name1>, please.",
+            "spanish": "Estoy organizando un evento de caridad para <q1 * q2> personas y a uno de cada <q2> invitados le encantaría tener un panecillo <name1>, por favor."
+        },
+        {
+            "key": "orderDivision11",
+            "english": "At my class graduation, some students will want donuts, some will want fruit, and some will want <name1> cupcakes. Equal groups, I believe.  There are <q1 * 3> total students.",
+            "spanish": "En la graduación, algunos estudiantes querrán rosquillas, algunos querrán fruta y otros querrán panecillos <name1> en grupos iguales. Hay <q1 * 3> estudiantes en total."
+        },
+        {
+            "key": "orderDivision12",
+            "english": "I'm on a team of <q2> people and we told our teacher that together we could eat <q1 * q2> <name1> cupcakes. So I'd like to buy my fair share of that <q1 * q2>.",
+            "spanish": "Estoy en un equipo de <q2> personas y le dijimos a nuestro maestro que juntos podríamos comer <q1 * q2> panecillos <name1>. Así que quiero comprar la parte que me corresponde de eso, <q1 * q2>."
+        },
+        {
+            "key": "orderDivision13",
+            "english": "For my next special dessert surprise I'm arranging <q1 * q2> desserts into <q2> equal rows. Please sell me enough <name1> cupcakes to exactly fill one of these rows.",
+            "spanish": "Para mi próxima sorpresa especial de postres, estoy organizando los <q1 * q2> postres en <q2> filas iguales. Por favor, véndame suficientes panecillos <name1> para llenar exactamente una de esas filas."
+        },
+        {
+            "key": "orderSubtractionWithinOneThousand1",
+            "english": "I usually order <q1 + q2> cupcakes, but for some reason today I want <q2> fewer. <name1>, of course.",
+            "spanish": "Por lo general, pido panecillos <q1 + q2>, pero por alguna razón hoy quiero <q2> menos. <name1>, por supuesto."
+        },
+        {
+            "key": "orderSubtractionWithinOneThousand2",
+            "english": "I came in here planning to buy <q1 + q2> <name1> cupcakes, but now I think I'd like <q2> less than that. Sorry for the confusion.",
+            "spanish": "Cuando entré aquí, pensaba comprar <q1 + q2> panecillos <name1>, pero ahora creo que quiero <q2> menos que eso. Perdón por la confusion."
+        },
+        {
+            "key": "orderSubtractionWithinOneThousand3",
+            "english": "My rival bought <q1 + q2> <name1> cupcakes earlier, but I'm not so greedy, so I'd like <q2> fewer. I appreciate you.",
+            "spanish": "Mi rival compró <q1 + q2> panecillos <name1> hace un rato, pero yo no soy tan codicioso, así que quiero <q2> menos. Muy amable."
+        },
+        {
+            "key": "orderSubtractionWithinOneThousand4",
+            "english": "Yes, thank you so much. I was planning to purchase <name1> cupcakes for the <q1 + q2> guests staying here in my treehouse, but I've just learned that <q2> of them have left! So I'll just buy one each for those guests still here.",
+            "spanish": "Sí, muchas gracias. Estaba pensando comprar panecillos <name1> para los <q1 + q2> invitados que se alojan mi casa del árbol, ¡pero acabo de enterarme de que <q2> se han ido! Así que compraré uno para cada uno de los invitados que todavía están aquí."
+        },
+        {
+            "key": "orderSubtractionWithinOneThousand5",
+            "english": "Oh hello! Hello! What I'd really like is <q1 + q2> <name1> cupcakes. That's right! Sorry, sorry, remove <q2> of that order. Sorry about that. Thanks.",
+            "spanish": "¡Hola! ¡Hola! Lo que realmente quiero es <q1 + q2> panecillos <name1>, ¡así es! Lo siento, lo siento, quite <q2> de ese pedido. Perdón por la molestia. Gracias."
+        },
+        {
+            "key": "orderSubtractionWithinOneThousand6",
+            "english": "My goal today is to line up <q1 + q2> <name1> cupcakes on my floor. I already have <q2>. Can you help me out?",
+            "spanish": "Mi meta el día de hoy es alinear <q1 + q2> panecillos <name1> en el piso de mi casa. Ya tengo <q2>. ¿Me puede ayudar?"
+        },
+        {
+            "key": "orderPercentage1",
+            "english": "I'd like <q1> cupcakes, <q2>% <name1>, the rest <name2>.",
+            "spanish": "Quiero <q1> panecillos, <q2>% <name1>, el resto <name2>."
+        },
+        {
+            "key": "orderPercentage2",
+            "english": "I want a total of <q1> cupcakes, thank you very much. Some should be <name1>, and the rest, exactly <q2>% should be <name2>.",
+            "spanish": "Quiero un total de <q1> panecillos, muchas gracias. Algunos deben ser <name1> y el resto, exactamente <q2>%, deben ser <name2>."
+        },
+        {
+            "key": "orderPercentage3",
+            "english": "I’d like <q1> cupcakes, 30% <name1>, the rest can be one other kind.",
+            "spanish": "Quiero <q1> panecillos, 30% de <name1>, el resto puede ser de otro tipo."
+        },
+        {
+            "key": "orderPercentage4",
+            "english": "I'm on a donating mission! Today I'm going to donate <q1> food items to the local food bank and I'd like <q2>% of them to be <name1> cupcakes! Thanks for your help.",
+            "spanish": "¡Estoy en una misión de donación! Hoy voy a donar <q1> alimentos al banco de alimentos local y quiero que <q2>% sean panecillos <name1>. Gracias por su ayuda."
+        },
+        {
+            "key": "orderPercentage5",
+            "english": "Of all the <q1> items I buy today, I want exactly <q2>% of them to be cupcakes. <name1>, please.",
+            "spanish": "De todos los <q1> alimentos que compraré hoy, quiero que exactamente <q2>% sean panecillos. <name1>, por favor."
+        },
+        {
+            "key": "orderArithmeticPattern1",
+            "english": "I had <q1> <name1> cupcakes two days ago, and <q1 + q2> yesterday. Help me continue this pattern. Thank you.",
+            "spanish": "Hace dos días, tenía <q1> panecillos <name1> y ayer tenía <q1 + q2>. Ayúdeme a continuar ese patrón. Gracias."
+        },
+        {
+            "key": "orderArithmeticPattern2",
+            "english": "Every month I increase the amount of cupcakes I buy for my classmates. Two months ago I bought <q1> <name1> cupcakes. Then it was <q1 + q2> <name1> last month. Please help me follow this rule.",
+            "spanish": "Cada mes aumento la cantidad de panecillos que les compro a mis compañeros de clase. Hace dos meses compré <q1> panecillos <name1>. El mes pasado compré <q1 + q2>  <name1>. Por favor, ayúdeme a seguir esta regla."
+        },
+        {
+            "key": "orderArithmeticPattern3",
+            "english": "Two weeks ago I bought <q1> cupcakes and then last week I bought <q1 + q2>. Today I'd like to follow this pattern. <name1>, please.",
+            "spanish": "Hace dos semanas compré <q1> panecillos y la semana pasada compré <q1 + q2>. Hoy quiero continuar ese patrón. <name1>, por favor."
+        },
+        {
+            "key": "orderArithmeticPattern4",
+            "english": "I'm trying to cut down on how many cupcakes I buy. Two weeks ago I bought <q1 + q2 * 2> cupcakes and then last week I bought <q1 + q2>. Please help me continue this pattern.",
+            "spanish": "Estoy tratando de reducir la cantidad de panecillos que compro. Hace dos semanas compré <q1 + q2 * 2> panecillos y la semana pasada compré <q1 + q2>. Por favor, ayúdeme a continuar ese patrón."
+        },
+        {
+            "key": "orderFractionAddition1",
+            "english": "I want <q1 * 2 + 1> halves of a cupcake for myself, <q2 * 2> halves for my friend, and <q3 * 2 + 1> halves for our other friend. <name1> would be great.",
+            "spanish": "Quiero <q1 * 2 + 1> mitades de un panecillo para mí, <q2 * 2> mitades para mi amigo y <q3 * 2 + 1> mitades para nuestro otro amigo. <name1> sería genial."
+        },
+        {
+            "key": "orderFractionAddition2",
+            "english": "I want to purchase a third of a cupcake for myself, a third for my sister, and <q1 * 3 + 1> thirds for our cousin. <name1> would be great.",
+            "spanish": "Quiero comprar un tercio de un panecillo para mí, un tercio para mi hermana y <q1 * 3 + 1> tercios para nuestro primo. <name1> sería genial."
+        },
+        {
+            "key": "orderFractionAddition3",
+            "english": "Hello. I'd like to order <q1 * 2 + 1> halves of a cupcake for my family plus some extra for my <q2 * 4 + 2> friends. They'll each want a quarter of a cupcake. Make it <name1>.",
+            "spanish": "Hola. Quiero <q1 * 2 + 1> mitades de un panecillo para mi familia más algo adicional para mis <q2 * 4 + 2> amigos; cada uno querrá un cuarto de un panecillo. Que sean <name1>."
+        },
+        {
+            "key": "orderFractionMultiplication1",
+            "english": "This morning I really wanted <q1> cupcakes but now that I'm here I just want a third of that. <name1>, please.",
+            "spanish": "Esta mañana realmente quería <q1> panecillos, pero ahora que estoy aquí solo quiero un tercio de eso. <name1>, por favor."
+        },
+        {
+            "key": "orderFractionMultiplication2",
+            "english": "I want <q1> <name1> and one fourth as many <name2>.",
+            "spanish": "Quiero <q1> <name1> y un cuarto más de <name2>."
+        },
+        {
+            "key": "orderFractionMultiplication3",
+            "english": "I had a really intense dream last night that I was eating <q1> cupcakes. But here in reality I would just like a fifth of that. <name1>...just like in my dream.",
+            "spanish": "Anoche tuve un sueño muy intenso en el que comía <q1> panecillos. Pero aquí, en la realidad, solo quiero una quinta parte de eso. <name1>… como en mi sueño."
+        },
+        {
+            "key": "orderFractionMultiplication4",
+            "english": "I want <q1> <name1> and a fifth as many <name2>.",
+            "spanish": "Quiero <q1> <name1> y un quinto más de <name2>."
+        },
+        {
+            "key": "orderFractionMultiplication5",
+            "english": "I want <q1> <name1> and a third as many <name2>.",
+            "spanish": "Quiero <q1> <name1> y tres veces más de <name2>."
+        },
+        {
+            "key": "orderFractionMultiplication6",
+            "english": "I wanted <q1> cupcakes but wasted most of my money on my sock collection. So now I'll just have a fourth of that. <name1>, thanks.",
+            "spanish": "Quería <q1> panecillos pero gasté la mayor parte de mi dinero en mi colección de calcetines. Así que ahora llevaré un cuarto de eso. <name1>, gracias."
+        },
+        {
+            "key": "orderFractionMultiplication7",
+            "english": "Each of my <q1 * 6> teammates wants just one sixth of a <name1> cupcake.",
+            "spanish": "Cada uno de mis <q1 * 6> compañeros de equipo quiere solo una sexta parte de un panecillo <name1>."
+        },
+        {
+            "key": "orderFractionMultiplication8",
+            "english": "My siblings and I are a fierce squad of <q1 * 2>. We stand up for each other, always. We each want <q2> halves of a <name1> cupcake.",
+            "spanish": "Mis hermanos y yo somos un intenso escuadrón de <q1 * 2>. Siempre nos defendemos el uno al otro. Cada uno de nosotros quiere <q2> mitades de un panecillo <name1>."
+        },
+        {
+            "key": "orderFractionMultiplication9",
+            "english": "Good day! I'd like to purchase some cupcake halves. <q1 * 2> of them, please. <name1>.",
+            "spanish": "¡Buen día! Quiero comprar algunas mitades de un panecillo. <q1 * 2> de ellos, por favor. <name1>."
+        },
+        {
+            "key": "orderFractionMultiplication10",
+            "english": "I'd like to purchase cupcakes for my favorite <q1> jugglers, and these jugglers will each want <q2 * 3> thirds of a <name1> cupcake each.",
+            "spanish": "Quiero comprar panecillos para mis <q1> malabaristas favoritos. Cada malabarista querrá <q2 * 3> tercios de panecillo <name1>."
+        },
+        {
+            "key": "orderFractionMultiplication11",
+            "english": "My classmates and I will each eat exactly two-thirds of a <name1> cupcake. There are <q1 * 3> of us. Thank you so much.",
+            "spanish": "Mis compañeros de clase y yo comeremos exactamente dos tercios de un panecillo <name1>. Somos <q1 * 3>. Muchas gracias."
+        },
+        {
+            "key": "orderFractionMultiplication12",
+            "english": "One quarter of a <name1> cupcake each for my <q1 * 4> children, please. Just a bite is all they need today.",
+            "spanish": "Quiero un cuarto de un panecillo <name1> para cada uno de mis <q1 * 4> hijos, por favor. Hoy solo comerán un bocado."
+        },
+        {
+            "key": "orderFractionMultiplication13",
+            "english": "Last week I ordered <q1 * 3> cupcakes, but today I only want two thirds as many. <name1> looks delicious.",
+            "spanish": "La semana pasada pedí <q1 * 3> panecillos, pero hoy solo quiero dos tercios más. <name1> se ven deliciosos."
+        },
+        {
+            "key": "orderDecimalRounding1",
+            "english": "My computer told me I should eat <q1>.<q2><q3> <name1> cupcakes today, but you can just round that to the closest whole number.",
+            "spanish": "Mi computadora me dijo que hoy debo comer <q1>.<q2><q3> panecillos <name1>, pero puede redondear eso al número entero más cercano."
+        },
+        {
+            "key": "orderDecimalRounding2",
+            "english": "<q1>.<q2><q3> <name1> cupcakes. If I was being precise with my dessert intake, that's exactly what I would order, but you can round to the nearest whole number.",
+            "spanish": "<q1>.<q2><q3> panecillos <name1>. Si fuera preciso en mi consumo de postres, eso es exactamente lo que pediría, pero puede redondearlo al número entero más cercano."
+        },
+        {
+            "key": "orderDecimalRounding3",
+            "english": "My boss told me to order <q1>.<q2><q3> cupcakes. I assume you can just round that to the nearest integer. <name1>. Thanks.",
+            "spanish": "Mi jefe me dijo que pidiera <q1>.<q2><q3> panecillos. Supongo que puede redondear eso al entero más cercano. <name1>. Gracias."
+        },
+        {
+            "key": "orderPercentage6",
+            "english": "Last week I ordered <q1> cupcakes; today I’d just like <q2>% of that.",
+            "spanish": "La semana pasada pedí <q1> panecillos; hoy solo quiero <q2>% de eso."
+        },
+        {
+            "key": "orderPercentage7",
+            "english": "Hello, hello! I only want <q2>% of what I ordered last week -- <q1> <name1> cupcakes was just too much and I hate to waste food. Thanks.",
+            "spanish": "¡Hola, hola! Solo quiero <q2>% de lo que pedí la semana pasada: <q1> panecillos <name1> eran demasiados y odio desperdiciar comida. Gracias."
+        },
+        {
+            "key": "orderPercentage8",
+            "english": "My friends and I are buying a total of <q1> <name1> cupcakes. I'd like to order <q2>% of the total.",
+            "spanish": "Mis amigos y yo vamos a comprar un total de <q1> panecillos <name1>. Quiero <q2>% del total."
+        },
+        {
+            "key": "orderPercentage9",
+            "english": "I wanted to buy <q1> cupcakes but my doctor said that would be unhealthy, so I'd actually like only <q2>% of that.",
+            "spanish": "Quería comprar <q1> panecillos, pero mi médico dijo que no sería saludable, así que solo quiero <q2>% de eso."
+        },
+        {
+            "key": "orderPercentage10",
+            "english": "I want <q1> cupcakes total. <q2>% <name1> and the rest <name2>.",
+            "spanish": "Quiero <q1> panecillos en total. <q2>% <name1> y el resto <name2>."
+        },
+        {
+            "key": "orderPercentage11",
+            "english": "I'd like <q2>% of my order to be <q1 * (q2 / 100)> <name1> cupcakes, and the rest <name2>.",
+            "spanish": "Quiero que <q2>% de mi pedido sean <q1 * (q2 / 100)> panecillos <name1> y el resto <name2>."
+        },
+        {
+            "key": "orderPercentage12",
+            "english": "I've been waiting to order your cupcakes all day! I'll have <q1 * (q2 / 100)> <name1> cupcakes -- that's <q2>% of my order. The rest of the order are <name2>.",
+            "spanish": "¡Todo el día he querido comprar sus panecillos! Llevaré <q1 * (q2 / 100)> panecillos <name1>, que es <q2>% de mi pedido. El resto del pedido que sean <name2>."
+        },
+        {
+            "key": "orderPercentage13",
+            "english": "Beautiful shop you got! I'm going to give away <q1 * (q2 / 100)> cupcakes to my friends -- that's <q2>% of my order! All <name1> please.",
+            "spanish": "¡Tienes una hermosa tienda! Voy a regalar <q1 * (q2 / 100)> panecillos a mis amigos, ¡eso es <q2>% de mi pedido! Que todos sean <name1> por favor."
+        },
+        {
+            "key": "orderRatio1",
+            "english": "I’d like the ratio of <name1> cupcakes to my guests to be <q1> to <q2> and there will be <q2 * q3> guests.",
+            "spanish": "Quiero que la razón de panecillos <name1> a mis invitados sea <q1> a <q2> y habrá <q2 * q3> invitados."
+        },
+        {
+            "key": "orderRatio2",
+            "english": "Howdy. I'm hosting a party for <q2 * q3> musicians tonight and I'd like the ratio of <name1> cupcakes to musicians to be <q1> to <q2>. Thanks!",
+            "spanish": "¡Hola! Esta noche daré una fiesta para <q2 * q3> músicos y quiero que la razón de panecillos <name1> a músicos sea <q1> a <q2>. ¡Gracias!"
+        },
+        {
+            "key": "orderRatio3",
+            "english": "I'd like to buy <q1> <name1> cupcakes for every <q2> acrobats at tonight's festival. There are going to be <q2 * q3> acrobats.",
+            "spanish": "Quiero comprar <q1> panecillos <name1> por cada <q2> acróbatas en el festival de esta noche. Habrá <q2 * q3> acróbatas."
+        },
+        {
+            "key": "orderRatio4",
+            "english": "For every <q2> of my wonderful nieces, I want to buy <q1> <name1> cupcakes. And I have <q2 * q3> wonderful nieces.",
+            "spanish": "Por cada <q2> de mis maravillosas sobrinas, quiero comprar <q1> panecillos <name1>. Y tengo <q2 * q3> maravillosas sobrinas."
+        },
+        {
+            "key": "orderRatio5",
+            "english": "I want <(q1 + q2) *q3> cupcakes where the ratio of <name1> to <name2> is <q1> to <q2>. Thanks so much.",
+            "spanish": "Quiero <(q1 + q2) * q3> panecillos, en los que la razón de <name1> a <name2> sea <q1> a <q2>. Muchas gracias."
+        },
+        {
+            "key": "orderRatio6",
+            "english": "My order is a ratio of <name1> to <name2> cupcakes of <q1> to <q2>. A total of <(q1 + q2) *q3> cupcakes.",
+            "spanish": "Mi pedido es una razón de panecillos <name1> a <name2> de <q1> a <q2>. Un total de <(q1 + q2) * q3> panecillos."
+        },
+        {
+            "key": "orderRatio7",
+            "english": "I like my blue monster more than my red monster -- for every <q1> cupcakes I give my red monster, I give my blue monster <q2>. I'll buy <q1 * q3> <name1> for the red monster, and the appropriate number of <name2> for my blue one.",
+            "spanish": "Me gusta más mi monstruo azul que mi monstruo rojo: por cada <q1> panecillos que le doy a mi monstruo rojo, le doy <q2> a mi monstruo azul. Compraré <q1 * q3> <name1> para el monstruo rojo y la cantidad apropiada de <name2> para el azul."
+        },
+        {
+            "key": "orderRate1",
+            "english": "You see, I have this monster under my bed. And every <q1> hours my monster eats <q2> <name1> cupcakes. I’d like to buy enough for the next <q1 * q3> hours.",
+            "spanish": "Verás, tengo un monstruo debajo de mi cama. Y cada <q1> horas, mi monstruo come <q2> panecillos <name1>. Me gustaría comprar lo suficiente para las próximas <q1 * q3> horas."
+        },
+        {
+            "key": "orderRate2",
+            "english": "I had a dream of a beautiful cupcake tree, growing <q2> <name1> cupcakes every <q1> hours for <q1 * q3> hours. Please make my dream come true.",
+            "spanish": "Soñé que tenía un hermoso árbol de panecillos y cosechaba <q2> panecillos <name1> cada <q1> horas durante <q1 * q3> horas. Por favor haz realidad mi sueño."
+        },
+        {
+            "key": "orderRate3",
+            "english": "I'm training my robot to eat <name1> cupcakes. Every <q1> days it eats <q2> cupcakes and I'd like enough for the next <q1 * q3> days. Thank you kindly.",
+            "spanish": "Estoy entrenando a mi robot para que coma panecillos <name1>. Cada <q1> días come <q2> panecillos y quiero lo suficiente para los próximos <q1 * q3> días. Gracias por tu amabilidad."
+        },
+        {
+            "key": "orderRate4",
+            "english": "I'm <q1 * q3> years old, and my little brother is <q2 * q3>. We should get to decorate one <name1> cupcake for every <q3> years we've been alive.",
+            "spanish": "Tengo <q1 * q3> años y mi hermano pequeño tiene <q2 * q3> años. Debemos decorar un panecillo <name1> por cada <q3> años que hemos vivido."
+        },
+        {
+            "key": "orderPercentageGrowth1",
+            "english": "Last week I ordered <q1> cupcakes. This week I’d like <q2>% more cupcakes than that. All <name1> please.",
+            "spanish": "La semana pasada pedí <q1> panecillos. Esta semana quiero <q2>% más panecillos que eso. Todos <name1> por favor."
+        },
+        {
+            "key": "orderPercentageGrowth2",
+            "english": "I'll admit I'm a bit competitive. I want to order <q2>% more <name1> cupcakes than my rival just did, and they ordered <q1>!",
+            "spanish": "Admito que soy un poco competitivo. Quiero <q2>% más panecillos <name1> que los que acababa de pedir mi rival; ¡pidió <q1>!"
+        },
+        {
+            "key": "orderPercentageGrowth3",
+            "english": "Last week I had a meeting of <q1> people and this week I expect <q2>% more will attend. One <name1> per person. Thank you.",
+            "spanish": "La semana pasada tuve una reunión de <q1> personas y esta semana vendrán <q2>% más personas. Quiero un <name1> por persona. Gracias."
+        },
+        {
+            "key": "orderPercentageGrowth4",
+            "english": "Hi there! Three days ago I ordered <q1> <name1> cupcakes. This week I’d like <q2>% fewer than that. Thanks so much.",
+            "spanish": "¡Hola! Hace tres días pedí <q1> panecillos <name1>. Esta semana quiero <q2>% menos que eso. Muchas gracias."
+        },
+        {
+            "key": "orderPercentageGrowth5",
+            "english": "I used to order <q1> <name1> cupcakes from you. But now I want <q2>% fewer. Delicious recipes you got!",
+            "spanish": "Solía comprar <q1> panecillos <name1>. Pero ahora quiero <q2>% menos. ¡Las recetas son deliciosas!"
+        },
+        {
+            "key": "orderPercentageGrowth6",
+            "english": "I wanted to buy <q1> <name1> cupcakes but my grandma said that would be unhealthy, so I want <q2>% fewer. I'd appreciate it.",
+            "spanish": "Quería comprar <q1> panecillos <name1>, pero mi abuela dijo que no sería saludable, así que quiero <q2>% menos. Muchas gracias."
+        },
+        {
+            "key": "orderPercentageGrowth7",
+            "english": "My usual order has been <q1> incredible <name1> cupcakes, but please decrease my normal order by <q2>% today. Thanks.",
+            "spanish": "Mi pedido habitual ha sido <q1> increíbles panecillos <name1>, pero hoy por favor disminuye mi orden habitual en <q2>%. Gracias."
+        }
+    ]
+}

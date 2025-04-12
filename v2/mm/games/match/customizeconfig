@@ -1,0 +1,250 @@
+{
+    "customizeTimerDurationSeconds": 60,
+    "colors": [
+        "#03AED0",
+        "#e8a947",
+        "#b639df",
+        "#3faa79",
+        "#e95bd0",
+        "#ea735c",
+        "#dbd44f",
+        "#7391f4",
+        "#f4abb4",
+        "#c5f9b4",
+        "#c5a2f4",
+        "#d1574a",
+        "#91f47d",
+        "#bcc5c9"
+    ],
+    "version": "4.10.0",
+    "patchVersion": 0,
+    "representationPatterns": [
+        {
+            "patternType": "face",
+            "partNumber": 2,
+            "representationType": "Dice"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 2,
+            "representationType": "Domino"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 2,
+            "representationType": "LabeledArray"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 2,
+            "representationType": "Tally"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 3,
+            "representationType": "Dice"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 3,
+            "representationType": "TenFrame"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 3,
+            "representationType": "Domino"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 3,
+            "representationType": "PieChart"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 4,
+            "representationType": "Dice"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 4,
+            "representationType": "LabeledArray"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 4,
+            "representationType": "Tally"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 4,
+            "representationType": "TenFrame"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 5,
+            "representationType": "Dice"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 5,
+            "representationType": "Domino"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 5,
+            "representationType": "TenFrame"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 5,
+            "representationType": "PieChart"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 6,
+            "representationType": "Finger"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 6,
+            "representationType": "LabeledArray"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 6,
+            "representationType": "Tally"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 6,
+            "representationType": "ProgressBar"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 7,
+            "representationType": "Domino"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 7,
+            "representationType": "LabeledArray"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 7,
+            "representationType": "TenFrame"
+        },
+        {
+            "patternType": "face",
+            "partNumber": 7,
+            "representationType": "Dice"
+        }
+    ],
+    "patterns": [
+        {
+            "id": 1,
+            "type": "face",
+            "spritePrefix": "face1"
+        },
+        {
+            "id": 2,
+            "type": "face",
+            "spritePrefix": "face2"
+        },
+        {
+            "id": 3,
+            "type": "face",
+            "spritePrefix": "face3"
+        },
+        {
+            "id": 4,
+            "type": "face",
+            "spritePrefix": "face4"
+        },
+        {
+            "id": 5,
+            "type": "face",
+            "spritePrefix": "face5"
+        },
+        {
+            "id": 6,
+            "type": "face",
+            "spritePrefix": "face6"
+        },
+        {
+            "id": 7,
+            "type": "face",
+            "spritePrefix": "face7"
+        },
+        {
+            "id": 8,
+            "type": "arm",
+            "spritePrefix": "arm1"
+        },
+        {
+            "id": 9,
+            "type": "arm",
+            "spritePrefix": "arm2"
+        },
+        {
+            "id": 10,
+            "type": "arm",
+            "spritePrefix": "arm3"
+        },
+        {
+            "id": 11,
+            "type": "arm",
+            "spritePrefix": "arm4"
+        },
+        {
+            "id": 12,
+            "type": "arm",
+            "spritePrefix": "arm5"
+        },
+        {
+            "id": 13,
+            "type": "arm",
+            "spritePrefix": "arm6"
+        },
+        {
+            "id": 14,
+            "type": "arm",
+            "spritePrefix": "arm7"
+        },
+        {
+            "id": 15,
+            "type": "bodyStyle",
+            "spritePrefix": "bodyStyle1"
+        },
+        {
+            "id": 16,
+            "type": "bodyStyle",
+            "spritePrefix": "bodyStyle2"
+        },
+        {
+            "id": 17,
+            "type": "bodyStyle",
+            "spritePrefix": "bodyStyle3"
+        },
+        {
+            "id": 18,
+            "type": "bodyStyle",
+            "spritePrefix": "bodyStyle4"
+        },
+        {
+            "id": 19,
+            "type": "bodyStyle",
+            "spritePrefix": "bodyStyle5"
+        },
+        {
+            "id": 20,
+            "type": "bodyStyle",
+            "spritePrefix": "bodyStyle6"
+        },
+        {
+            "id": 21,
+            "type": "bodyStyle",
+            "spritePrefix": "bodyStyle7"
+        }
+    ]
+}
