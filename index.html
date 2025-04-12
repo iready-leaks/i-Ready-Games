@@ -12,37 +12,43 @@
 
 <body>
     <main id="main" role="main">
+        <label for="fname">First name:</label>
+        <input type="text" id="fname" name="fname" value="Billy"><br><br>
+        <label for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname" value="Bob"><br><br>
+        <label for="debug"> Debug</label>
+        <input type="checkbox" id="debug" name="debug">
         <div id="game-container">
             <div class="game-box" onclick="playGame('Bounce')">
-                <img src="images/games/fractionsBanner.jpg" alt="Bounce Game" />
+                <img src="images/games/FractionsBanner.jpg" alt="Bounce Game" />
                 <button class="play-button">Play Bounce</button>
             </div>
             <div class="game-box" onclick="playGame('CloudMachine')">
-                <img src="images/games/cloudMachineBanner.jpg" alt="Cloud Machine Game" />
+                <img src="images/games/CloudMachineBanner.jpg" alt="Cloud Machine Game" />
                 <button class="play-button">Play CloudMachine</button>
             </div>
             <div class="game-box" onclick="playGame('Cupcake')">
-                <img src="images/games/cupcakeBanner.jpg" alt="Cupcake Game" />
+                <img src="images/games/CupcakeBanner.jpg" alt="Cupcake Game" />
                 <button class="play-button">Play Cupcake</button>
             </div>
             <div class="game-box" onclick="playGame('HungryFish')">
-                <img src="images/games/hungryFishBanner.jpg" alt="Hungry Fish Game" />
+                <img src="images/games/HungryFishBanner.jpg" alt="Hungry Fish Game" />
                 <button class="play-button">Play HungryFish</button>
             </div>
             <div class="game-box" onclick="playGame('HungryGuppy')">
-                <img src="images/games/hungryGuppyBanner.jpg" alt="Hungry Guppy Game" />
+                <img src="images/games/HungryGuppyBanner.jpg" alt="Hungry Guppy Game" />
                 <button class="play-button">Play HungryGuppy</button>
             </div>
             <div class="game-box" onclick="playGame('Match')">
-                <img src="images/games/matchBanner.jpg" alt="Match Game" />
+                <img src="images/games/MatchBanner.jpg" alt="Match Game" />
                 <button class="play-button">Play Match</button>
             </div>
             <div class="game-box" onclick="playGame('Pizza')">
-                <img src="images/games/pizzaBanner.jpg" alt="Pizza Game" />
+                <img src="images/games/PizzaBanner.jpg" alt="Pizza Game" />
                 <button class="play-button">Play Pizza</button>
             </div>
             <div class="game-box" onclick="playGame('Zoom')">
-                <img src="images/games/zoomBanner.jpg" alt="Zoom Game" />
+                <img src="images/games/ZoomBanner.jpg" alt="Zoom Game" />
                 <button class="play-button">Play Zoom</button>
             </div>
             <div class="game-box" onclick="playGame('Fluency')">
@@ -74,7 +80,7 @@
                 <button class="play-button">Play Wizard Pinball</button>
             </div>
             <div class="game-box" onclick="playFlashGame('AstroBoard')">
-                <img src="images/games/Astroboard.png" alt="Astro Board" />
+                <img src="images/games/AstroBoard.png" alt="Astro Board" />
                 <button class="play-button">Play Astro Board</button>
             </div>
             <div class="game-box" onclick="playFlashGame('LogRolling')">
@@ -94,11 +100,11 @@
                 <button class="play-button">Play Eggscapade!</button>
             </div>
             <div class="game-box" onclick="playFlashGame('SpaceGame')">
-                <img src="images/games/spaceGame.png" alt="Space Game" />
+                <img src="images/games/SpaceGame.png" alt="Space Game" />
                 <button class="play-button">Play Space Game</button>
             </div>
             <div class="game-box" onclick="playFlashGame('WaterGame')">
-                <img src="images/games/waterGame.png" alt="Water Game" />
+                <img src="images/games/WaterGame.png" alt="Water Game" />
                 <button class="play-button">Play Water Game</button>
             </div>
         </div>
@@ -106,6 +112,7 @@
     <footer id="footer" role="contentinfo">
         <script src="UnityLoader.js"></script>
         <script defer src="loader.js"></script>
+        <script src="fakeConnection.js"></script>
         <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
     </footer>
 </body>

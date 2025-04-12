@@ -462,6 +462,7 @@ function createUnityInstance(e, t, r) {
         ,
         a.prototype.open = function(e, r, n, a, s) {
             r = r.replace("https://dev-g-api.i-ready.com/", location.href);
+            r = r.replace("https://g-api.i-ready.com/", location.href);
 
             return this.cache.result = o(t(r), this.cache.company, this.cache.product, Date.now()),
             this.cache.enabled = ["must-revalidate", "immutable"].indexOf(this.cache.control) != -1 && "GET" == e && this.cache.result.url.match("^https?://") && ("undefined" == typeof n || n) && "undefined" == typeof a && "undefined" == typeof s,
