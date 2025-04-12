@@ -14,7 +14,7 @@ function playRewardGame(name) {
     document.getElementById("game-container").remove();
     let frame = document.createElement("iframe");
     frame.id = "unity-canvas";
-    frame.src = "/rewardGames/game-" + name + "/"
+    frame.src = "rewardGames/game-" + name + "/"
     frame.width = screen.width / 2;
     frame.height = screen.height / 2;
 
