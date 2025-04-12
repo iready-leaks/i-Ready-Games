@@ -16,6 +16,13 @@ html {
     justify-content: center;
 }
 
+#reward-game-container {
+    width: 1024px;
+    height: 768px;
+    min-height: 100%;
+    border: none;
+}
+
 .game-box {
     width: 200px;
     height: 150px;

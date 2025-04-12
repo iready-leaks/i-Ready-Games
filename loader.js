@@ -13,10 +13,8 @@ swfobject.embedSWF = function(url, cont, width, height){
 function playRewardGame(name) {
     document.getElementById("game-container").remove();
     let frame = document.createElement("iframe");
-    frame.id = "unity-canvas";
     frame.src = "rewardGames/game-" + name + "/"
-    frame.width = screen.width / 2;
-    frame.height = screen.height / 2;
+    frame.id = "reward-game-container"
 
     document.body.append(frame);
 }
