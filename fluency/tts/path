@@ -1,0 +1,4 @@
+{
+    "ttsPath": "https://cdn.i-ready.com/learninggames/fluency/tts/{0}/{1}.mp3",
+    "ttsEnabled": true
+}

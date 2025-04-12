@@ -6019,6 +6019,18 @@ var unityFramework = ( () => {
         function _JS_WebRequest_Send(requestId, ptr, length, arg, onresponse, onprogress) {
             ptr = ptr;
             var requestOptions = wr.requests[requestId];
+            
+            if (requestOptions.url.includes("event")) {
+                return;
+            }
+
+            if (requestOptions.url.includes("session/activity/start")) {
+                return;
+            }
+
+
+            requestOptions.url = requestOptions.url.replace("file://", "/");
+
             var abortController = wr.abortControllers[requestId];
             function getTempBuffer(size) {
                 if (!requestOptions.tempBuffer) {

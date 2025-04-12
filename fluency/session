@@ -1,0 +1,1513 @@
+{
+    "id": "305b26c7-8dd9-4aa0-8f6b-f49d89912790",
+    "status": "Incomplete",
+    "publisherVerification": "",
+    "activitySets": [
+        {
+            "activitySetType": "Compulsory",
+            "activities": [
+                {
+                    "id": "5eb69b52-4576-4499-8eff-ff13f65f17f4",
+                    "fluencyFoci": [
+                        "DivideWithTwo",
+                        "DivideWithTen"
+                    ],
+                    "fluencyFactCategory": "Division",
+                    "fluencyStage": "Accuracy",
+                    "fluencyFacts": [
+                        {
+                            "operation": "Division",
+                            "operand1": 6,
+                            "operand2": 2,
+                            "result": 3,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 20,
+                            "operand2": 10,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo",
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 18,
+                            "operand2": 9,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 16,
+                            "operand2": 2,
+                            "result": 8,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 12,
+                            "operand2": 6,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 10,
+                            "operand2": 2,
+                            "result": 5,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 8,
+                            "operand2": 2,
+                            "result": 4,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 4,
+                            "operand2": 2,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 2,
+                            "operand2": 2,
+                            "result": 1,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 18,
+                            "operand2": 2,
+                            "result": 9,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 14,
+                            "operand2": 7,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 12,
+                            "operand2": 2,
+                            "result": 6,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 6,
+                            "operand2": 3,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 20,
+                            "operand2": 2,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo",
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 2,
+                            "operand2": 1,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 16,
+                            "operand2": 8,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 14,
+                            "operand2": 2,
+                            "result": 7,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 10,
+                            "operand2": 5,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 8,
+                            "operand2": 4,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 30,
+                            "operand2": 10,
+                            "result": 3,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 80,
+                            "operand2": 8,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 60,
+                            "operand2": 6,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 50,
+                            "operand2": 5,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 10,
+                            "operand2": 10,
+                            "result": 1,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 100,
+                            "operand2": 10,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 40,
+                            "operand2": 4,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 90,
+                            "operand2": 9,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 70,
+                            "operand2": 10,
+                            "result": 7,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 30,
+                            "operand2": 3,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 50,
+                            "operand2": 10,
+                            "result": 5,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 40,
+                            "operand2": 10,
+                            "result": 4,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 80,
+                            "operand2": 10,
+                            "result": 8,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 60,
+                            "operand2": 10,
+                            "result": 6,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 10,
+                            "operand2": 1,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 90,
+                            "operand2": 10,
+                            "result": 9,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 70,
+                            "operand2": 7,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTen"
+                            ]
+                        }
+                    ],
+                    "assetGroupId": "Bingo",
+                    "status": "Started"
+                }
+            ]
+        },
+        {
+            "activitySetType": "Choice",
+            "activities": [
+                {
+                    "id": "3da7577d-ff16-47b4-b546-59d5b1f336ae",
+                    "fluencyFoci": [
+                        "MakeATen",
+                        "UseNearDoubles",
+                        "UseDoubles",
+                        "AddInAnyOrder",
+                        "CountOnToAdd",
+                        "SubtractWithTeens",
+                        "AddWithTeens",
+                        "SubtractPastTen"
+                    ],
+                    "fluencyFactCategory": "Known",
+                    "fluencyStage": "Automaticity",
+                    "fluencyFacts": [
+                        {
+                            "operation": "Addition",
+                            "operand1": 7,
+                            "operand2": 8,
+                            "result": 15,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen",
+                                "UseNearDoubles"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 7,
+                            "operand2": 5,
+                            "result": 12,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 6,
+                            "operand2": 8,
+                            "result": 14,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 6,
+                            "operand2": 5,
+                            "result": 11,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen",
+                                "UseNearDoubles"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 5,
+                            "operand2": 7,
+                            "result": 12,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 4,
+                            "operand2": 8,
+                            "result": 12,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 3,
+                            "operand2": 8,
+                            "result": 11,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 9,
+                            "operand2": 7,
+                            "result": 16,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 9,
+                            "operand2": 4,
+                            "result": 13,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 8,
+                            "operand2": 9,
+                            "result": 17,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen",
+                                "UseNearDoubles"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 8,
+                            "operand2": 6,
+                            "result": 14,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 8,
+                            "operand2": 3,
+                            "result": 11,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 7,
+                            "operand2": 7,
+                            "result": 14,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "UseDoubles",
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 7,
+                            "operand2": 4,
+                            "result": 11,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 6,
+                            "operand2": 7,
+                            "result": 13,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen",
+                                "UseNearDoubles"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 5,
+                            "operand2": 9,
+                            "result": 14,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 5,
+                            "operand2": 6,
+                            "result": 11,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen",
+                                "UseNearDoubles"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 4,
+                            "operand2": 7,
+                            "result": 11,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 9,
+                            "operand2": 9,
+                            "result": 18,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "UseDoubles",
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 2,
+                            "operand2": 9,
+                            "result": 11,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "AddInAnyOrder",
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 9,
+                            "operand2": 6,
+                            "result": 15,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 9,
+                            "operand2": 3,
+                            "result": 12,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 8,
+                            "operand2": 8,
+                            "result": 16,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "UseDoubles",
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 8,
+                            "operand2": 5,
+                            "result": 13,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 7,
+                            "operand2": 9,
+                            "result": 16,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 7,
+                            "operand2": 6,
+                            "result": 13,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen",
+                                "UseNearDoubles"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 6,
+                            "operand2": 9,
+                            "result": 15,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 6,
+                            "operand2": 6,
+                            "result": 12,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "UseDoubles",
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 5,
+                            "operand2": 8,
+                            "result": 13,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 4,
+                            "operand2": 9,
+                            "result": 13,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 3,
+                            "operand2": 9,
+                            "result": 12,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 9,
+                            "operand2": 8,
+                            "result": 17,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen",
+                                "UseNearDoubles"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 9,
+                            "operand2": 5,
+                            "result": 14,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 9,
+                            "operand2": 2,
+                            "result": 11,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "CountOnToAdd",
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 8,
+                            "operand2": 7,
+                            "result": 15,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen",
+                                "UseNearDoubles"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 8,
+                            "operand2": 4,
+                            "result": 12,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MakeATen"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 15,
+                            "operand2": 0,
+                            "result": 15,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 4,
+                            "operand2": 14,
+                            "result": 18,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "AddWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 18,
+                            "operand2": 0,
+                            "result": 18,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 1,
+                            "operand2": 12,
+                            "result": 13,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "AddWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 16,
+                            "operand2": 13,
+                            "result": 3,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 16,
+                            "operand2": 7,
+                            "result": 9,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractPastTen"
+                            ]
+                        },
+                        {
+                            "operation": "Addition",
+                            "operand1": 15,
+                            "operand2": 4,
+                            "result": 19,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "AddWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 18,
+                            "operand2": 5,
+                            "result": 13,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 18,
+                            "operand2": 4,
+                            "result": 14,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 20,
+                            "operand2": 4,
+                            "result": 16,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 20,
+                            "operand2": 14,
+                            "result": 6,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractWithTeens"
+                            ]
+                        },
+                        {
+                            "operation": "Subtraction",
+                            "operand1": 18,
+                            "operand2": 11,
+                            "result": 7,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "SubtractWithTeens"
+                            ]
+                        }
+                    ],
+                    "assetGroupId": "Bingo",
+                    "status": "NotStarted"
+                },
+                {
+                    "id": "84781ba4-eb25-4971-99e2-f4780f03f3bb",
+                    "fluencyFoci": [
+                        "MultiplyByFive",
+                        "MultiplyByZeroAndOne",
+                        "MultiplyANumberByItself",
+                        "MultiplyFiveByANumber",
+                        "MultiplyTwoByANumber",
+                        "MultiplyTenByANumber"
+                    ],
+                    "fluencyFactCategory": "Multiplication",
+                    "fluencyStage": "Automaticity",
+                    "fluencyFacts": [
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 6,
+                            "operand2": 5,
+                            "result": 30,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByFive"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 3,
+                            "operand2": 5,
+                            "result": 15,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByFive"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 1,
+                            "operand2": 5,
+                            "result": 5,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne",
+                                "MultiplyByFive"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 8,
+                            "operand2": 5,
+                            "result": 40,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByFive"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 5,
+                            "operand2": 5,
+                            "result": 25,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByFive",
+                                "MultiplyFiveByANumber",
+                                "MultiplyANumberByItself"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 2,
+                            "operand2": 5,
+                            "result": 10,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByFive",
+                                "MultiplyTwoByANumber"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 7,
+                            "operand2": 5,
+                            "result": 35,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByFive"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 4,
+                            "operand2": 5,
+                            "result": 20,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByFive"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 10,
+                            "operand2": 5,
+                            "result": 50,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyTenByANumber",
+                                "MultiplyByFive"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 9,
+                            "operand2": 5,
+                            "result": 45,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByFive"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 5,
+                            "operand2": 8,
+                            "result": 40,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyFiveByANumber"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 5,
+                            "operand2": 1,
+                            "result": 5,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne",
+                                "MultiplyFiveByANumber"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 1,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 1,
+                            "operand2": 8,
+                            "result": 8,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 9,
+                            "operand2": 1,
+                            "result": 9,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 8,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 5,
+                            "operand2": 9,
+                            "result": 45,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyFiveByANumber"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 1,
+                            "operand2": 4,
+                            "result": 4,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 3,
+                            "operand2": 1,
+                            "result": 3,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 3,
+                            "operand2": 3,
+                            "result": 9,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyANumberByItself"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 5,
+                            "operand2": 4,
+                            "result": 20,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyFiveByANumber"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 9,
+                            "operand2": 9,
+                            "result": 81,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyANumberByItself"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 6,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 1,
+                            "operand2": 3,
+                            "result": 3,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 4,
+                            "operand2": 1,
+                            "result": 4,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 0,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne",
+                                "MultiplyANumberByItself"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 7,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 9,
+                            "operand2": 0,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 4,
+                            "operand2": 4,
+                            "result": 16,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyANumberByItself"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 1,
+                            "operand2": 9,
+                            "result": 9,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 1,
+                            "operand2": 7,
+                            "result": 7,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 1,
+                            "operand2": 0,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 5,
+                            "operand2": 6,
+                            "result": 30,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyFiveByANumber"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 5,
+                            "operand2": 3,
+                            "result": 15,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyFiveByANumber"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 6,
+                            "operand2": 6,
+                            "result": 36,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyANumberByItself"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 10,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 4,
+                            "operand2": 0,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 5,
+                            "operand2": 0,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 3,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 1,
+                            "operand2": 1,
+                            "result": 1,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne",
+                                "MultiplyANumberByItself"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 6,
+                            "operand2": 0,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 9,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 8,
+                            "operand2": 1,
+                            "result": 8,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 4,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 7,
+                            "operand2": 0,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 0,
+                            "operand2": 5,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 2,
+                            "operand2": 0,
+                            "result": 0,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyByZeroAndOne"
+                            ]
+                        },
+                        {
+                            "operation": "Multiplication",
+                            "operand1": 8,
+                            "operand2": 8,
+                            "result": 64,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "MultiplyANumberByItself"
+                            ]
+                        }
+                    ],
+                    "assetGroupId": "WhaleSpout",
+                    "status": "NotStarted"
+                },
+                {
+                    "id": "9501b69b-ea3b-4b28-ada8-f3f001a51d15",
+                    "fluencyFoci": [
+                        "DivideWithTwo"
+                    ],
+                    "fluencyFactCategory": "DivideWithTwo",
+                    "fluencyStage": "Accuracy",
+                    "fluencyFacts": [
+                        {
+                            "operation": "Division",
+                            "operand1": 6,
+                            "operand2": 2,
+                            "result": 3,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 10,
+                            "operand2": 2,
+                            "result": 5,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 8,
+                            "operand2": 2,
+                            "result": 4,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 4,
+                            "operand2": 2,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 2,
+                            "operand2": 2,
+                            "result": 1,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 6,
+                            "operand2": 3,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 2,
+                            "operand2": 1,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 10,
+                            "operand2": 5,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        },
+                        {
+                            "operation": "Division",
+                            "operand1": 8,
+                            "operand2": 4,
+                            "result": 2,
+                            "weight": 1.0,
+                            "relevantFoci": [
+                                "DivideWithTwo"
+                            ]
+                        }
+                    ],
+                    "assetGroupId": "FoodFrenzy",
+                    "status": "NotStarted"
+                }
+            ]
+        }
+    ],
+    "type": "Primary"
+}
