@@ -108,13 +108,6 @@
     <script src="libs/audiocogs/aurora.js/v0.4.4/aurora.js"></script>
     <script src="libs/audiocogs/mp3.js/v0.1.0/mp3.js"></script>
     <script>
-        // without setting the domain here we will have CORS error when accessing the parents variables
-        var arrDomain = location.hostname.split('.');
-        if (arrDomain.length > 2 && !/amazonaws/.test(location.hostname) && !/(?:[0-9]{1,3}\.){3}[0-9]{1,3}/.test(location.hostname)) {
-            arrDomain.shift();
-            document.domain = arrDomain.join('.');
-        }
-
         var init = window.parent.window.gameBridge ? window.parent.window.gameBridge.initialized : function() {};
 
         function displayGame() {
