@@ -6029,7 +6029,7 @@ var unityFramework = ( () => {
             }
 
 
-            requestOptions.url = requestOptions.url.replace("file://", "/");
+            requestOptions.url = requestOptions.url.replace("file://", "");
 
             var abortController = wr.abortControllers[requestId];
             function getTempBuffer(size) {
